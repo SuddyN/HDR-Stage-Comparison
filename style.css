@@ -1,22 +1,18 @@
-@font-face
-{
+@font-face {
 	font-family: 'FontAwesome';
 	src: url('../fonts/fa-regular-400.woff2') format('woff2');
 }
 
-@font-face
-{
+@font-face {
 	font-family: 'FontAwesome';
 	src: url('../fonts/fa-brands-400.woff2') format('woff2');
 }
 
-.fa
-{
+.fa {
 	font-family: 'FontAwesome';
 }
 
-body
-{
+body {
 	margin: 0;
 	overflow: hidden;
 	font-family: sans-serif;
@@ -26,14 +22,13 @@ body
 	font-size: 15px;
 }
 
-body, canvas
-{
+body,
+canvas {
 	width: 100vw;
 	height: 100vh;
 }
 
-#options
-{
+#options {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -44,49 +39,41 @@ body, canvas
 	overflow-y: auto;
 }
 
-#options>*
-{
+#options>* {
 	padding-bottom: 10px;
 }
 
-#toggleOptions::before
-{
+#toggleOptions::before {
 	content: "\f2d3";
 }
 
-.hide #toggleOptions::before
-{
+.hide #toggleOptions::before {
 	content: "\f013";
 }
 
-.hide #buttons>*:not(#toggleOptions)
-{
+.hide #buttons>*:not(#toggleOptions) {
 	display: none;
 }
 
-#stagelist>*:first-child
-{
+#stagelist>*:first-child {
 	padding-bottom: 5px;
 }
 
-label
-{
+label {
 	display: block;
 }
 
-label>*
-{
+label>* {
 	vertical-align: bottom;
 }
 
-button, [type=checkbox]
-{
+button,
+[type=checkbox] {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 }
 
-[type=checkbox]
-{
+[type=checkbox] {
 	box-sizing: border-box;
 	width: 12px;
 	height: 12px;
@@ -98,18 +85,15 @@ button, [type=checkbox]
 	color: white;
 }
 
-[type=checkbox]:checked
-{
+[type=checkbox]:checked {
 	background-color: #fff;
 }
 
-[type="number"]
-{
+[type="number"] {
 	width: 60px;
 }
 
-#buttons
-{
+#buttons {
 	position: absolute;
 	width: 100px;
 	text-align: right;
@@ -118,8 +102,7 @@ button, [type=checkbox]
 	z-index: 5;
 }
 
-button
-{
+button {
 	background-color: transparent;
 	color: white;
 	border: none;
@@ -130,42 +113,34 @@ button
 	padding: 0;
 }
 
-button:hover
-{
+button:hover {
 	color: #ddd;
 }
 
-button:active
-{
+button:active {
 	color: #aaa;
 }
 
-select
-{
+select {
 	width: 130px;
 }
 
-#downloadButton
-{
+#downloadButton {
 	display: none;
 }
 
-#options.hide>*:not(:first-child)
-{
+#options.hide>*:not(:first-child) {
 	display: none;
 }
 
-#options:not(.showStats) .stat
-{
+#options:not(.showStats) .stat {
 	display: none;
 }
 
-.showStats #stagelist label
-{
+.showStats #stagelist label {
 	padding: 3px 0;
 }
 
-.stat
-{
+.stat {
 	font-size: 10px;
 }

@@ -7,8 +7,7 @@ var rect = {
 
 
 
-function fixDecimals(n)
-{
+function fixDecimals(n) {
 	/*n = n.toString();
 
 	var match = n.indexOf("0000");
@@ -23,8 +22,7 @@ function fixDecimals(n)
 	return Math.round(n * 1000) / 1000;
 }
 
-function sort(arr, func)
-{
+function sort(arr, func) {
 	// arr.sort((a, b) => func(a) - func(b));
 	arr.sort((a, b) => sortFunc(func, a, b));
 }
@@ -34,76 +32,61 @@ function sort(arr, func)
 	return 0;
 }*/
 
-function sortFunc(func, a, b)
-{
+function sortFunc(func, a, b) {
 	a = func(a);
 	b = func(b);
 
 	if (a < b) { return -1; }
-    if (a > b) { return 1; }
-    return 0;
+	if (a > b) { return 1; }
+	return 0;
 }
 
-function alphabetical(stage)
-{
+function alphabetical(stage) {
 	return stage.name;
 }
 
-function platformCount(stage)
-{
+function platformCount(stage) {
 	return stage.platforms.length;
 }
 
-function blastzoneLeft(stage)
-{
+function blastzoneLeft(stage) {
 	return stage.blast_zones[0];
 }
 
-function blastzoneRight(stage)
-{
+function blastzoneRight(stage) {
 	return stage.blast_zones[1];
 }
 
-function blastzoneTop(stage)
-{
+function blastzoneTop(stage) {
 	return stage.blast_zones[2];
 }
 
-function blastzoneBottom(stage)
-{
+function blastzoneBottom(stage) {
 	return stage.blast_zones[3];
 }
 
-function cameraWidth(stage)
-{
+function cameraWidth(stage) {
 	return stage.camera[1] - stage.camera[0];
 }
 
-function cameraHeight(stage)
-{
+function cameraHeight(stage) {
 	return stage.camera[2] - stage.camera[3];
 }
 
-function blastzoneWidth(stage)
-{
+function blastzoneWidth(stage) {
 	return blastzoneRight(stage) - blastzoneLeft(stage);
 }
 
-function blastzoneHeight(stage)
-{
+function blastzoneHeight(stage) {
 	return blastzoneTop(stage) - blastzoneBottom(stage);
 }
 
-function stageLeft(stage)
-{
+function stageLeft(stage) {
 	var most = 0;
 
-	for (var i = 0; i < stage.collisions.length; i++)
-	{
-		for (var j = 0; j < stage.collisions[i].vertex.length; j++)
-		{
-			if (stage.collisions[i].vertex[j][0] < most && !stage.collisions[i].nocalc)
-			{
+	for (var i = 0; i < stage.collisions.length; i++) {
+		for (var j = 0; j < stage.collisions[i].vertex.length; j++) {
+			if (stage.collisions[i].vertex[j][0] < most && !stage.collisions[i].nocalc) {
 				most = stage.collisions[i].vertex[j][0];
 			}
 		}
@@ -112,16 +95,12 @@ function stageLeft(stage)
 	return most;
 }
 
-function stageRight(stage)
-{
+function stageRight(stage) {
 	var most = 0;
 
-	for (var i = 0; i < stage.collisions.length; i++)
-	{
-		for (var j = 0; j < stage.collisions[i].vertex.length; j++)
-		{
-			if (stage.collisions[i].vertex[j][0] > most && stage.collisions[i].vertex[j][1] > stage.camera[3] && !stage.collisions[i].nocalc)
-			{
+	for (var i = 0; i < stage.collisions.length; i++) {
+		for (var j = 0; j < stage.collisions[i].vertex.length; j++) {
+			if (stage.collisions[i].vertex[j][0] > most && stage.collisions[i].vertex[j][1] > stage.camera[3] && !stage.collisions[i].nocalc) {
 				most = stage.collisions[i].vertex[j][0];
 			}
 		}
@@ -130,16 +109,12 @@ function stageRight(stage)
 	return most;
 }
 
-function stageTop(stage)
-{
+function stageTop(stage) {
 	var most = 0;
 
-	for (var i = 0; i < stage.collisions.length; i++)
-	{
-		for (var j = 0; j < stage.collisions[i].vertex.length; j++)
-		{
-			if (stage.collisions[i].vertex[j][1] > most && stage.collisions[i].vertex[j][1] > stage.camera[3] && !stage.collisions[i].nocalc)
-			{
+	for (var i = 0; i < stage.collisions.length; i++) {
+		for (var j = 0; j < stage.collisions[i].vertex.length; j++) {
+			if (stage.collisions[i].vertex[j][1] > most && stage.collisions[i].vertex[j][1] > stage.camera[3] && !stage.collisions[i].nocalc) {
 				most = stage.collisions[i].vertex[j][1];
 			}
 		}
@@ -168,16 +143,12 @@ function stageTop(stage)
 }*/
 
 
-function platformLeft(stage)
-{
+function platformLeft(stage) {
 	var most = 0;
 
-	for (var i = 0; i < stage.platforms.length; i++)
-	{
-		for (var j = 0; j < stage.platforms[i].vertex.length; j++)
-		{
-			if (stage.platforms[i].vertex[j][0] < most)
-			{
+	for (var i = 0; i < stage.platforms.length; i++) {
+		for (var j = 0; j < stage.platforms[i].vertex.length; j++) {
+			if (stage.platforms[i].vertex[j][0] < most) {
 				most = stage.platforms[i].vertex[j][0];
 			}
 		}
@@ -186,16 +157,12 @@ function platformLeft(stage)
 	return most;
 }
 
-function platformRight(stage)
-{
+function platformRight(stage) {
 	var most = 0;
 
-	for (var i = 0; i < stage.platforms.length; i++)
-	{
-		for (var j = 0; j < stage.platforms[i].vertex.length; j++)
-		{
-			if (stage.platforms[i].vertex[j][0] > most)
-			{
+	for (var i = 0; i < stage.platforms.length; i++) {
+		for (var j = 0; j < stage.platforms[i].vertex.length; j++) {
+			if (stage.platforms[i].vertex[j][0] > most) {
 				most = stage.platforms[i].vertex[j][0];
 			}
 		}
@@ -204,26 +171,20 @@ function platformRight(stage)
 	return most;
 }
 
-function platformOrStageLeft(stage)
-{
+function platformOrStageLeft(stage) {
 	return Math.min(platformLeft(stage), stageLeft(stage));
 }
 
-function platformOrStageRight(stage)
-{
+function platformOrStageRight(stage) {
 	return Math.max(platformRight(stage), stageRight(stage));
 }
 
-function platformTop(stage)
-{
+function platformTop(stage) {
 	var most = 0;
 
-	for (var i = 0; i < stage.platforms.length; i++)
-	{
-		for (var j = 0; j < stage.platforms[i].vertex.length; j++)
-		{
-			if (stage.platforms[i].vertex[j][1] > most)
-			{
+	for (var i = 0; i < stage.platforms.length; i++) {
+		for (var j = 0; j < stage.platforms[i].vertex.length; j++) {
+			if (stage.platforms[i].vertex[j][1] > most) {
 				most = stage.platforms[i].vertex[j][1];
 			}
 		}
@@ -232,16 +193,12 @@ function platformTop(stage)
 	return Math.max(most, stageTop(stage));
 }
 
-function platformBottom(stage)
-{
+function platformBottom(stage) {
 	var most = platformTop(stage);
 
-	for (var i = 0; i < stage.platforms.length; i++)
-	{
-		for (var j = 0; j < stage.platforms[i].vertex.length; j++)
-		{
-			if (stage.platforms[i].vertex[j][1] < most)
-			{
+	for (var i = 0; i < stage.platforms.length; i++) {
+		for (var j = 0; j < stage.platforms[i].vertex.length; j++) {
+			if (stage.platforms[i].vertex[j][1] < most) {
 				most = stage.platforms[i].vertex[j][1];
 			}
 		}
@@ -250,100 +207,81 @@ function platformBottom(stage)
 	return Math.max(most, stageTop(stage));
 }
 
-function stageToPlatformTop(stage)
-{
+function stageToPlatformTop(stage) {
 	return platformTop(stage) - stageTop(stage);
 }
 
-function stageToPlatformBottom(stage)
-{
+function stageToPlatformBottom(stage) {
 	return platformBottom(stage) - stageTop(stage);
 }
 
-function stageWidth(stage)
-{
+function stageWidth(stage) {
 	return stageRight(stage) - stageLeft(stage);
 }
 
-function stageLeftToBlastzoneLeft(stage)
-{
+function stageLeftToBlastzoneLeft(stage) {
 	return stageLeft(stage) - blastzoneLeft(stage);
 }
 
-function stageRightToBlastzoneRight(stage)
-{
+function stageRightToBlastzoneRight(stage) {
 	return blastzoneRight(stage) - stageRight(stage);
 }
 
-function stageToBlastzoneTop(stage)
-{
+function stageToBlastzoneTop(stage) {
 	return blastzoneTop(stage) - stageTop(stage);
 }
 
-function stageToBlastzoneBottom(stage)
-{
+function stageToBlastzoneBottom(stage) {
 	return stageTop(stage) - blastzoneBottom(stage);
 }
 
 
-function stageToCameraBottom(stage)
-{
+function stageToCameraBottom(stage) {
 	return stageTop(stage) - stage.camera[3];
 }
 
 
-function platformWidth(stage)
-{
+function platformWidth(stage) {
 	return platformRight(stage) - platformLeft(stage);
 }
 
-function platformHeight(stage)
-{
+function platformHeight(stage) {
 	return platformTop(stage) - platformBottom(stage);
 }
 
-function platformAndStageWidth(stage)
-{
+function platformAndStageWidth(stage) {
 	return platformOrStageRight(stage) - platformOrStageLeft(stage);
 }
 
-function platformOrStageLeftToBlastzoneLeft(stage)
-{
+function platformOrStageLeftToBlastzoneLeft(stage) {
 	return platformOrStageLeft(stage) - blastzoneLeft(stage);
 }
 
-function platformOrStageRightToBlastzoneRight(stage)
-{
+function platformOrStageRightToBlastzoneRight(stage) {
 	return blastzoneRight(stage) - platformOrStageRight(stage);
 }
 
-function platformToBlastzoneTop(stage)
-{
+function platformToBlastzoneTop(stage) {
 	return blastzoneTop(stage) - platformTop(stage);
 }
 
 
-function stageAsymmetry(stage)
-{
+function stageAsymmetry(stage) {
 	return stageLeft(stage) + stageRight(stage);
 }
 
-function platformAsymmetry(stage)
-{
+function platformAsymmetry(stage) {
 	return platformLeft(stage) + platformRight(stage);
 }
 
-function blastzoneAsymmetry(stage)
-{
+function blastzoneAsymmetry(stage) {
 	return blastzoneLeft(stage) + blastzoneRight(stage);
 }
 
-function stageToBlastzoneAsymmetry(stage)
-{
+function stageToBlastzoneAsymmetry(stage) {
 	return stageLeftToBlastzoneLeft(stage) - stageRightToBlastzoneRight(stage);
 }
 
-function platformToBlastzoneAsymmetry(stage)
-{
+function platformToBlastzoneAsymmetry(stage) {
 	return platformOrStageLeftToBlastzoneLeft(stage) - platformOrStageRightToBlastzoneRight(stage);
 }

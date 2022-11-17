@@ -1,121 +1,136 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title>Super Smash Bros. Ultimate Stage Comparison Tool</title>
-		<meta name="description" content="Compare stages, platforms, camera bounds, and blast zones overlaid on top of each other. A tournament stage comparison tool for Super Smash Bros. Ultimate.">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<meta name="apple-mobile-web-app-capable" content="yes">
-		<meta name="apple-mobile-web-app-title" content="Stages">
+	<title>Super Smash Bros. Ultimate Stage Comparison Tool</title>
+	<meta name="description"
+		content="Compare stages, platforms, camera bounds, and blast zones overlaid on top of each other. A tournament stage comparison tool for Super Smash Bros. Ultimate.">
 
-		<link rel="icon" href="../images/icons/favicon/favicon-16.png" type="image/png" sizes="16x16">
-		<link rel="icon" href="../images/icons/favicon/favicon-32.png" type="image/png" sizes="32x32">
-		<link rel="icon" href="../images/icons/favicon/favicon-48.png" type="image/png" sizes="48x48">
-		<link rel="icon" href="../images/icons/favicon/favicon-64.png" type="image/png" sizes="64x64">
-		<link rel="icon" href="../images/icons/favicon/favicon.svg" type="image/svg+xml" sizes="any">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="Stages">
 
-		<link rel="apple-touch-icon" href="../images/icons/stage-comparison.png">
-		<link rel="apple-touch-startup-image" href="../images/icons/splash.png">
+	<link rel="icon" href="../images/icons/favicon/favicon-16.png" type="image/png" sizes="16x16">
+	<link rel="icon" href="../images/icons/favicon/favicon-32.png" type="image/png" sizes="32x32">
+	<link rel="icon" href="../images/icons/favicon/favicon-48.png" type="image/png" sizes="48x48">
+	<link rel="icon" href="../images/icons/favicon/favicon-64.png" type="image/png" sizes="64x64">
+	<link rel="icon" href="../images/icons/favicon/favicon.svg" type="image/svg+xml" sizes="any">
 
-		<meta name="twitter:card" content="summary">
-		<meta name="twitter:site" content="@Tournameta">
-		<meta name="twitter:title" content="Super Smash Bros. Ultimate Stage Comparison Tool">
-		<meta name="twitter:description" content="Compare stages, platforms, camera bounds, and blast zones overlaid on top of each other. A tournament stage comparison tool for Super Smash Bros. Ultimate.">
-		<meta name="twitter:image" content="http://tournameta.com/images/icons/stage-comparison.png">
+	<link rel="apple-touch-icon" href="../images/icons/stage-comparison.png">
+	<link rel="apple-touch-startup-image" href="../images/icons/splash.png">
 
-		<link rel="manifest" href="manifest.json">
-		<link rel="stylesheet" href="../fonts/fontawesome.css">
-		<link rel="stylesheet" href="style.css">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@Tournameta">
+	<meta name="twitter:title" content="Super Smash Bros. Ultimate Stage Comparison Tool">
+	<meta name="twitter:description"
+		content="Compare stages, platforms, camera bounds, and blast zones overlaid on top of each other. A tournament stage comparison tool for Super Smash Bros. Ultimate.">
+	<meta name="twitter:image" content="http://tournameta.com/images/icons/stage-comparison.png">
 
-		<script src="stages.js?v=13"></script>
-		<script src="sort.js?v=800"></script>
-		<script src="script.js?v=10"></script>
-	</head>
-	<body>
-		<canvas></canvas>
-		<div id="options">
-			<div id="buttons">
-				<a href="../" target="_blank"><button class="fa fa-home" title="Tournameta homepage"></button></a>
-				<button id="snapshot" class="fa fa-camera" title="Download a snapshot"></button>
-				<a id="downloadButton" download="Stage Comparison"></a>
-				<button id="toggleOptions" class="fa" title="Toggle settings"></button>
-			</div>
-			<div id="display">
-				<label data-display="stage">
-					<input type="checkbox" checked>
-					<span>Stage</span>
-				</label>
-				<label data-display="platforms">
-					<input type="checkbox" checked>
-					<span>Platforms</span>
-				</label>
-				<label data-display="camera">
-					<input type="checkbox" checked>
-					<span>Camera</span>
-				</label>
-				<label data-display="blastzone">
-					<input type="checkbox" checked>
-					<span>Blastzone</span>
-				</label>
-				<label title="Show sort values">
-					<input type="checkbox" id="statsCheckbox">
-					<span>Stats</span>
-				</label>
-				<label title="Filter controversial stages">
-					<input type="checkbox" id="controversialCheckbox">
-					<span>Controversial</span>
-				</label>
-			</div>
-			<!-- <div id="zoom">
+	<link rel="manifest" href="manifest.json">
+	<link rel="stylesheet" href="../fonts/fontawesome.css">
+	<link rel="stylesheet" href="style.css">
+
+	<script src="stages.js?v=13"></script>
+	<script src="sort.js?v=800"></script>
+	<script src="script.js?v=10"></script>
+</head>
+
+<body>
+	<canvas></canvas>
+	<div id="options">
+		<div id="buttons">
+			<a href="../" target="_blank"><button class="fa fa-home" title="Tournameta homepage"></button></a>
+			<button id="snapshot" class="fa fa-camera" title="Download a snapshot"></button>
+			<a id="downloadButton" download="Stage Comparison"></a>
+			<button id="toggleOptions" class="fa" title="Toggle settings"></button>
+		</div>
+		<div id="display">
+			<label data-display="stage">
+				<input type="checkbox" checked>
+				<span>Stage</span>
+			</label>
+			<label data-display="platforms">
+				<input type="checkbox" checked>
+				<span>Platforms</span>
+			</label>
+			<label data-display="camera">
+				<input type="checkbox" checked>
+				<span>Camera</span>
+			</label>
+			<label data-display="blastzone">
+				<input type="checkbox" checked>
+				<span>Blastzone</span>
+			</label>
+			<label title="Show sort values">
+				<input type="checkbox" id="statsCheckbox">
+				<span>Stats</span>
+			</label>
+			<label title="Filter controversial stages">
+				<input type="checkbox" id="controversialCheckbox">
+				<span>Controversial</span>
+			</label>
+		</div>
+		<!-- <div id="zoom">
 				<label>
 					<span>Zoom:</span>
 					<input type="number" step="0.1">
 				</label>
 			</div> -->
-			<div id="stagelist">
-				<label>
-					<span>Sort by</span>
-					<select id="stageSort">
-						<option value="alphabetical">Alphabetical</option>
-						<optgroup label="Stage/Platforms">
-							<option value="platformCount">Platform Count</option>
-							<option value="stageWidth">Stage Width</option>
-							<option value="platformAndStageWidth">Stage + Platforms Width</option>
-							<option value="stageToPlatformTop">Stage to Top Platform</option>
-							<option value="stageToPlatformBottom">Stage to Bottom Platform</option>
-							<option value="platformWidth">Platform Width Span</option>
-							<option value="platformHeight">Platform Height Span</option>
-						</optgroup>
-						<optgroup label="Stage to Blastzone">
-							<option value="stageLeftToBlastzoneLeft">Stage to Blastzone Left</option>
-							<option value="stageRightToBlastzoneRight">Stage to Blastzone Right</option>
-							<option value="stageToBlastzoneTop">Stage to Blastzone Top</option>
-							<option value="stageToBlastzoneBottom">Stage to Blastzone Bottom</option>
-							<option value="stageToCameraBottom">Stage to Camera Bottom</option>
-						</optgroup>
-						<optgroup label="Stage + Platforms to Blastzone">
-							<option value="platformOrStageLeftToBlastzoneLeft" title="Including stage">Platforms to Blastzone Left</option>
-							<option value="platformOrStageRightToBlastzoneRight" title="Including stage">Platforms to Blastzone Right</option>
-							<option value="platformToBlastzoneTop" title="Including stage">Platforms to Blastzone Top</option>
-						</optgroup>
-						<optgroup label="Camera/Blastzones">
-							<option value="blastzoneWidth">Blastzone Width</option>
-							<option value="blastzoneHeight">Blastzone Height</option>
-							<option value="cameraWidth">Camera Width</option>
-							<option value="cameraHeight">Camera Height</option>
-						</optgroup>
-						<optgroup label="Horizontal Asymmetry">
-							<option value="stageAsymmetry" title="Positive values mean further to the right from center">Stage Asymmetry</option>
-							<option value="platformAsymmetry" title="Positive values mean further to the right from center">Platform Asymmetry</option>
-							<option value="blastzoneAsymmetry" title="Positive values mean further to the right from center">Blastzone Asymmetry</option>
-							<option value="stageToBlastzoneAsymmetry" title="Positive values mean closer to the right blastzone">Stage to Blastzone Asymmetry</option>
-							<option value="platformToBlastzoneAsymmetry" title="Positive values mean closer to the right blastzone">Platform to Blastzone Asymmetry</option>
-						</optgroup>
-					</select>
-				</label>
-			</div>
+		<div id="stagelist">
+			<label>
+				<span>Sort by</span>
+				<select id="stageSort">
+					<option value="alphabetical">Alphabetical</option>
+					<optgroup label="Stage/Platforms">
+						<option value="platformCount">Platform Count</option>
+						<option value="stageWidth">Stage Width</option>
+						<option value="platformAndStageWidth">Stage + Platforms Width</option>
+						<option value="stageToPlatformTop">Stage to Top Platform</option>
+						<option value="stageToPlatformBottom">Stage to Bottom Platform</option>
+						<option value="platformWidth">Platform Width Span</option>
+						<option value="platformHeight">Platform Height Span</option>
+					</optgroup>
+					<optgroup label="Stage to Blastzone">
+						<option value="stageLeftToBlastzoneLeft">Stage to Blastzone Left</option>
+						<option value="stageRightToBlastzoneRight">Stage to Blastzone Right</option>
+						<option value="stageToBlastzoneTop">Stage to Blastzone Top</option>
+						<option value="stageToBlastzoneBottom">Stage to Blastzone Bottom</option>
+						<option value="stageToCameraBottom">Stage to Camera Bottom</option>
+					</optgroup>
+					<optgroup label="Stage + Platforms to Blastzone">
+						<option value="platformOrStageLeftToBlastzoneLeft" title="Including stage">Platforms to
+							Blastzone Left</option>
+						<option value="platformOrStageRightToBlastzoneRight" title="Including stage">Platforms to
+							Blastzone Right</option>
+						<option value="platformToBlastzoneTop" title="Including stage">Platforms to Blastzone Top
+						</option>
+					</optgroup>
+					<optgroup label="Camera/Blastzones">
+						<option value="blastzoneWidth">Blastzone Width</option>
+						<option value="blastzoneHeight">Blastzone Height</option>
+						<option value="cameraWidth">Camera Width</option>
+						<option value="cameraHeight">Camera Height</option>
+					</optgroup>
+					<optgroup label="Horizontal Asymmetry">
+						<option value="stageAsymmetry" title="Positive values mean further to the right from center">
+							Stage Asymmetry</option>
+						<option value="platformAsymmetry" title="Positive values mean further to the right from center">
+							Platform Asymmetry</option>
+						<option value="blastzoneAsymmetry"
+							title="Positive values mean further to the right from center">Blastzone Asymmetry</option>
+						<option value="stageToBlastzoneAsymmetry"
+							title="Positive values mean closer to the right blastzone">Stage to Blastzone Asymmetry
+						</option>
+						<option value="platformToBlastzoneAsymmetry"
+							title="Positive values mean closer to the right blastzone">Platform to Blastzone Asymmetry
+						</option>
+					</optgroup>
+				</select>
+			</label>
 		</div>
-	</body>
+	</div>
+</body>
+
 </html>
