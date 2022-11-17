@@ -5,65 +5,70 @@ addEventListener("resize", canvasSize);
 document.addEventListener("DOMContentLoaded", function () {
 	canvas = document.getElementsByTagName("canvas")[0];
 	ctx = canvas.getContext("2d");
+	const stageSortElement = document.getElementById("stageSort");
+	const toggleOptionsElement = document.getElementById("toggleOptions");
+	const snapshotElement = document.getElementById("snapshot");
+	const statsCheckboxElement = document.getElementById("statsCheckbox");
+	const controversialCheckboxElement = document.getElementById("controversialCheckbox");
 
-	document.getElementById("stageSort").addEventListener("change", makeStageList);
-
-	document.getElementById("toggleOptions").addEventListener("click", toggleOptions);
-	document.getElementById("snapshot").addEventListener("click", snapshot);
-
-	document.getElementById("statsCheckbox").addEventListener("click", statsCheckbox);
-	document.getElementById("controversialCheckbox").addEventListener("change", makeStageList);
+	stageSortElement?.addEventListener("change", makeStageList);
+	toggleOptionsElement?.addEventListener("click", toggleOptions);
+	snapshotElement?.addEventListener("click", snapshot);
+	statsCheckboxElement?.addEventListener("click", statsCheckbox);
+	controversialCheckboxElement?.addEventListener("change", makeStageList);
 
 	makeStageList();
 
-	var displayOpts = document.querySelectorAll("[data-display]");
-
-	for (var i = 0; i < displayOpts.length; i++) {
-		displayOpts[i].addEventListener("change", draw);
+	const displayOpts = document.querySelectorAll("[data-display]");
+	for (const option of displayOpts) {
+		option.addEventListener("change", draw);
 	}
 
 	canvasSize();
 });
 
 function makeStageList(e) {
-	var stagelistDiv = document.getElementById("stagelist"),
-		stageSort = document.getElementById("stageSort"),
-		stagesLength = stagelistDiv.children.length;
+	const stagelistDiv = document.getElementById("stagelist");
+	const stageSort = document.getElementById("stageSort");
+	const stagesLength = stagelistDiv?.children.length;
 
-	sort(stages, window[stageSort.value]);
+	sort(ultStages, window[stageSort?.value]);
 
-	for (var i = 1; i < stagesLength; i++) {
-		stagelistDiv.removeChild(stagelistDiv.lastChild);
-
+	for (var i = 1; i < (stagesLength ?? 0); i++) {
+		if (stagelistDiv?.lastChild) {
+			stagelistDiv.removeChild(stagelistDiv.lastChild);
+		}
 		// console.log(stagelistDiv.children);
 	}
 
 	if (!e) {
-		stages[0].checked = true;
+		ultStages[0].checked = true;
 	}
 
-	for (var s = 0; s < stages.length; s++) {
-		if (!stages[s].controversial || document.getElementById("controversialCheckbox").checked) {
-			var label = document.createElement("label"),
+	const controversialCheckboxElement = document.getElementById("controversialCheckbox");
+
+	for (const stage of ultStages) {
+		if (!stage.controversial || controversialCheckboxElement?.checked) {
+			const label = document.createElement("label"),
 				input = document.createElement("input"),
 				span = document.createElement("span"),
 				stat = document.createElement("div"),
-				statType = stageSort.options[stageSort.selectedIndex].textContent,
-				statValue = fixDecimals(window[stageSort.value](stages[s]));
+				statType = stageSort?.options[stageSort.selectedIndex].textContent,
+				statValue = fixDecimals(window[stageSort.value](stage));
 
-			label.dataset.stage = stages[s]["name"];
+			label.dataset.stage = stage.name;
 
-			span.textContent = stages[s]["name"];
+			span.textContent = stage.name;
 
-			if (stages[s].disclaimer) {
+			if (stage.disclaimer) {
 				span.textContent += "*";
-				label.title = stages[s].disclaimer;
+				label.title = stage.disclaimer;
 			}
 
 			input.type = "checkbox";
 			input.addEventListener("change", draw);
 
-			if (stages[s].checked) {
+			if (stage.checked) {
 				input.checked = true;
 			}
 
@@ -79,7 +84,7 @@ function makeStageList(e) {
 			label.appendChild(input);
 			label.appendChild(span);
 			label.appendChild(stat);
-			stagelistDiv.appendChild(label);
+			stagelistDiv?.appendChild(label);
 		}
 	}
 
@@ -87,20 +92,22 @@ function makeStageList(e) {
 }
 
 function statsCheckbox(e) {
-	var target = e.currentTarget,
-		checked = target.checked,
-		options = document.getElementById("options");
+	const target = e.currentTarget;
+	const checked = target.checked;
+
+	const optionsElement = document.getElementById("options");
+
 
 	if (checked) {
-		options.classList.add("showStats");
+		optionsElement?.classList.add("showStats");
 	}
 	else {
-		options.classList.remove("showStats");
+		optionsElement?.classList.remove("showStats");
 	}
 }
 
 function toggleOptions(e) {
-	document.getElementById("options").classList.toggle("hide");
+	document.getElementById("options")?.classList.toggle("hide");
 }
 
 function snapshot(e) {
@@ -109,7 +116,7 @@ function snapshot(e) {
 	canvasSize(1920, 1400);
 	// canvasSize(1200, 864);
 
-	var dataURL = canvas.toDataURL('png'),
+	const dataURL = canvas.toDataURL('png'),
 		downloadButton = document.getElementById("downloadButton");
 
 	canvasSize();
@@ -122,17 +129,17 @@ function snapshot(e) {
 	// newTabImg(dataURL);
 
 
-	downloadButton.setAttribute("href", dataURL);
-	downloadButton.click();
+	downloadButton?.setAttribute("href", dataURL);
+	downloadButton?.click();
 
 }
 
 function newTabImg(data) {
-	var image = new Image();
+	const image = new Image();
 	image.src = data;
 
-	var w = window.open("");
-	w.document.write(image.outerHTML);
+	const w = window.open("");
+	w?.document.write(image.outerHTML);
 }
 
 
@@ -145,22 +152,24 @@ function newTabImg(data) {
 }*/
 
 function stageStatus(sName) {
-	var stageLabel = document.querySelector('[data-stage="' + sName + '"]');
+	const stageLabel = document.querySelector('[data-stage="' + sName + '"]');
 
-	return stageLabel.querySelector("input").checked;
+	return stageLabel?.querySelector("input")?.checked;
 }
 
 function getDisplayOption(optName) {
-	var displayLabel = document.querySelector('[data-display="' + optName + '"]');
+	const displayLabel = document.querySelector('[data-display="' + optName + '"]');
 
-	return displayLabel.querySelector("input").checked;
+	return displayLabel?.querySelector("input")?.checked;
 }
 
 function labelColor(sName, hue) {
-	var stageLabel = document.querySelector('[data-stage="' + sName + '"]'),
-		input = stageLabel.querySelector("input"),
-		cColor = (typeof hue === "undefined") ? "transparent" : color(hue);
-
+	const stageLabel = document.querySelector('[data-stage="' + sName + '"]');
+	const input = stageLabel?.querySelector("input");
+	const cColor = (typeof hue === "undefined") ? "transparent" : color(hue);
+	if (!input) {
+		return;
+	}
 	input.style.backgroundColor = cColor;
 }
 
@@ -175,15 +184,17 @@ function draw() {
 	ctx.clearRect(0, 0, canvas.width, canvas.height);
 	ctx.globalCompositeOperation = 'lighter';
 	ctx.lineWidth = lineWidth;
-	hueIndex = 0;
+	var hueIndex = 0;
 
-	for (var s = 0; s < stages.length; s++) {
-		if (!stages[s].controversial || document.getElementById("controversialCheckbox").checked) {
-			stages[s].checked = stageStatus(stages[s]["name"]);
+	const controversialCheckboxElement = document.getElementById("controversialCheckbox");
 
-			if (stageStatus(stages[s]["name"])) {
+	for (const stage of ultStages) {
+		if (!stage.controversial || controversialCheckboxElement?.checked) {
+			stage.checked = stageStatus(stage.name);
+
+			if (stageStatus(stage.name)) {
 				//hueIndex++
-				var hue = hueIndex++ * 360 / checkedStageCount() + (checkedStageCount() < 3 ? hueOffset : 0);//* 120;// + 120; //
+				const hue = hueIndex++ * 360 / checkedStageCount() + (checkedStageCount() < 3 ? hueOffset : 0);//* 120;// + 120; //
 
 				/*if (hueIndex == 1)
 				{
@@ -195,37 +206,37 @@ function draw() {
 					hue = 240;
 				}*/
 
-				labelColor(stages[s]["name"], hue);
+				labelColor(stage.name, hue);
 
-				stageName = stages[s]["name"];
+				stageName = stage.name;
 
 				ctx.setLineDash([10, 10]);
 
 				if (getDisplayOption("blastzone")) {
-					drawRect(stages[s]["blast_zones"], hue);
+					drawRect(stage.blast_zones, hue);
 				}
 
 				if (getDisplayOption("camera")) {
 					// ctx.setLineDash([10, 10]);
-					drawRect(stages[s]["camera"], hue);
+					drawRect(stage.camera, hue);
 				}
 
 				ctx.setLineDash([]);
 
 				if (getDisplayOption("stage")) {
-					for (var i = 0; i < stages[s]["collisions"].length; i++) {
-						drawPath(stages[s]["collisions"][i]["vertex"], hue);
+					for (var i = 0; i < stage.collisions.length; i++) {
+						drawPath(stage.collisions[i].vertex, hue);
 					}
 				}
 
 				if (getDisplayOption("platforms")) {
-					for (var i = 0; i < stages[s]["platforms"].length; i++) {
-						drawPath(stages[s]["platforms"][i]["vertex"], hue);
+					for (var i = 0; i < stage.platforms.length; i++) {
+						drawPath(stage.platforms[i].vertex, hue);
 					}
 				}
 			}
 			else {
-				labelColor(stages[s]["name"]);
+				labelColor(stage.name);
 			}
 		}
 	}
@@ -250,10 +261,8 @@ function drawRect(coords, hue) {
 function drawPath(coords, hue, fill) {
 	// console.log(coords);
 
-	var coord;
-
 	ctx.beginPath();
-	coord = getRealCoordinate(coords[0][0], coords[0][1]);
+	var coord = getRealCoordinate(coords[0][0], coords[0][1]);
 	// console.log(coord);
 	ctx.moveTo(coord.x, coord.y);
 
@@ -286,7 +295,7 @@ function getRealCoordinate(x, y) {
 }
 
 function color(hue, context = "normal") {
-	var s = 100, l = 50, a = 1;
+	const s = 100, l = 50, a = 1;
 
 	/*if (context == "normal")
 	{
