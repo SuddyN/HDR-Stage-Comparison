@@ -56,9 +56,9 @@ function makeStageList(e) {
 				statType = stageSort?.options[stageSort.selectedIndex].textContent,
 				statValue = fixDecimals(window[stageSort.value](stage));
 
-			label.dataset.stage = stage.name;
+			label.dataset.stage = stage.stage;
 
-			span.textContent = stage.name;
+			span.textContent = stage.stage;
 
 			if (stage.disclaimer) {
 				span.textContent += "*";
@@ -190,9 +190,9 @@ function draw() {
 
 	for (const stage of ultStages) {
 		if (!stage.controversial || controversialCheckboxElement?.checked) {
-			stage.checked = stageStatus(stage.name);
+			stage.checked = stageStatus(stage.stage);
 
-			if (stageStatus(stage.name)) {
+			if (stageStatus(stage.stage)) {
 				//hueIndex++
 				const hue = hueIndex++ * 360 / checkedStageCount() + (checkedStageCount() < 3 ? hueOffset : 0);//* 120;// + 120; //
 
@@ -206,9 +206,9 @@ function draw() {
 					hue = 240;
 				}*/
 
-				labelColor(stage.name, hue);
+				labelColor(stage.stage, hue);
 
-				stageName = stage.name;
+				stageName = stage.stage;
 
 				ctx.setLineDash([10, 10]);
 
@@ -236,7 +236,7 @@ function draw() {
 				}
 			}
 			else {
-				labelColor(stage.name);
+				labelColor(stage.stage);
 			}
 		}
 	}

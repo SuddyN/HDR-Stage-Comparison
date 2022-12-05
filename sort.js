@@ -42,7 +42,7 @@ function sortFunc(func, a, b) {
 }
 
 function alphabetical(stage) {
-	return stage.name;
+	return stage.stage;
 }
 
 function platformCount(stage) {
