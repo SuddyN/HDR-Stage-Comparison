@@ -32,7 +32,7 @@ function makeStageList(e) {
 	const stageSort = document.getElementById("stageSort");
 	const stagesLength = stagelistDiv?.children.length;
 
-	sort(ultStages, window[stageSort?.value]);
+	sort(hdrStages, window[stageSort?.value]);
 
 	for (var i = 1; i < (stagesLength ?? 0); i++) {
 		if (stagelistDiv?.lastChild) {
@@ -42,12 +42,12 @@ function makeStageList(e) {
 	}
 
 	if (!e) {
-		ultStages[0].checked = true;
+		hdrStages[0].checked = true;
 	}
 
 	const controversialCheckboxElement = document.getElementById("controversialCheckbox");
 
-	for (const stage of ultStages) {
+	for (const stage of hdrStages) {
 		if (!stage.controversial || controversialCheckboxElement?.checked) {
 			const label = document.createElement("label"),
 				input = document.createElement("input"),
@@ -188,7 +188,7 @@ function draw() {
 
 	const controversialCheckboxElement = document.getElementById("controversialCheckbox");
 
-	for (const stage of ultStages) {
+	for (const stage of hdrStages) {
 		if (!stage.controversial || controversialCheckboxElement?.checked) {
 			stage.checked = stageStatus(stage.stage);
 
