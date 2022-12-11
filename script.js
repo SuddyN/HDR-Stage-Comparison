@@ -27,10 +27,65 @@ document.addEventListener("DOMContentLoaded", function () {
 	canvasSize();
 });
 
+function stageCenter(stage) {
+	var x = (stage.blast_zones[0] + stage.blast_zones[1]) / 2;
+	var y = Number.MAX_VALUE;
+	for (var spawn of stage.spawns) {
+		if (spawn[1] < y) {
+			y = spawn[1];
+		}
+	}
+	return [x, y];
+}
+
+function moveStagesToCenter() {
+	for (var stage of hdrStages) {
+		const center = stageCenter(stage);
+		for (var collision of stage.collisions) {
+			for (var vertex of collision.vertex) {
+				vertex[0] -= center[0];
+				vertex[1] -= center[1];
+			}
+			for (var vertex of collision.boundingBox) {
+				vertex[0] -= center[0];
+				vertex[1] -= center[1];
+			}
+		}
+		for (var platform of stage.platforms) {
+			for (var vertex of platform.vertex) {
+				vertex[0] -= center[0];
+				vertex[1] -= center[1];
+			}
+			for (var vertex of platform.boundingBox) {
+				vertex[0] -= center[0];
+				vertex[1] -= center[1];
+			}
+		}
+		for (var vertex of stage.spawns) {
+			vertex[0] -= center[0];
+			vertex[1] -= center[1];
+		}
+		for (var vertex of stage.respawns) {
+			vertex[0] -= center[0];
+			vertex[1] -= center[1];
+		}
+		stage.blast_zones[0] -= center[0];
+		stage.blast_zones[1] -= center[0];
+		stage.blast_zones[2] -= center[1];
+		stage.blast_zones[3] -= center[1];
+		stage.camera[0] -= center[0];
+		stage.camera[1] -= center[0];
+		stage.camera[2] -= center[1];
+		stage.camera[3] -= center[1];
+	}
+}
+
 function makeStageList(e) {
 	const stagelistDiv = document.getElementById("stagelist");
 	const stageSort = document.getElementById("stageSort");
 	const stagesLength = stagelistDiv?.children.length;
+
+	moveStagesToCenter();
 
 	sort(hdrStages, window[stageSort?.value]);
 

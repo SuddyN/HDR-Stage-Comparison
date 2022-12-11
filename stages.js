@@ -1,6 +1,5 @@
 var hdrStages = [
 	{
-		controversial: 1,
 		"stage": "3D Land",
 		"name": "3D Land",
 		"lvd": "3dland_00",
@@ -9,80 +8,80 @@ var hdrStages = [
 				"name": "COL_00_Ground01",
 				"vertex": [
 					[
-						-511.67635,
-						-230.0317
+						-92.5,
+						-128.0
 					],
 					[
-						-511.67635,
-						-102.0317
+						-92.5,
+						0.0
 					],
 					[
-						-483.67635,
-						-102.0317
+						-64.5,
+						0.0
 					],
 					[
-						-438.67635,
-						-102.0317
+						-19.5,
+						0.0
 					],
 					[
-						-437.67635,
-						-102.0317
+						-18.5,
+						0.0
 					],
 					[
-						-436.67635,
-						-102.0317
+						-17.5,
+						0.0
 					],
 					[
-						-435.67635,
-						-102.0317
+						-16.5,
+						0.0
 					],
 					[
-						-434.67635,
-						-102.0317
+						-15.5,
+						0.0
 					],
 					[
-						-402.67635,
-						-102.0317
+						16.5,
+						0.0
 					],
 					[
-						-356.67635,
-						-102.0317
+						62.5,
+						0.0
 					],
 					[
-						-326.67635,
-						-102.0317
+						92.5,
+						0.0
 					],
 					[
-						-326.67635,
-						-230.0317
+						92.5,
+						-128.0
 					],
 					[
-						-326.67635,
-						-230.0317
+						92.5,
+						-128.0
 					],
 					[
-						-326.67635,
-						-230.0317
+						92.5,
+						-128.0
 					],
 					[
-						-326.67635,
-						-230.0317
+						92.5,
+						-128.0
 					],
 					[
-						-326.67635,
-						-230.0317
+						92.5,
+						-128.0
 					],
 					[
-						-326.67635,
-						-230.0317
+						92.5,
+						-128.0
 					],
 					[
-						-326.67635,
-						-230.0317
+						92.5,
+						-128.0
 					],
 					[
-						-326.67635,
-						-230.0317
+						92.5,
+						-128.0
 					]
 				],
 				"materials": [
@@ -269,57 +268,58 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-511.67635,
-						-230.0317
+						-92.5,
+						-128.0
 					],
 					[
-						-326.67635,
-						-102.0317
+						92.5,
+						0.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_Ground02_DokanMix",
 				"vertex": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				],
 				"materials": [
@@ -416,37 +416,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_DestroyBlock01",
 				"vertex": [
 					[
-						-333.67635,
-						-75.0317
+						85.5,
+						27.0
 					],
 					[
-						-333.67635,
-						-75.0317
+						85.5,
+						27.0
 					],
 					[
-						-333.67635,
-						-75.0317
+						85.5,
+						27.0
 					],
 					[
-						-333.67635,
-						-75.0317
+						85.5,
+						27.0
 					],
 					[
-						-333.67635,
-						-75.0317
+						85.5,
+						27.0
 					]
 				],
 				"materials": [
@@ -493,37 +494,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_DestroyBlock01",
 				"vertex": [
 					[
-						-323.47635,
-						-75.0317
+						95.7,
+						27.0
 					],
 					[
-						-323.47635,
-						-75.0317
+						95.7,
+						27.0
 					],
 					[
-						-323.47635,
-						-75.0317
+						95.7,
+						27.0
 					],
 					[
-						-323.47635,
-						-75.0317
+						95.7,
+						27.0
 					],
 					[
-						-323.47635,
-						-75.0317
+						95.7,
+						27.0
 					]
 				],
 				"materials": [
@@ -570,37 +572,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_DestroyBlock01",
 				"vertex": [
 					[
-						-313.27635,
-						-75.0317
+						105.9,
+						27.0
 					],
 					[
-						-313.27635,
-						-75.0317
+						105.9,
+						27.0
 					],
 					[
-						-313.27635,
-						-75.0317
+						105.9,
+						27.0
 					],
 					[
-						-313.27635,
-						-75.0317
+						105.9,
+						27.0
 					],
 					[
-						-313.27635,
-						-75.0317
+						105.9,
+						27.0
 					]
 				],
 				"materials": [
@@ -647,37 +650,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_DestroyBlock01",
 				"vertex": [
 					[
-						-237.42212300000003,
-						-45.39303580000001
+						181.754227,
+						56.638664199999994
 					],
 					[
-						-237.42212300000003,
-						-45.39303580000001
+						181.754227,
+						56.638664199999994
 					],
 					[
-						-237.42212300000003,
-						-45.39303580000001
+						181.754227,
+						56.638664199999994
 					],
 					[
-						-237.42212300000003,
-						-45.39303580000001
+						181.754227,
+						56.638664199999994
 					],
 					[
-						-237.42212300000003,
-						-45.39303580000001
+						181.754227,
+						56.638664199999994
 					]
 				],
 				"materials": [
@@ -724,37 +728,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_DestroyBlock01",
 				"vertex": [
 					[
-						-217.02211400000002,
-						-45.39303580000001
+						202.154236,
+						56.638664199999994
 					],
 					[
-						-217.02211400000002,
-						-45.39303580000001
+						202.154236,
+						56.638664199999994
 					],
 					[
-						-217.02211400000002,
-						-45.39303580000001
+						202.154236,
+						56.638664199999994
 					],
 					[
-						-217.02211400000002,
-						-45.39303580000001
+						202.154236,
+						56.638664199999994
 					],
 					[
-						-217.02211400000002,
-						-45.39303580000001
+						202.154236,
+						56.638664199999994
 					]
 				],
 				"materials": [
@@ -801,37 +806,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_DestroyBlock01",
 				"vertex": [
 					[
-						-168.286671,
-						-36.1237
+						250.889679,
+						65.908
 					],
 					[
-						-168.286671,
-						-36.1237
+						250.889679,
+						65.908
 					],
 					[
-						-168.286671,
-						-36.1237
+						250.889679,
+						65.908
 					],
 					[
-						-168.286671,
-						-36.1237
+						250.889679,
+						65.908
 					],
 					[
-						-168.286671,
-						-36.1237
+						250.889679,
+						65.908
 					]
 				],
 				"materials": [
@@ -878,37 +884,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_GimmickBlock01",
 				"vertex": [
 					[
-						-227.222126,
-						-50.493038
+						191.954224,
+						51.538662
 					],
 					[
-						-227.222126,
-						-50.493038
+						191.954224,
+						51.538662
 					],
 					[
-						-227.222126,
-						-50.493038
+						191.954224,
+						51.538662
 					],
 					[
-						-227.222126,
-						-50.493038
+						191.954224,
+						51.538662
 					],
 					[
-						-227.222126,
-						-50.493038
+						191.954224,
+						51.538662
 					]
 				],
 				"materials": [
@@ -955,37 +962,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_GimmickBlock01",
 				"vertex": [
 					[
-						-178.50055,
-						-41.223699999999994
+						240.6758,
+						60.80800000000001
 					],
 					[
-						-178.50055,
-						-41.223699999999994
+						240.6758,
+						60.80800000000001
 					],
 					[
-						-178.50055,
-						-41.223699999999994
+						240.6758,
+						60.80800000000001
 					],
 					[
-						-178.50055,
-						-41.223699999999994
+						240.6758,
+						60.80800000000001
 					],
 					[
-						-178.50055,
-						-41.223699999999994
+						240.6758,
+						60.80800000000001
 					]
 				],
 				"materials": [
@@ -1032,37 +1040,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_GimmickPlatform01",
 				"vertex": [
 					[
-						-206.12637700000002,
-						-87.0317
+						213.049973,
+						15.0
 					],
 					[
-						-206.12637700000002,
-						-87.0317
+						213.049973,
+						15.0
 					],
 					[
-						-206.12637700000002,
-						-87.0317
+						213.049973,
+						15.0
 					],
 					[
-						-206.12637700000002,
-						-87.0317
+						213.049973,
+						15.0
 					],
 					[
-						-206.12637700000002,
-						-87.0317
+						213.049973,
+						15.0
 					]
 				],
 				"materials": [
@@ -1109,37 +1118,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_GimmickPlatform01",
 				"vertex": [
 					[
-						-191.12637700000002,
-						-87.0317
+						228.049973,
+						15.0
 					],
 					[
-						-191.12637700000002,
-						-87.0317
+						228.049973,
+						15.0
 					],
 					[
-						-191.12637700000002,
-						-87.0317
+						228.049973,
+						15.0
 					],
 					[
-						-191.12637700000002,
-						-87.0317
+						228.049973,
+						15.0
 					],
 					[
-						-191.12637700000002,
-						-87.0317
+						228.049973,
+						15.0
 					]
 				],
 				"materials": [
@@ -1186,37 +1196,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_GimmickPlatform01",
 				"vertex": [
 					[
-						433.82365,
-						0.0
+						853.0,
+						102.0317
 					],
 					[
-						433.82365,
-						0.0
+						853.0,
+						102.0317
 					],
 					[
-						433.82365,
-						0.0
+						853.0,
+						102.0317
 					],
 					[
-						433.82365,
-						0.0
+						853.0,
+						102.0317
 					],
 					[
-						433.82365,
-						0.0
+						853.0,
+						102.0317
 					]
 				],
 				"materials": [
@@ -1263,37 +1274,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_GimmickPlatform01",
 				"vertex": [
 					[
-						448.82365,
-						0.0
+						868.0,
+						102.0317
 					],
 					[
-						448.82365,
-						0.0
+						868.0,
+						102.0317
 					],
 					[
-						448.82365,
-						0.0
+						868.0,
+						102.0317
 					],
 					[
-						448.82365,
-						0.0
+						868.0,
+						102.0317
 					],
 					[
-						448.82365,
-						0.0
+						868.0,
+						102.0317
 					]
 				],
 				"materials": [
@@ -1340,37 +1352,38 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_GimmickPlatform03",
 				"vertex": [
 					[
-						511.67635,
-						-35.5022658
+						930.8527,
+						66.5294342
 					],
 					[
-						511.67635,
-						-35.5022658
+						930.8527,
+						66.5294342
 					],
 					[
-						511.67635,
-						-35.5022658
+						930.8527,
+						66.5294342
 					],
 					[
-						511.67635,
-						-35.5022658
+						930.8527,
+						66.5294342
 					],
 					[
-						511.67635,
-						-35.5022658
+						930.8527,
+						66.5294342
 					]
 				],
 				"materials": [
@@ -1417,405 +1430,407 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					],
 					[
-						-423.67635,
-						-110.0317
+						-4.5,
+						-8.0
 					]
 				]
 			}
 		],
 		"platforms": [
-			{
-				"name": "COL_00_Platform01_through",
-				"vertex": [
-					[
-						-423.67635,
-						-110.0317
-					],
-					[
-						-423.67635,
-						-110.0317
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grate"
-					}
-				],
-				"boundingBox": [
-					[
-						-423.67635,
-						-110.0317
-					],
-					[
-						-423.67635,
-						-110.0317
-					]
-				]
-			},
-			{
-				"name": "COL_00_Ground03_ColorBlockMix",
-				"vertex": [
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					],
-					[
-						-377.87635,
-						-52.5317
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-377.87635,
-						-52.5317
-					],
-					[
-						-343.67635,
-						-52.5317
-					]
-				]
-			},
+			// {
+			// 	"nocalc": 1,
+			// 	"name": "COL_00_Platform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-4.5,
+			// 			-8.0
+			// 		],
+			// 		[
+			// 			-4.5,
+			// 			-8.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grate"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-4.5,
+			// 			-8.0
+			// 		],
+			// 		[
+			// 			-4.5,
+			// 			-8.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"nocalc": 1,
+			// 	"name": "COL_00_Ground03_ColorBlockMix",
+			// 	"vertex": [
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			41.3,
+			// 			49.5
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			41.3,
+			// 			49.5
+			// 		],
+			// 		[
+			// 			75.5,
+			// 			49.5
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_00_Start_PlatformL_through",
 				"vertex": [
 					[
-						-503.67635,
-						-52.5317
+						-84.5,
+						49.5
 					],
 					[
-						-469.47635,
-						-52.5317
+						-50.3,
+						49.5
 					]
 				],
 				"materials": [
@@ -1832,12 +1847,12 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-503.67635,
-						-52.5317
+						-84.5,
+						49.5
 					],
 					[
-						-469.47635,
-						-52.5317
+						-50.3,
+						49.5
 					]
 				]
 			},
@@ -1845,12 +1860,12 @@ var hdrStages = [
 				"name": "COL_00_Start_PlatformC_through",
 				"vertex": [
 					[
-						-468.77635000000004,
-						-75.4317
+						-49.6,
+						26.6
 					],
 					[
-						-434.37635,
-						-75.4317
+						-15.2,
+						26.6
 					]
 				],
 				"materials": [
@@ -1867,12 +1882,12 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-468.77635000000004,
-						-75.4317
+						-49.6,
+						26.6
 					],
 					[
-						-434.37635,
-						-75.4317
+						-15.2,
+						26.6
 					]
 				]
 			},
@@ -1880,12 +1895,12 @@ var hdrStages = [
 				"name": "COL_00_Start_PlatformR_through",
 				"vertex": [
 					[
-						-412.67635,
-						-75.4317
+						6.5,
+						26.6
 					],
 					[
-						-378.67635,
-						-75.4317
+						40.5,
+						26.6
 					]
 				],
 				"materials": [
@@ -1902,12 +1917,12 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-412.67635,
-						-75.4317
+						6.5,
+						26.6
 					],
 					[
-						-378.67635,
-						-75.4317
+						40.5,
+						26.6
 					]
 				]
 			},
@@ -1915,12 +1930,12 @@ var hdrStages = [
 				"name": "COL_00_End_MovingPlatform01_thr",
 				"vertex": [
 					[
-						-343.67635,
-						-52.5317
+						75.5,
+						49.5
 					],
 					[
-						-377.87635,
-						-52.5317
+						41.3,
+						49.5
 					]
 				],
 				"materials": [
@@ -1937,27 +1952,27 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-377.87635,
-						-52.5317
+						41.3,
+						49.5
 					],
 					[
-						-343.67635,
-						-52.5317
+						75.5,
+						49.5
 					]
 				]
 			}
 		],
 		"blast_zones": [
-			-653.67635,
-			-193.67635,
-			126.9692,
-			-188.0308
+			-234.5,
+			225.5,
+			229.0009,
+			-85.9991
 		],
 		"camera": [
-			-593.72635,
-			-253.62635,
-			51.9692,
-			-118.03079973
+			-174.55,
+			165.55,
+			154.0009,
+			-15.999099730000001
 		],
 		"center": [
 			0.0,
@@ -1965,76 +1980,75 @@ var hdrStages = [
 		],
 		"spawns": [
 			[
-				-483.67635,
-				-102.0317
+				-64.5,
+				0.0
 			],
 			[
-				-363.67635,
-				-102.0317
+				55.5,
+				0.0
 			],
 			[
-				-443.67635,
-				-102.0317
+				-24.5,
+				0.0
 			],
 			[
-				-403.67635,
-				-102.0317
+				15.5,
+				0.0
 			],
 			[
-				-503.67635,
-				-102.0317
+				-84.5,
+				0.0
 			],
 			[
-				-403.67635,
-				-76.0317
+				15.5,
+				26.0
 			],
 			[
-				-343.67635,
-				-102.0317
+				75.5,
+				0.0
 			],
 			[
-				-443.21430000000004,
-				-76.0317
+				-24.03795,
+				26.0
 			]
 		],
 		"respawns": [
 			[
-				-423.67635,
-				-25.0317
+				-4.5,
+				77.0
 			],
 			[
-				-387.67635,
-				-25.0317
+				31.5,
+				77.0
 			],
 			[
-				-459.67635,
-				-25.0317
+				-40.5,
+				77.0
 			],
 			[
-				-351.67635,
-				-25.0317
+				67.5,
+				77.0
 			],
 			[
-				-369.36651,
-				-16.025800000000004
+				49.80984,
+				86.0059
 			],
 			[
-				-477.36651,
-				-16.025800000000004
+				-58.19016,
+				86.0059
 			],
 			[
-				-405.3665069,
-				-16.025800000000004
+				13.809843099999998,
+				86.0059
 			],
 			[
-				-441.3665069,
-				-16.025800000000004
+				-22.1901569,
+				86.0059
 			]
 		],
 		"items": []
 	},
 	{
-		controversial: 1,
 		"stage": "Arena Ferox",
 		"name": "Arena Ferox",
 		"lvd": "colloseum_00",
@@ -2275,29 +2289,52 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
 		"stage": "Arena Ferox (1)",
 		"name": "Arena Ferox",
 		"lvd": "colloseum_01",
 		"collisions": [
 			{
-				"name": "COL_01_GimmickPillar01B",
+				"name": "COL_00_Floor01",
 				"vertex": [
 					[
-						0.0,
+						-47.1807374,
+						-190.0
+					],
+					[
+						-47.1807701,
+						-37.19151
+					],
+					[
+						-90.8754112,
+						-5.4000206
+					],
+					[
+						-92.8398674,
 						0.0
 					],
 					[
-						0.0,
+						-87.8398674,
 						0.0
 					],
 					[
-						0.0,
+						87.8398674,
 						0.0
 					],
 					[
-						0.0,
+						92.8398674,
 						0.0
+					],
+					[
+						90.875367,
+						-5.4000206
+					],
+					[
+						47.180699100000005,
+						-37.1912346
+					],
+					[
+						47.180699100000005,
+						-190.0
 					]
 				],
 				"materials": [
@@ -2305,186 +2342,211 @@ var hdrStages = [
 						"leftLedge": false,
 						"rightLedge": false,
 						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 0.0,
+						"passthroughAngle": 181,
+						"length": 152.808487,
 						"ceiling": false,
 						"wall": true,
-						"material": "Wood"
+						"material": "Brick"
 					},
 					{
 						"leftLedge": false,
 						"rightLedge": false,
 						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
+						"passthroughAngle": 234,
+						"length": 54.03629,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 200,
+						"length": 5.74624252,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": true,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
 						"wall": false,
-						"material": "Wood"
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 175.679733,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": true,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 341,
+						"length": 5.74625826,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 307,
+						"length": 54.0361481,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
 					},
 					{
 						"leftLedge": false,
 						"rightLedge": false,
 						"noWallJump": false,
 						"passthroughAngle": 0,
-						"length": 0.0,
+						"length": 152.808762,
 						"ceiling": false,
 						"wall": true,
-						"material": "Wood"
+						"material": "Brick"
 					}
 				],
 				"boundingBox": [
 					[
-						0.0,
-						0.0
+						-92.8398674,
+						-190.0
 					],
 					[
-						0.0,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_01_GimmickPillar01A",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
+						92.8398674,
 						0.0
 					]
 				]
 			}
 		],
 		"platforms": [
-			{
-				"name": "COL_01_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						80.0,
-						43.0
-					],
-					[
-						80.0,
-						43.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_01_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						0.0,
-						63.0
-					],
-					[
-						0.0,
-						63.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_01_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-80.0,
-						43.0000458
-					],
-					[
-						-80.0,
-						43.0000458
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_01_GimmickPlatform01_throug",
+			// 	"vertex": [
+			// 		[
+			// 			80.0,
+			// 			43.0
+			// 		],
+			// 		[
+			// 			80.0,
+			// 			43.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_01_GimmickPlatform01_throug",
+			// 	"vertex": [
+			// 		[
+			// 			0.0,
+			// 			63.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			63.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_01_GimmickPlatform01_throug",
+			// 	"vertex": [
+			// 		[
+			// 			-80.0,
+			// 			43.0000458
+			// 		],
+			// 		[
+			// 			-80.0,
+			// 			43.0000458
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_01_GimmickPillar02_through",
 				"vertex": [
@@ -2520,41 +2582,41 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_01_GimmickPillar03_through",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_01_GimmickPillar03_through",
+			// 	"vertex": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-252.496109,
@@ -2627,11 +2689,158 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
 		"stage": "Arena Ferox (4)",
 		"name": "Arena Ferox",
 		"lvd": "colloseum_04",
-		"collisions": [],
+		"collisions": [
+			{
+				"name": "COL_00_Floor01",
+				"vertex": [
+					[
+						-47.1807374,
+						-190.0
+					],
+					[
+						-47.1807701,
+						-37.19151
+					],
+					[
+						-90.8754112,
+						-5.4000206
+					],
+					[
+						-92.8398674,
+						0.0
+					],
+					[
+						-87.8398674,
+						0.0
+					],
+					[
+						87.8398674,
+						0.0
+					],
+					[
+						92.8398674,
+						0.0
+					],
+					[
+						90.875367,
+						-5.4000206
+					],
+					[
+						47.180699100000005,
+						-37.1912346
+					],
+					[
+						47.180699100000005,
+						-190.0
+					]
+				],
+				"materials": [
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 181,
+						"length": 152.808487,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 234,
+						"length": 54.03629,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 200,
+						"length": 5.74624252,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": true,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 175.679733,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": true,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 341,
+						"length": 5.74625826,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 307,
+						"length": 54.0361481,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 0,
+						"length": 152.808762,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					}
+				],
+				"boundingBox": [
+					[
+						-92.8398674,
+						-190.0
+					],
+					[
+						92.8398674,
+						0.0
+					]
+				]
+			}
+		],
 		"platforms": [
 			{
 				"name": "COL_04_Platform01B",
@@ -2822,76 +3031,76 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_04_GimmickPlatform01_throug",
+			// 	"vertex": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_04_GimmickPlatform01_throug",
+			// 	"vertex": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-252.837051,
@@ -2964,41 +3173,52 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
 		"stage": "Arena Ferox (3)",
 		"name": "Arena Ferox",
 		"lvd": "colloseum_03",
 		"collisions": [
 			{
-				"name": "COL_03_Platform01B",
+				"name": "COL_00_Floor01",
 				"vertex": [
 					[
-						0.0,
+						-47.1807374,
+						-190.0
+					],
+					[
+						-47.1807701,
+						-37.19151
+					],
+					[
+						-90.8754112,
+						-5.4000206
+					],
+					[
+						-92.8398674,
 						0.0
 					],
 					[
-						0.0,
+						-87.8398674,
 						0.0
 					],
 					[
-						0.0,
+						87.8398674,
 						0.0
 					],
 					[
-						0.0,
+						92.8398674,
 						0.0
 					],
 					[
-						0.0,
-						0.0
+						90.875367,
+						-5.4000206
 					],
 					[
-						0.0,
-						0.0
+						47.180699100000005,
+						-37.1912346
 					],
 					[
-						0.0,
-						0.0
+						47.180699100000005,
+						-190.0
 					]
 				],
 				"materials": [
@@ -3006,18 +3226,8 @@ var hdrStages = [
 						"leftLedge": false,
 						"rightLedge": false,
 						"noWallJump": false,
-						"passthroughAngle": 163,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 191,
-						"length": 0.0,
+						"passthroughAngle": 181,
+						"length": 152.808487,
 						"ceiling": false,
 						"wall": true,
 						"material": "Brick"
@@ -3026,9 +3236,29 @@ var hdrStages = [
 						"leftLedge": false,
 						"rightLedge": false,
 						"noWallJump": false,
-						"passthroughAngle": 280,
-						"length": 0.0,
-						"ceiling": true,
+						"passthroughAngle": 234,
+						"length": 54.03629,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 200,
+						"length": 5.74624252,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": true,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
 						"wall": false,
 						"material": "Brick"
 					},
@@ -3036,9 +3266,19 @@ var hdrStages = [
 						"leftLedge": false,
 						"rightLedge": false,
 						"noWallJump": false,
-						"passthroughAngle": 261,
-						"length": 0.0,
-						"ceiling": true,
+						"passthroughAngle": 90,
+						"length": 175.679733,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": true,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
 						"wall": false,
 						"material": "Brick"
 					},
@@ -3046,8 +3286,18 @@ var hdrStages = [
 						"leftLedge": false,
 						"rightLedge": false,
 						"noWallJump": false,
-						"passthroughAngle": 347,
-						"length": 0.0,
+						"passthroughAngle": 341,
+						"length": 5.74625826,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 307,
+						"length": 54.0361481,
 						"ceiling": false,
 						"wall": true,
 						"material": "Brick"
@@ -3057,7 +3307,7 @@ var hdrStages = [
 						"rightLedge": false,
 						"noWallJump": false,
 						"passthroughAngle": 0,
-						"length": 0.0,
+						"length": 152.808762,
 						"ceiling": false,
 						"wall": true,
 						"material": "Brick"
@@ -3065,270 +3315,11 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						0.0,
-						0.0
+						-92.8398674,
+						-190.0
 					],
 					[
-						0.0,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_03_Platform02B",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 257,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 284,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_03_Platform03B",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 160,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 175,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 261,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 332,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 8,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_03_Platform02A",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 109,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
+						92.8398674,
 						0.0
 					]
 				]
@@ -3454,41 +3445,41 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_03_Platform05_through",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 109,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_03_Platform05_through",
+			// 	"vertex": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 109,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Brick"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_03_Platform06_through",
 				"vertex": [
@@ -3596,12 +3587,158 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
 		"stage": "Arena Ferox (2)",
 		"name": "Arena Ferox",
 		"lvd": "colloseum_02",
-		"collisions": [],
-		"platforms": [
+		"collisions": [
+			{
+				"name": "COL_00_Floor01",
+				"vertex": [
+					[
+						-47.1807374,
+						-190.0
+					],
+					[
+						-47.1807701,
+						-37.19151
+					],
+					[
+						-90.8754112,
+						-5.4000206
+					],
+					[
+						-92.8398674,
+						0.0
+					],
+					[
+						-87.8398674,
+						0.0
+					],
+					[
+						87.8398674,
+						0.0
+					],
+					[
+						92.8398674,
+						0.0
+					],
+					[
+						90.875367,
+						-5.4000206
+					],
+					[
+						47.180699100000005,
+						-37.1912346
+					],
+					[
+						47.180699100000005,
+						-190.0
+					]
+				],
+				"materials": [
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 181,
+						"length": 152.808487,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 234,
+						"length": 54.03629,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 200,
+						"length": 5.74624252,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": true,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 175.679733,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": true,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 341,
+						"length": 5.74625826,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 307,
+						"length": 54.0361481,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 0,
+						"length": 152.808762,
+						"ceiling": false,
+						"wall": true,
+						"material": "Brick"
+					}
+				],
+				"boundingBox": [
+					[
+						-92.8398674,
+						-190.0
+					],
+					[
+						92.8398674,
+						0.0
+					]
+				]
+			}
+		], "platforms": [
 			{
 				"name": "COL_02_DestroyPlatform01_throug",
 				"vertex": [
@@ -3672,41 +3809,41 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_02_DestroyPlatformRight02_t",
-				"vertex": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_02_DestroyPlatformRight02_t",
+			// 	"vertex": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Brick"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-252.745651,
@@ -7161,7 +7298,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "Coliseum",
+		"stage": "Coliseum*",
 		"name": "Coliseum",
 		"lvd": "fe_colloseum_00",
 		"collisions": [
@@ -7889,7 +8026,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "Dracula's Castle",
+		"stage": "Dracula's Castle*",
 		"name": "Dracula's Castle",
 		"lvd": "dracula_castle_00",
 		"collisions": [
@@ -9906,1675 +10043,6 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
-		"stage": "Flat Zone X (4)",
-		"name": "Flat Zone X",
-		"lvd": "gw3_04",
-		"collisions": [],
-		"platforms": [
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_04_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform02_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.11071968
-					],
-					[
-						9.675,
-						1.11071968
-					]
-				]
-			},
-			{
-				"name": "COL_04_House_Platform01_through",
-				"vertex": [
-					[
-						50.5066681,
-						-17.4998646
-					],
-					[
-						81.0708542,
-						-4.035241
-					],
-					[
-						111.359894,
-						-16.2617073
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 113,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 68,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						50.5066681,
-						-17.4998646
-					],
-					[
-						111.359894,
-						-4.035241
-					]
-				]
-			}
-		],
-		"blast_zones": [
-			-150.0,
-			150.0,
-			129.0,
-			-121.0
-		],
-		"camera": [
-			-90.0,
-			90.0,
-			50.2,
-			-101.0
-		],
-		"center": [
-			0.0,
-			0.0
-		],
-		"spawns": [
-			[
-				-27.0,
-				-51.75
-			],
-			[
-				27.0,
-				-51.75
-			],
-			[
-				-63.0,
-				-51.75
-			],
-			[
-				63.0,
-				-51.75
-			],
-			[
-				-45.0,
-				-51.75
-			],
-			[
-				45.0,
-				-51.75
-			],
-			[
-				-9.0,
-				-51.75
-			],
-			[
-				9.0,
-				-51.75
-			]
-		],
-		"respawns": [
-			[
-				0.0,
-				18.0
-			],
-			[
-				36.0,
-				18.0
-			],
-			[
-				-36.0,
-				18.0
-			],
-			[
-				72.0,
-				18.0
-			],
-			[
-				-18.0,
-				46.0
-			],
-			[
-				18.0,
-				46.0
-			],
-			[
-				-55.071,
-				46.157
-			],
-			[
-				55.137,
-				45.838
-			]
-		],
-		"items": []
-	},
-	{
-		controversial: 1,
-		"stage": "Flat Zone X",
-		"name": "Flat Zone X",
-		"lvd": "gw3_00",
-		"collisions": [
-			{
-				"name": "COL_00_Floor",
-				"vertex": [
-					[
-						-324.0,
-						-51.75
-					],
-					[
-						-10.0,
-						-51.75
-					],
-					[
-						10.0,
-						-51.75
-					],
-					[
-						324.0,
-						-51.75
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 314.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 20.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 314.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-324.0,
-						-51.75
-					],
-					[
-						324.0,
-						-51.75
-					]
-				]
-			}
-		],
-		"platforms": [
-			{
-				"name": "COL_00_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform02_throug",
-				"vertex": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.675,
-						1.35000014
-					],
-					[
-						9.675,
-						1.35000014
-					]
-				]
-			},
-			{
-				"name": "COL_00_Platform01_through",
-				"vertex": [
-					[
-						-324.079773,
-						-36.0
-					],
-					[
-						-76.12917,
-						-28.35
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 91,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-324.079773,
-						-36.0
-					],
-					[
-						-76.12917,
-						-28.35
-					]
-				]
-			},
-			{
-				"name": "COL_00_Platform02_through",
-				"vertex": [
-					[
-						-324.031067,
-						-12.6
-					],
-					[
-						-76.12917,
-						-9.680401
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-324.031067,
-						-12.6
-					],
-					[
-						-76.12917,
-						-9.680401
-					]
-				]
-			},
-			{
-				"name": "COL_00_Platform03_through",
-				"vertex": [
-					[
-						-323.920227,
-						45.9
-					],
-					[
-						-76.12917,
-						13.968
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 82,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-323.920227,
-						13.968
-					],
-					[
-						-76.12917,
-						45.9
-					]
-				]
-			},
-			{
-				"name": "COL_00_Platform04_through",
-				"vertex": [
-					[
-						-324.0,
-						100.8
-					],
-					[
-						-76.12917,
-						35.4158974
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 75,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-324.0,
-						35.4158974
-					],
-					[
-						-76.12917,
-						100.8
-					]
-				]
-			}
-		],
-		"blast_zones": [
-			-150.0,
-			150.0,
-			129.0,
-			-121.0
-		],
-		"camera": [
-			-90.0,
-			90.0,
-			50.2,
-			-101.0
-		],
-		"center": [
-			0.0,
-			0.0
-		],
-		"spawns": [
-			[
-				-80.0,
-				-51.75
-			],
-			[
-				70.0,
-				-51.75
-			],
-			[
-				-30.0,
-				-51.75
-			],
-			[
-				20.0,
-				-51.75
-			],
-			[
-				-55.0,
-				-51.75
-			],
-			[
-				45.0,
-				-51.75
-			],
-			[
-				-5.0,
-				-51.75
-			],
-			[
-				-80.0,
-				-9.448
-			]
-		],
-		"respawns": [
-			[
-				0.0,
-				18.0
-			],
-			[
-				36.0,
-				18.0
-			],
-			[
-				-36.0,
-				18.0
-			],
-			[
-				72.0,
-				18.0
-			],
-			[
-				-18.0,
-				46.0
-			],
-			[
-				18.0,
-				46.0
-			],
-			[
-				-55.07102,
-				46.1571236
-			],
-			[
-				55.13717,
-				45.83838
-			]
-		],
-		"items": []
-	},
-	{
-		controversial: 1,
-		"stage": "Flat Zone X (3)",
-		"name": "Flat Zone X",
-		"lvd": "gw3_03",
-		"collisions": [
-			{
-				"name": "COL_03_Platform01",
-				"vertex": [
-					[
-						-39.69451,
-						0.0
-					],
-					[
-						39.69451,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 79.38902,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-39.69451,
-						0.0
-					],
-					[
-						39.69451,
-						0.0
-					]
-				]
-			}
-		],
-		"platforms": [
-			{
-				"name": "COL_03_Platform02_through",
-				"vertex": [
-					[
-						-37.94175,
-						-35.999997
-					],
-					[
-						37.94175,
-						-35.999997
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-37.94175,
-						-35.999997
-					],
-					[
-						37.94175,
-						-35.999997
-					]
-				]
-			},
-			{
-				"name": "COL_03_Platform03_through",
-				"vertex": [
-					[
-						-37.94175,
-						-59.3999978
-					],
-					[
-						37.94175,
-						-59.3999978
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-37.94175,
-						-59.3999978
-					],
-					[
-						37.94175,
-						-59.3999978
-					]
-				]
-			}
-		],
-		"blast_zones": [
-			-150.0,
-			150.0,
-			94.79993999999999,
-			-155.20006
-		],
-		"camera": [
-			-90.0,
-			90.0,
-			15.999940000000002,
-			-135.20006
-		],
-		"center": [
-			0.0,
-			34.20006
-		],
-		"spawns": [
-			[
-				-26.0,
-				-85.95006000000001
-			],
-			[
-				26.0,
-				-85.95006000000001
-			],
-			[
-				-62.0,
-				-85.95006000000001
-			],
-			[
-				62.0,
-				-85.95006000000001
-			],
-			[
-				-9.0,
-				-85.99906
-			],
-			[
-				9.0,
-				-85.95006000000001
-			],
-			[
-				-80.0,
-				-85.95006000000001
-			],
-			[
-				80.0,
-				-85.95006000000001
-			]
-		],
-		"respawns": [
-			[
-				0.0,
-				-29.20006
-			],
-			[
-				36.0,
-				-29.20006
-			],
-			[
-				-36.0,
-				-29.20006
-			],
-			[
-				72.0,
-				-29.20006
-			],
-			[
-				-18.0,
-				-1.2000600000000006
-			],
-			[
-				18.0,
-				-1.2000600000000006
-			],
-			[
-				-55.071,
-				-1.2000600000000006
-			],
-			[
-				55.137,
-				-1.2000600000000006
-			]
-		],
-		"items": []
-	},
-	{
-		controversial: 1,
-		"stage": "Flat Zone X (1)",
-		"name": "Flat Zone X",
-		"lvd": "gw3_01",
-		"collisions": [],
-		"platforms": [
-			{
-				"name": "COL_01_Platform01_through",
-				"vertex": [
-					[
-						-51.975,
-						-31.59
-					],
-					[
-						-32.4,
-						-31.59
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-51.975,
-						-31.59
-					],
-					[
-						-32.4,
-						-31.59
-					]
-				]
-			},
-			{
-				"name": "COL_01_Platform04_through",
-				"vertex": [
-					[
-						29.7,
-						-4.59
-					],
-					[
-						49.275,
-						-4.59
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						29.7,
-						-4.59
-					],
-					[
-						49.275,
-						-4.59
-					]
-				]
-			},
-			{
-				"name": "COL_01_Platform03_through",
-				"vertex": [
-					[
-						10.125,
-						-4.59
-					],
-					[
-						29.7,
-						-4.59
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						10.125,
-						-4.59
-					],
-					[
-						29.7,
-						-4.59
-					]
-				]
-			},
-			{
-				"name": "COL_01_Platform02_through",
-				"vertex": [
-					[
-						-32.4,
-						-31.59
-					],
-					[
-						-12.825,
-						-31.59
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-32.4,
-						-31.59
-					],
-					[
-						-12.825,
-						-31.59
-					]
-				]
-			}
-		],
-		"blast_zones": [
-			-150.0,
-			150.0,
-			129.0,
-			-121.0
-		],
-		"camera": [
-			-90.0,
-			90.0,
-			50.2,
-			-101.0
-		],
-		"center": [
-			0.0,
-			0.0
-		],
-		"spawns": [
-			[
-				-27.0,
-				-51.75
-			],
-			[
-				27.0,
-				-51.75
-			],
-			[
-				-63.0,
-				-51.75
-			],
-			[
-				63.0,
-				-51.75
-			],
-			[
-				-45.0,
-				-51.75
-			],
-			[
-				45.0,
-				-51.75
-			],
-			[
-				-9.0,
-				-51.75
-			],
-			[
-				9.0,
-				-51.75
-			]
-		],
-		"respawns": [
-			[
-				0.0,
-				18.0
-			],
-			[
-				36.0,
-				18.0
-			],
-			[
-				-36.0,
-				18.0
-			],
-			[
-				72.0,
-				18.0
-			],
-			[
-				-18.0,
-				46.0
-			],
-			[
-				18.0,
-				46.0
-			],
-			[
-				-55.071,
-				46.157
-			],
-			[
-				55.137,
-				45.838
-			]
-		],
-		"items": []
-	},
-	{
-		controversial: 1,
-		"stage": "Flat Zone X (2)",
-		"name": "Flat Zone X",
-		"lvd": "gw3_02",
-		"collisions": [],
-		"platforms": [
-			{
-				"name": "COL_02_Platform02_through",
-				"vertex": [
-					[
-						-45.80491,
-						-9.732215
-					],
-					[
-						45.8677139,
-						-9.732215
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-45.80491,
-						-9.732215
-					],
-					[
-						45.8677139,
-						-9.732215
-					]
-				]
-			},
-			{
-				"name": "COL_02_Platform01_through",
-				"vertex": [
-					[
-						-42.3103676,
-						21.5877857
-					],
-					[
-						42.4364243,
-						21.5877857
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "GameWatch"
-					}
-				],
-				"boundingBox": [
-					[
-						-42.3103676,
-						21.5877857
-					],
-					[
-						42.4364243,
-						21.5877857
-					]
-				]
-			}
-		],
-		"blast_zones": [
-			-150.0,
-			150.0,
-			129.0,
-			-121.0
-		],
-		"camera": [
-			-90.0,
-			90.0,
-			50.2,
-			-101.0
-		],
-		"center": [
-			0.0,
-			0.0
-		],
-		"spawns": [
-			[
-				-27.0,
-				-51.75
-			],
-			[
-				27.0,
-				-51.75
-			],
-			[
-				-63.0,
-				-51.75
-			],
-			[
-				63.0,
-				-51.75
-			],
-			[
-				-45.0,
-				-51.75
-			],
-			[
-				45.0,
-				-51.75
-			],
-			[
-				-9.0,
-				-51.799
-			],
-			[
-				9.0,
-				-51.75
-			]
-		],
-		"respawns": [
-			[
-				0.0,
-				35.0
-			],
-			[
-				36.0,
-				35.0
-			],
-			[
-				-36.0,
-				35.0
-			],
-			[
-				72.0,
-				35.0
-			],
-			[
-				-18.0,
-				44.0
-			],
-			[
-				18.0,
-				44.0
-			],
-			[
-				-55.071,
-				44.0
-			],
-			[
-				55.137,
-				44.0
-			]
-		],
-		"items": []
-	},
-	{
 		"stage": "Fountain of Dreams*",
 		"name": "Fountain of Dreams",
 		"lvd": "kirby_fountain_00",
@@ -13073,270 +11541,269 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
-		"stage": "Frigate Orpheon",
+		"stage": "Frigate Orpheon*",
 		"name": "Frigate Orpheon",
 		"lvd": "metroid_orpheon_00",
 		"collisions": [
-			{
-				"name": "COL_curve13",
-				"vertex": [
-					[
-						100.56401,
-						0.0
-					],
-					[
-						101.0,
-						0.0
-					],
-					[
-						110.2724152,
-						0.0
-					],
-					[
-						239.64278000000002,
-						0.0
-					],
-					[
-						249.35134,
-						0.0
-					],
-					[
-						249.35134,
-						0.0
-					],
-					[
-						247.0597839,
-						0.0
-					],
-					[
-						215.87626269999998,
-						0.0
-					],
-					[
-						184.190635,
-						0.0
-					],
-					[
-						165.724592,
-						0.0
-					],
-					[
-						134.0390167,
-						0.0
-					],
-					[
-						103.27031,
-						0.0
-					],
-					[
-						100.56401,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 0.43598938,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 118,
-						"length": 9.272415,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 129.370361,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 67,
-						"length": 9.708565,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 2.29155731,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 31.1835213,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 253,
-						"length": 31.685627,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 18.4660416,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 288,
-						"length": 31.6855755,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 30.7687073,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 2.70629883,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						100.60641,
-						-112.48000000000002
-					],
-					[
-						249.39373999999998,
-						-112.48000000000002
-					]
-				]
-			},
-			{
-				"name": "COL_curve14",
-				"vertex": [
-					[
-						410.0,
-						-287.48
-					],
-					[
-						225.0,
-						-287.48
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 185.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						225.0,
-						-287.48
-					],
-					[
-						410.0,
-						-287.48
-					]
-				]
-			},
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						530.0,
-						-287.48
-					],
-					[
-						260.0,
-						-287.48
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 270.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						260.0,
-						-287.48
-					],
-					[
-						530.0,
-						-287.48
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_curve13",
+			// 	"vertex": [
+			// 		[
+			// 			100.56401,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			101.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			110.2724152,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			239.64278000000002,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			249.35134,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			249.35134,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			247.0597839,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			215.87626269999998,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			184.190635,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			165.724592,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			134.0390167,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			103.27031,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			100.56401,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 179,
+			// 			"length": 0.43598938,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 118,
+			// 			"length": 9.272415,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 129.370361,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 67,
+			// 			"length": 9.708565,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 2.29155731,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 31.1835213,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 253,
+			// 			"length": 31.685627,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 18.4660416,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 288,
+			// 			"length": 31.6855755,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 271,
+			// 			"length": 30.7687073,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": true,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 271,
+			// 			"length": 2.70629883,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			100.60641,
+			// 			-112.48000000000002
+			// 		],
+			// 		[
+			// 			249.39373999999998,
+			// 			-112.48000000000002
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve14",
+			// 	"vertex": [
+			// 		[
+			// 			410.0,
+			// 			-287.48
+			// 		],
+			// 		[
+			// 			225.0,
+			// 			-287.48
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 185.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			225.0,
+			// 			-287.48
+			// 		],
+			// 		[
+			// 			410.0,
+			// 			-287.48
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			530.0,
+			// 			-287.48
+			// 		],
+			// 		[
+			// 			260.0,
+			// 			-287.48
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 270.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			260.0,
+			// 			-287.48
+			// 		],
+			// 		[
+			// 			530.0,
+			// 			-287.48
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_curve3",
 				"vertex": [
@@ -13484,127 +11951,127 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						-525.0,
-						-287.28000000000003
-					],
-					[
-						-525.0,
-						-287.28000000000003
-					],
-					[
-						-530.0,
-						-287.109394263
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 5.00290966,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-530.0,
-						-287.650605734
-					],
-					[
-						-525.0,
-						-287.48
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			-525.0,
+			// 			-287.28000000000003
+			// 		],
+			// 		[
+			// 			-525.0,
+			// 			-287.28000000000003
+			// 		],
+			// 		[
+			// 			-530.0,
+			// 			-287.109394263
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 5.00290966,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-530.0,
+			// 			-287.650605734
+			// 		],
+			// 		[
+			// 			-525.0,
+			// 			-287.48
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
-			{
-				"name": "COL_curve5",
-				"vertex": [
-					[
-						174.9576,
-						-175.0
-					],
-					[
-						174.9576,
-						-175.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						175.0,
-						-287.48
-					],
-					[
-						175.0,
-						-287.48
-					]
-				]
-			},
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						150.415,
-						-400.88340000000005
-					],
-					[
-						150.415,
-						-400.88340000000005
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						175.0,
-						-287.48
-					],
-					[
-						175.0,
-						-287.48
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_curve5",
+			// 	"vertex": [
+			// 		[
+			// 			174.9576,
+			// 			-175.0
+			// 		],
+			// 		[
+			// 			174.9576,
+			// 			-175.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			175.0,
+			// 			-287.48
+			// 		],
+			// 		[
+			// 			175.0,
+			// 			-287.48
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			150.415,
+			// 			-400.88340000000005
+			// 		],
+			// 		[
+			// 			150.415,
+			// 			-400.88340000000005
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			175.0,
+			// 			-287.48
+			// 		],
+			// 		[
+			// 			175.0,
+			// 			-287.48
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_curve1",
 				"vertex": [
@@ -18569,188 +17036,188 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_BridgeBreak01L",
-				"vertex": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 72,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 354,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 310,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 315,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				]
-			},
-			{
-				"name": "COL_00_BridgeBreak01R",
-				"vertex": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 231,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 206,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 109,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_BridgeBreak01L",
+			// 	"vertex": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 72,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 354,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 310,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 315,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_BridgeBreak01R",
+			// 	"vertex": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 231,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 206,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 181,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 181,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 109,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -18872,76 +17339,76 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_PlatformL_through",
-				"vertex": [
-					[
-						-95.00184999999999,
-						19.999740492058
-					],
-					[
-						-95.00184999999999,
-						19.999740492058
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformR_through",
-				"vertex": [
-					[
-						99.99815000000001,
-						37.999740492058
-					],
-					[
-						99.99815000000001,
-						37.999740492058
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_00_PlatformL_through",
+			// 	"vertex": [
+			// 		[
+			// 			-95.00184999999999,
+			// 			19.999740492058
+			// 		],
+			// 		[
+			// 			-95.00184999999999,
+			// 			19.999740492058
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_PlatformR_through",
+			// 	"vertex": [
+			// 		[
+			// 			99.99815000000001,
+			// 			37.999740492058
+			// 		],
+			// 		[
+			// 			99.99815000000001,
+			// 			37.999740492058
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_00_Bridge",
 				"vertex": [
@@ -19061,104 +17528,104 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_DeadTreeL_through",
-				"vertex": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 94,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				]
-			},
-			{
-				"name": "COL_00_DeadTreeR_through",
-				"vertex": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 97,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-10.000259507942
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_DeadTreeL_through",
+			// 	"vertex": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 94,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_DeadTreeR_through",
+			// 	"vertex": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 97,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-10.000259507942
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-230.00185,
@@ -21934,6 +20401,7 @@ var hdrStages = [
 		"items": []
 	},
 	{
+		controversial: 1,
 		"stage": "Great Cave Offensive",
 		"name": "Great Cave Offensive",
 		"lvd": "cave_00",
@@ -29293,7 +27761,6 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
 		"stage": "Great Plateau Tower",
 		"name": "Great Plateau Tower",
 		"lvd": "zelda_tower",
@@ -29571,279 +28038,279 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_curve2",
-				"vertex": [
-					[
-						-36.7167907,
-						-134.2730042
-					],
-					[
-						-37.796455,
-						-144.16175
-					],
-					[
-						-35.0178618,
-						-150.2313363
-					],
-					[
-						-28.6253867,
-						-154.39199000000002
-					],
-					[
-						28.526230299999998,
-						-154.40704
-					],
-					[
-						34.8860688,
-						-150.38231000000002
-					],
-					[
-						37.8005929,
-						-144.0623223
-					],
-					[
-						36.6992974,
-						-134.13422
-					],
-					[
-						20.1811662,
-						-98.92122
-					],
-					[
-						8.624713999999999,
-						-68.21758100000001
-					],
-					[
-						2.8368134499999993,
-						-41.89375100000001
-					],
-					[
-						0.7616325999999993,
-						-1.088560000000001
-					],
-					[
-						0.024321483399999375,
-						-5.9000000021569576e-05
-					],
-					[
-						-0.029525450000000626,
-						0.0
-					],
-					[
-						-0.7846597000000006,
-						-1.088117000000011
-					],
-					[
-						-2.8775394000000007,
-						-41.859892
-					],
-					[
-						-8.723969,
-						-68.21758100000001
-					],
-					[
-						-20.253545,
-						-98.84093000000001
-					],
-					[
-						-36.7167907,
-						-134.37416240000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 173,
-						"length": 9.94751,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 205,
-						"length": 6.675364,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 237,
-						"length": 7.62723827,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 57.15162,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 303,
-						"length": 7.526354,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 336,
-						"length": 6.959648,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 6,
-						"length": 9.988996,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 25,
-						"length": 38.8947868,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 20,
-						"length": 32.8064766,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 12,
-						"length": 26.9526215,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 2,
-						"length": 40.8579254,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 34,
-						"length": 1.3147099,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0538469665,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 145,
-						"length": 1.3244741,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 177,
-						"length": 40.8254547,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 167,
-						"length": 26.9983063,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 159,
-						"length": 32.72187,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 155,
-						"length": 39.16183,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-37.796455,
-						-154.40704
-					],
-					[
-						37.8005929,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_curve2",
+			// 	"vertex": [
+			// 		[
+			// 			-36.7167907,
+			// 			-134.2730042
+			// 		],
+			// 		[
+			// 			-37.796455,
+			// 			-144.16175
+			// 		],
+			// 		[
+			// 			-35.0178618,
+			// 			-150.2313363
+			// 		],
+			// 		[
+			// 			-28.6253867,
+			// 			-154.39199000000002
+			// 		],
+			// 		[
+			// 			28.526230299999998,
+			// 			-154.40704
+			// 		],
+			// 		[
+			// 			34.8860688,
+			// 			-150.38231000000002
+			// 		],
+			// 		[
+			// 			37.8005929,
+			// 			-144.0623223
+			// 		],
+			// 		[
+			// 			36.6992974,
+			// 			-134.13422
+			// 		],
+			// 		[
+			// 			20.1811662,
+			// 			-98.92122
+			// 		],
+			// 		[
+			// 			8.624713999999999,
+			// 			-68.21758100000001
+			// 		],
+			// 		[
+			// 			2.8368134499999993,
+			// 			-41.89375100000001
+			// 		],
+			// 		[
+			// 			0.7616325999999993,
+			// 			-1.088560000000001
+			// 		],
+			// 		[
+			// 			0.024321483399999375,
+			// 			-5.9000000021569576e-05
+			// 		],
+			// 		[
+			// 			-0.029525450000000626,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-0.7846597000000006,
+			// 			-1.088117000000011
+			// 		],
+			// 		[
+			// 			-2.8775394000000007,
+			// 			-41.859892
+			// 		],
+			// 		[
+			// 			-8.723969,
+			// 			-68.21758100000001
+			// 		],
+			// 		[
+			// 			-20.253545,
+			// 			-98.84093000000001
+			// 		],
+			// 		[
+			// 			-36.7167907,
+			// 			-134.37416240000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 173,
+			// 			"length": 9.94751,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 205,
+			// 			"length": 6.675364,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 237,
+			// 			"length": 7.62723827,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 57.15162,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 303,
+			// 			"length": 7.526354,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 336,
+			// 			"length": 6.959648,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 6,
+			// 			"length": 9.988996,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 25,
+			// 			"length": 38.8947868,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 20,
+			// 			"length": 32.8064766,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 12,
+			// 			"length": 26.9526215,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 2,
+			// 			"length": 40.8579254,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 34,
+			// 			"length": 1.3147099,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0538469665,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 145,
+			// 			"length": 1.3244741,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 177,
+			// 			"length": 40.8254547,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 167,
+			// 			"length": 26.9983063,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 159,
+			// 			"length": 32.72187,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 155,
+			// 			"length": 39.16183,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-37.796455,
+			// 			-154.40704
+			// 		],
+			// 		[
+			// 			37.8005929,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -30662,7 +29129,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "Halberd",
+		"stage": "Halberd*",
 		"name": "Halberd",
 		"lvd": "xhalberd_00",
 		"collisions": [
@@ -32421,7 +30888,6 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
 		"stage": "Kalos Pok\u00c3\u00a9mon League",
 		"name": "Kalos Pok\u00c3\u00a9mon League",
 		"lvd": "kalos_00",
@@ -32517,1049 +30983,1049 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_Fire_GimmickPlatform01",
-				"vertex": [
-					[
-						-60.0320778,
-						-15.984299999999998
-					],
-					[
-						-25.0320778,
-						-15.984299999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 35.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-60.0320778,
-						-15.984299999999998
-					],
-					[
-						-25.0320778,
-						-15.984299999999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Fire_GimmickPlatform02",
-				"vertex": [
-					[
-						25.0320778,
-						-15.984299999999998
-					],
-					[
-						60.0320778,
-						-15.984299999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 35.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						25.0320778,
-						-15.984299999999998
-					],
-					[
-						60.0320778,
-						-15.984299999999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Water_MortarShape",
-				"vertex": [
-					[
-						-80.0,
-						-245.9843
-					],
-					[
-						-80.0,
-						-45.9843
-					],
-					[
-						-68.5,
-						-45.9843
-					],
-					[
-						-65.75392,
-						-49.199543819999995
-					],
-					[
-						-25.0391788,
-						-64.2748655
-					],
-					[
-						-25.0391788,
-						-245.9843
-					],
-					[
-						25.0391922,
-						-245.9843
-					],
-					[
-						25.0391922,
-						-64.2748655
-					],
-					[
-						65.75392,
-						-49.199543819999995
-					],
-					[
-						68.5,
-						-45.9843
-					],
-					[
-						80.0,
-						-45.9843
-					],
-					[
-						80.0,
-						-245.9843
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 200.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 11.5,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 40,
-						"length": 4.228326,
-						"ceiling": false,
-						"wall": false,
-						"material": "Water"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 69,
-						"length": 43.4160767,
-						"ceiling": false,
-						"wall": false,
-						"material": "Water"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 181.709442,
-						"ceiling": false,
-						"wall": true,
-						"material": "Water"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 50.07837,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 181.709442,
-						"ceiling": false,
-						"wall": true,
-						"material": "Water"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 110,
-						"length": 43.41606,
-						"ceiling": false,
-						"wall": false,
-						"material": "Water"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 139,
-						"length": 4.228326,
-						"ceiling": false,
-						"wall": false,
-						"material": "Water"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 11.5,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 200.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-80.0,
-						-245.9843
-					],
-					[
-						80.0,
-						-45.9843
-					]
-				]
-			},
-			{
-				"name": "COL_00_Water_Slope01L",
-				"vertex": [
-					[
-						-295.0,
-						-8.073999999999998
-					],
-					[
-						-80.0,
-						-45.9843
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 79,
-						"length": 218.316727,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-295.0,
-						-45.9843
-					],
-					[
-						-80.0,
-						-8.073999999999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Water_Slope01R",
-				"vertex": [
-					[
-						80.0,
-						-45.9843
-					],
-					[
-						295.0,
-						-83.8946
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 79,
-						"length": 218.316727,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						80.0,
-						-83.8946
-					],
-					[
-						295.0,
-						-45.9843
-					]
-				]
-			},
-			{
-				"name": "COL_00_Water_Slope02L",
-				"vertex": [
-					[
-						-295.0,
-						-83.8946
-					],
-					[
-						-80.0,
-						-45.9843
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 100,
-						"length": 218.316727,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-295.0,
-						-83.8946
-					],
-					[
-						-80.0,
-						-45.9843
-					]
-				]
-			},
-			{
-				"name": "COL_00_Water_Slope02R",
-				"vertex": [
-					[
-						80.0,
-						-45.9843
-					],
-					[
-						295.0,
-						-8.073999999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 100,
-						"length": 218.316727,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						80.0,
-						-45.9843
-					],
-					[
-						295.0,
-						-8.073999999999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Steel_Sword01_Platform01",
-				"vertex": [
-					[
-						-0.625,
-						-97.34433
-					],
-					[
-						-3.22297668,
-						-90.592645
-					],
-					[
-						-4.490677,
-						-46.741944999999994
-					],
-					[
-						-8.689938,
-						-40.574952999999994
-					],
-					[
-						-8.689938,
-						-22.068303399999998
-					],
-					[
-						-4.65881729,
-						-22.068303399999998
-					],
-					[
-						-3.39796352,
-						-18.759764999999998
-					],
-					[
-						-3.39796352,
-						-6.389249999999997
-					],
-					[
-						-4.57416058,
-						-1.9000257000000005
-					],
-					[
-						-4.22342157,
-						-0.561353099999998
-					],
-					[
-						-3.22459626,
-						0.0
-					],
-					[
-						3.22459626,
-						0.0
-					],
-					[
-						4.22342157,
-						-0.561353099999998
-					],
-					[
-						4.57416058,
-						-1.9000257000000005
-					],
-					[
-						3.39796352,
-						-6.389249999999997
-					],
-					[
-						3.39796352,
-						-18.759764999999998
-					],
-					[
-						4.65881729,
-						-22.068303399999998
-					],
-					[
-						8.689938,
-						-22.068303399999998
-					],
-					[
-						8.689938,
-						-40.574952999999994
-					],
-					[
-						4.490677,
-						-46.741944999999994
-					],
-					[
-						3.22297668,
-						-90.592645
-					],
-					[
-						0.625,
-						-97.34433
-					],
-					[
-						-0.625,
-						-97.34433
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 202,
-						"length": 7.234276,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 182,
-						"length": 43.86902,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 215,
-						"length": 7.460937,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 18.506649,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 4.0311203,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 159,
-						"length": 3.54064655,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 12.3705158,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 195,
-						"length": 4.640751,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 165,
-						"length": 1.38385773,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 119,
-						"length": 1.14576077,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 6.44919252,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 60,
-						"length": 1.14576077,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 14,
-						"length": 1.38385773,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 346,
-						"length": 4.640751,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 12.3705158,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 20,
-						"length": 3.54064655,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 4.0311203,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 18.506649,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 326,
-						"length": 7.460937,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 359,
-						"length": 43.86902,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 339,
-						"length": 7.234276,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 1.25,
-						"ceiling": true,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-8.689938,
-						-97.34433
-					],
-					[
-						8.689938,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_00_Steel_Sword02_Platform01",
-				"vertex": [
-					[
-						-0.625,
-						-97.34433
-					],
-					[
-						-3.22297668,
-						-90.592645
-					],
-					[
-						-4.490677,
-						-46.741944999999994
-					],
-					[
-						-8.689938,
-						-40.574952999999994
-					],
-					[
-						-8.689938,
-						-22.068303399999998
-					],
-					[
-						-4.65881729,
-						-22.068303399999998
-					],
-					[
-						-3.39796352,
-						-18.759764999999998
-					],
-					[
-						-3.39796352,
-						-6.389249999999997
-					],
-					[
-						-4.57416058,
-						-1.9000257000000005
-					],
-					[
-						-4.22342157,
-						-0.561353099999998
-					],
-					[
-						-3.22459626,
-						0.0
-					],
-					[
-						3.22459626,
-						0.0
-					],
-					[
-						4.22342157,
-						-0.561353099999998
-					],
-					[
-						4.57416058,
-						-1.9000257000000005
-					],
-					[
-						3.39796352,
-						-6.389249999999997
-					],
-					[
-						3.39796352,
-						-18.759764999999998
-					],
-					[
-						4.65881729,
-						-22.068303399999998
-					],
-					[
-						8.689938,
-						-22.068303399999998
-					],
-					[
-						8.689938,
-						-40.574952999999994
-					],
-					[
-						4.490677,
-						-46.741944999999994
-					],
-					[
-						3.22297668,
-						-90.592645
-					],
-					[
-						0.625,
-						-97.34433
-					],
-					[
-						-0.625,
-						-97.34433
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 202,
-						"length": 7.234276,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 182,
-						"length": 43.86902,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 215,
-						"length": 7.460937,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 18.506649,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 4.0311203,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 159,
-						"length": 3.54064655,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 12.3705158,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 195,
-						"length": 4.640751,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 165,
-						"length": 1.38385773,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 119,
-						"length": 1.14576077,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 6.44919252,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 60,
-						"length": 1.14576077,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 14,
-						"length": 1.38385773,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 346,
-						"length": 4.640751,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 12.3705158,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 20,
-						"length": 3.54064655,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 4.0311203,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 18.506649,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 326,
-						"length": 7.460937,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 359,
-						"length": 43.86902,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 339,
-						"length": 7.234276,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 1.25,
-						"ceiling": true,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-8.689938,
-						-97.34433
-					],
-					[
-						8.689938,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_Fire_GimmickPlatform01",
+			// 	"vertex": [
+			// 		[
+			// 			-60.0320778,
+			// 			-15.984299999999998
+			// 		],
+			// 		[
+			// 			-25.0320778,
+			// 			-15.984299999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 35.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-60.0320778,
+			// 			-15.984299999999998
+			// 		],
+			// 		[
+			// 			-25.0320778,
+			// 			-15.984299999999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Fire_GimmickPlatform02",
+			// 	"vertex": [
+			// 		[
+			// 			25.0320778,
+			// 			-15.984299999999998
+			// 		],
+			// 		[
+			// 			60.0320778,
+			// 			-15.984299999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 35.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			25.0320778,
+			// 			-15.984299999999998
+			// 		],
+			// 		[
+			// 			60.0320778,
+			// 			-15.984299999999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Water_MortarShape",
+			// 	"vertex": [
+			// 		[
+			// 			-80.0,
+			// 			-245.9843
+			// 		],
+			// 		[
+			// 			-80.0,
+			// 			-45.9843
+			// 		],
+			// 		[
+			// 			-68.5,
+			// 			-45.9843
+			// 		],
+			// 		[
+			// 			-65.75392,
+			// 			-49.199543819999995
+			// 		],
+			// 		[
+			// 			-25.0391788,
+			// 			-64.2748655
+			// 		],
+			// 		[
+			// 			-25.0391788,
+			// 			-245.9843
+			// 		],
+			// 		[
+			// 			25.0391922,
+			// 			-245.9843
+			// 		],
+			// 		[
+			// 			25.0391922,
+			// 			-64.2748655
+			// 		],
+			// 		[
+			// 			65.75392,
+			// 			-49.199543819999995
+			// 		],
+			// 		[
+			// 			68.5,
+			// 			-45.9843
+			// 		],
+			// 		[
+			// 			80.0,
+			// 			-45.9843
+			// 		],
+			// 		[
+			// 			80.0,
+			// 			-245.9843
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 200.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 11.5,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 40,
+			// 			"length": 4.228326,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Water"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 69,
+			// 			"length": 43.4160767,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Water"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 181.709442,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Water"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 50.07837,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 181.709442,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Water"
+			// 		},
+			// 		{
+			// 			"leftLedge": true,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 110,
+			// 			"length": 43.41606,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Water"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 139,
+			// 			"length": 4.228326,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Water"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 11.5,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 200.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-80.0,
+			// 			-245.9843
+			// 		],
+			// 		[
+			// 			80.0,
+			// 			-45.9843
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Water_Slope01L",
+			// 	"vertex": [
+			// 		[
+			// 			-295.0,
+			// 			-8.073999999999998
+			// 		],
+			// 		[
+			// 			-80.0,
+			// 			-45.9843
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 79,
+			// 			"length": 218.316727,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-295.0,
+			// 			-45.9843
+			// 		],
+			// 		[
+			// 			-80.0,
+			// 			-8.073999999999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Water_Slope01R",
+			// 	"vertex": [
+			// 		[
+			// 			80.0,
+			// 			-45.9843
+			// 		],
+			// 		[
+			// 			295.0,
+			// 			-83.8946
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 79,
+			// 			"length": 218.316727,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			80.0,
+			// 			-83.8946
+			// 		],
+			// 		[
+			// 			295.0,
+			// 			-45.9843
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Water_Slope02L",
+			// 	"vertex": [
+			// 		[
+			// 			-295.0,
+			// 			-83.8946
+			// 		],
+			// 		[
+			// 			-80.0,
+			// 			-45.9843
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 100,
+			// 			"length": 218.316727,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-295.0,
+			// 			-83.8946
+			// 		],
+			// 		[
+			// 			-80.0,
+			// 			-45.9843
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Water_Slope02R",
+			// 	"vertex": [
+			// 		[
+			// 			80.0,
+			// 			-45.9843
+			// 		],
+			// 		[
+			// 			295.0,
+			// 			-8.073999999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 100,
+			// 			"length": 218.316727,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			80.0,
+			// 			-45.9843
+			// 		],
+			// 		[
+			// 			295.0,
+			// 			-8.073999999999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Steel_Sword01_Platform01",
+			// 	"vertex": [
+			// 		[
+			// 			-0.625,
+			// 			-97.34433
+			// 		],
+			// 		[
+			// 			-3.22297668,
+			// 			-90.592645
+			// 		],
+			// 		[
+			// 			-4.490677,
+			// 			-46.741944999999994
+			// 		],
+			// 		[
+			// 			-8.689938,
+			// 			-40.574952999999994
+			// 		],
+			// 		[
+			// 			-8.689938,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			-4.65881729,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			-3.39796352,
+			// 			-18.759764999999998
+			// 		],
+			// 		[
+			// 			-3.39796352,
+			// 			-6.389249999999997
+			// 		],
+			// 		[
+			// 			-4.57416058,
+			// 			-1.9000257000000005
+			// 		],
+			// 		[
+			// 			-4.22342157,
+			// 			-0.561353099999998
+			// 		],
+			// 		[
+			// 			-3.22459626,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			3.22459626,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			4.22342157,
+			// 			-0.561353099999998
+			// 		],
+			// 		[
+			// 			4.57416058,
+			// 			-1.9000257000000005
+			// 		],
+			// 		[
+			// 			3.39796352,
+			// 			-6.389249999999997
+			// 		],
+			// 		[
+			// 			3.39796352,
+			// 			-18.759764999999998
+			// 		],
+			// 		[
+			// 			4.65881729,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			8.689938,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			8.689938,
+			// 			-40.574952999999994
+			// 		],
+			// 		[
+			// 			4.490677,
+			// 			-46.741944999999994
+			// 		],
+			// 		[
+			// 			3.22297668,
+			// 			-90.592645
+			// 		],
+			// 		[
+			// 			0.625,
+			// 			-97.34433
+			// 		],
+			// 		[
+			// 			-0.625,
+			// 			-97.34433
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 202,
+			// 			"length": 7.234276,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 182,
+			// 			"length": 43.86902,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 215,
+			// 			"length": 7.460937,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 18.506649,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 4.0311203,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 159,
+			// 			"length": 3.54064655,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 12.3705158,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 195,
+			// 			"length": 4.640751,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 165,
+			// 			"length": 1.38385773,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 119,
+			// 			"length": 1.14576077,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 6.44919252,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 60,
+			// 			"length": 1.14576077,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 14,
+			// 			"length": 1.38385773,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 346,
+			// 			"length": 4.640751,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 12.3705158,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 20,
+			// 			"length": 3.54064655,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 4.0311203,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 18.506649,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 326,
+			// 			"length": 7.460937,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 359,
+			// 			"length": 43.86902,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 339,
+			// 			"length": 7.234276,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 1.25,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-8.689938,
+			// 			-97.34433
+			// 		],
+			// 		[
+			// 			8.689938,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Steel_Sword02_Platform01",
+			// 	"vertex": [
+			// 		[
+			// 			-0.625,
+			// 			-97.34433
+			// 		],
+			// 		[
+			// 			-3.22297668,
+			// 			-90.592645
+			// 		],
+			// 		[
+			// 			-4.490677,
+			// 			-46.741944999999994
+			// 		],
+			// 		[
+			// 			-8.689938,
+			// 			-40.574952999999994
+			// 		],
+			// 		[
+			// 			-8.689938,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			-4.65881729,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			-3.39796352,
+			// 			-18.759764999999998
+			// 		],
+			// 		[
+			// 			-3.39796352,
+			// 			-6.389249999999997
+			// 		],
+			// 		[
+			// 			-4.57416058,
+			// 			-1.9000257000000005
+			// 		],
+			// 		[
+			// 			-4.22342157,
+			// 			-0.561353099999998
+			// 		],
+			// 		[
+			// 			-3.22459626,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			3.22459626,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			4.22342157,
+			// 			-0.561353099999998
+			// 		],
+			// 		[
+			// 			4.57416058,
+			// 			-1.9000257000000005
+			// 		],
+			// 		[
+			// 			3.39796352,
+			// 			-6.389249999999997
+			// 		],
+			// 		[
+			// 			3.39796352,
+			// 			-18.759764999999998
+			// 		],
+			// 		[
+			// 			4.65881729,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			8.689938,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			8.689938,
+			// 			-40.574952999999994
+			// 		],
+			// 		[
+			// 			4.490677,
+			// 			-46.741944999999994
+			// 		],
+			// 		[
+			// 			3.22297668,
+			// 			-90.592645
+			// 		],
+			// 		[
+			// 			0.625,
+			// 			-97.34433
+			// 		],
+			// 		[
+			// 			-0.625,
+			// 			-97.34433
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 202,
+			// 			"length": 7.234276,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 182,
+			// 			"length": 43.86902,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 215,
+			// 			"length": 7.460937,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 18.506649,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 4.0311203,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 159,
+			// 			"length": 3.54064655,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 12.3705158,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 195,
+			// 			"length": 4.640751,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 165,
+			// 			"length": 1.38385773,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 119,
+			// 			"length": 1.14576077,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 6.44919252,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 60,
+			// 			"length": 1.14576077,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 14,
+			// 			"length": 1.38385773,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 346,
+			// 			"length": 4.640751,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 12.3705158,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 20,
+			// 			"length": 3.54064655,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 4.0311203,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 18.506649,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 326,
+			// 			"length": 7.460937,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 359,
+			// 			"length": 43.86902,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 339,
+			// 			"length": 7.234276,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 1.25,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-8.689938,
+			// 			-97.34433
+			// 		],
+			// 		[
+			// 			8.689938,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -33632,398 +32098,398 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_Water_Platform01_through",
-				"vertex": [
-					[
-						-64.96847,
-						-10.984299999999998
-					],
-					[
-						-29.9684677,
-						-10.984299999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-64.96847,
-						-10.984299999999998
-					],
-					[
-						-29.9684677,
-						-10.984299999999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Water_Platform02_through",
-				"vertex": [
-					[
-						29.9684677,
-						-10.984299999999998
-					],
-					[
-						64.96847,
-						-10.984299999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.9684677,
-						-10.984299999999998
-					],
-					[
-						64.96847,
-						-10.984299999999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Steel_Sword01Hilt_Platfo",
-				"vertex": [
-					[
-						-15.4999962,
-						-22.068303399999998
-					],
-					[
-						-8.689938,
-						-22.068303399999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-15.4999962,
-						-22.068303399999998
-					],
-					[
-						-8.689938,
-						-22.068303399999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Steel_Sword01Hilt_Platfo",
-				"vertex": [
-					[
-						8.689938,
-						-22.068303399999998
-					],
-					[
-						15.4999962,
-						-22.068303399999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						8.689938,
-						-22.068303399999998
-					],
-					[
-						15.4999962,
-						-22.068303399999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Steel_Sword02Hilt_Platfo",
-				"vertex": [
-					[
-						-15.4999962,
-						-22.068303399999998
-					],
-					[
-						-8.689938,
-						-22.068303399999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-15.4999962,
-						-22.068303399999998
-					],
-					[
-						-8.689938,
-						-22.068303399999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Steel_Sword02Hilt_Platfo",
-				"vertex": [
-					[
-						8.689938,
-						-22.068303399999998
-					],
-					[
-						15.4999962,
-						-22.068303399999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						8.689938,
-						-22.068303399999998
-					],
-					[
-						15.4999962,
-						-22.068303399999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Dragon_Platform01_throug",
-				"vertex": [
-					[
-						-63.0,
-						-22.984299999999998
-					],
-					[
-						-50.0062752,
-						-22.984299999999998
-					],
-					[
-						-47.5601273,
-						-22.6692136
-					],
-					[
-						-40.9899521,
-						-19.992097199999996
-					],
-					[
-						-38.1338539,
-						-19.234299999999998
-					],
-					[
-						-30.5,
-						-19.234299999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 97,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 112,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 104,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-63.0,
-						-22.984299999999998
-					],
-					[
-						-30.5,
-						-19.234299999999998
-					]
-				]
-			},
-			{
-				"name": "COL_00_Dragon_Platform02_throug",
-				"vertex": [
-					[
-						30.5,
-						-19.234299999999998
-					],
-					[
-						38.1338539,
-						-19.234299999999998
-					],
-					[
-						40.9899521,
-						-19.992097199999996
-					],
-					[
-						47.5601273,
-						-22.6692136
-					],
-					[
-						50.0062752,
-						-22.984299999999998
-					],
-					[
-						63.0,
-						-22.984299999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 75,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 67,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 82,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						30.5,
-						-22.984299999999998
-					],
-					[
-						63.0,
-						-19.234299999999998
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_Water_Platform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-64.96847,
+			// 			-10.984299999999998
+			// 		],
+			// 		[
+			// 			-29.9684677,
+			// 			-10.984299999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-64.96847,
+			// 			-10.984299999999998
+			// 		],
+			// 		[
+			// 			-29.9684677,
+			// 			-10.984299999999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Water_Platform02_through",
+			// 	"vertex": [
+			// 		[
+			// 			29.9684677,
+			// 			-10.984299999999998
+			// 		],
+			// 		[
+			// 			64.96847,
+			// 			-10.984299999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.9684677,
+			// 			-10.984299999999998
+			// 		],
+			// 		[
+			// 			64.96847,
+			// 			-10.984299999999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Steel_Sword01Hilt_Platfo",
+			// 	"vertex": [
+			// 		[
+			// 			-15.4999962,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			-8.689938,
+			// 			-22.068303399999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-15.4999962,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			-8.689938,
+			// 			-22.068303399999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Steel_Sword01Hilt_Platfo",
+			// 	"vertex": [
+			// 		[
+			// 			8.689938,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			15.4999962,
+			// 			-22.068303399999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			8.689938,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			15.4999962,
+			// 			-22.068303399999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Steel_Sword02Hilt_Platfo",
+			// 	"vertex": [
+			// 		[
+			// 			-15.4999962,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			-8.689938,
+			// 			-22.068303399999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-15.4999962,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			-8.689938,
+			// 			-22.068303399999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Steel_Sword02Hilt_Platfo",
+			// 	"vertex": [
+			// 		[
+			// 			8.689938,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			15.4999962,
+			// 			-22.068303399999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			8.689938,
+			// 			-22.068303399999998
+			// 		],
+			// 		[
+			// 			15.4999962,
+			// 			-22.068303399999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Dragon_Platform01_throug",
+			// 	"vertex": [
+			// 		[
+			// 			-63.0,
+			// 			-22.984299999999998
+			// 		],
+			// 		[
+			// 			-50.0062752,
+			// 			-22.984299999999998
+			// 		],
+			// 		[
+			// 			-47.5601273,
+			// 			-22.6692136
+			// 		],
+			// 		[
+			// 			-40.9899521,
+			// 			-19.992097199999996
+			// 		],
+			// 		[
+			// 			-38.1338539,
+			// 			-19.234299999999998
+			// 		],
+			// 		[
+			// 			-30.5,
+			// 			-19.234299999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 97,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 112,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 104,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-63.0,
+			// 			-22.984299999999998
+			// 		],
+			// 		[
+			// 			-30.5,
+			// 			-19.234299999999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Dragon_Platform02_throug",
+			// 	"vertex": [
+			// 		[
+			// 			30.5,
+			// 			-19.234299999999998
+			// 		],
+			// 		[
+			// 			38.1338539,
+			// 			-19.234299999999998
+			// 		],
+			// 		[
+			// 			40.9899521,
+			// 			-19.992097199999996
+			// 		],
+			// 		[
+			// 			47.5601273,
+			// 			-22.6692136
+			// 		],
+			// 		[
+			// 			50.0062752,
+			// 			-22.984299999999998
+			// 		],
+			// 		[
+			// 			63.0,
+			// 			-22.984299999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 75,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 67,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 82,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			30.5,
+			// 			-22.984299999999998
+			// 		],
+			// 		[
+			// 			63.0,
+			// 			-19.234299999999998
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-245.0,
@@ -34675,76 +33141,76 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_MovingPlatform01_through",
-				"vertex": [
-					[
-						-12.2000008,
-						46.2369881
-					],
-					[
-						-12.2000008,
-						46.2369881
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_00_MovingPlatform02_through",
-				"vertex": [
-					[
-						12.2000008,
-						46.291832
-					],
-					[
-						12.2000008,
-						46.291832
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						0.0,
-						0.0
-					],
-					[
-						0.0,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-12.2000008,
+			// 			46.2369881
+			// 		],
+			// 		[
+			// 			-12.2000008,
+			// 			46.2369881
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_MovingPlatform02_through",
+			// 	"vertex": [
+			// 		[
+			// 			12.2000008,
+			// 			46.291832
+			// 		],
+			// 		[
+			// 			12.2000008,
+			// 			46.291832
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-230.0,
@@ -35246,41 +33712,41 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_Platform04_through",
-				"vertex": [
-					[
-						-0.14999999999999858,
-						-143.5
-					],
-					[
-						-0.14999999999999858,
-						-143.5
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.14999999999999858,
-						-143.5
-					],
-					[
-						-0.14999999999999858,
-						-143.5
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_Platform04_through",
+			// 	"vertex": [
+			// 		[
+			// 			-0.14999999999999858,
+			// 			-143.5
+			// 		],
+			// 		[
+			// 			-0.14999999999999858,
+			// 			-143.5
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.14999999999999858,
+			// 			-143.5
+			// 		],
+			// 		[
+			// 			-0.14999999999999858,
+			// 			-143.5
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-229.15,
@@ -36697,1336 +35163,1336 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_danzyonotoko",
-				"vertex": [
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 228,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 166,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 168,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 192,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 141,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 168,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 168,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 159,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 23,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 13,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 15,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 43,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 350,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 7,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 11,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 328,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						2.5,
-						-34.8981743
-					],
-					[
-						2.5,
-						-34.8981743
-					]
-				]
-			},
-			{
-				"name": "COL_00_Skywalker",
-				"vertex": [
-					[
-						2.50000381469727,
-						-29.3642363
-					],
-					[
-						-1.16097641,
-						-29.045775300000003
-					],
-					[
-						-5.05084229,
-						-28.134248300000003
-					],
-					[
-						-8.8822861,
-						-31.287416
-					],
-					[
-						-10.0317926,
-						-31.85621406
-					],
-					[
-						-13.2659626,
-						-28.8031663
-					],
-					[
-						-12.5189686,
-						-27.47546293
-					],
-					[
-						-13.569320000000001,
-						-20.198841100000003
-					],
-					[
-						-17.6592026,
-						-17.452335400000003
-					],
-					[
-						-18.0484,
-						-16.7981167
-					],
-					[
-						-14.096070000000001,
-						-14.346038800000002
-					],
-					[
-						-13.951034499999999,
-						-12.835300500000002
-					],
-					[
-						-11.44651,
-						-6.862970400000002
-					],
-					[
-						-9.3605347,
-						-4.460849800000002
-					],
-					[
-						-6.818759999999999,
-						-2.537468000000004
-					],
-					[
-						-3.918869,
-						-1.1362743000000037
-					],
-					[
-						2.50000381469727,
-						0.0
-					],
-					[
-						5.61215973,
-						-0.2852973999999975
-					],
-					[
-						8.91888428,
-						-1.1362743000000037
-					],
-					[
-						11.818771,
-						-2.537468000000004
-					],
-					[
-						14.3605423,
-						-4.460849800000002
-					],
-					[
-						16.4465294,
-						-6.862970400000002
-					],
-					[
-						18.95105,
-						-12.835300500000002
-					],
-					[
-						19.09608,
-						-14.346038800000002
-					],
-					[
-						23.0484161,
-						-16.7981167
-					],
-					[
-						22.659214,
-						-17.452335400000003
-					],
-					[
-						18.5693359,
-						-20.1988421
-					],
-					[
-						17.649227099999997,
-						-21.9103384
-					],
-					[
-						17.5189686,
-						-27.47546293
-					],
-					[
-						18.2659626,
-						-28.8031663
-					],
-					[
-						15.0317926,
-						-31.85621406
-					],
-					[
-						13.7774,
-						-30.92936517
-					],
-					[
-						9.68128967,
-						-28.1564088
-					],
-					[
-						6.34938431,
-						-29.0570733
-					],
-					[
-						2.50000381469727,
-						-29.3642363
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 266,
-						"length": 3.67480516,
-						"ceiling": true,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 257,
-						"length": 3.9952395,
-						"ceiling": true,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 310,
-						"length": 4.962099,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 297,
-						"length": 1.2825352,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 227,
-						"length": 4.44757843,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 150,
-						"length": 1.523416,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 189,
-						"length": 7.352038,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 237,
-						"length": 4.9265027,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 211,
-						"length": 0.7612341,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 121,
-						"length": 4.65119457,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 174,
-						"length": 1.51768422,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 157,
-						"length": 6.47621536,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 139,
-						"length": 3.181427,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 127,
-						"length": 3.187478,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 115,
-						"length": 3.22067022,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 100,
-						"length": 6.51866865,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 84,
-						"length": 3.12520552,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 75,
-						"length": 3.414467,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 64,
-						"length": 3.22066665,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 52,
-						"length": 3.187475,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 40,
-						"length": 3.18143439,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 22,
-						"length": 6.476214,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 5,
-						"length": 1.51768386,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 58,
-						"length": 4.651198,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 330,
-						"length": 0.7612361,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 304,
-						"length": 4.9265,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 332,
-						"length": 1.943147,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 359,
-						"length": 5.566649,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 29,
-						"length": 1.523416,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 314,
-						"length": 4.44757843,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 234,
-						"length": 1.5596633,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 236,
-						"length": 4.946454,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 286,
-						"length": 3.45149088,
-						"ceiling": true,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 275,
-						"length": 3.86161613,
-						"ceiling": true,
-						"wall": false,
-						"material": "HeavyMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-18.0484,
-						-31.85621406
-					],
-					[
-						23.0484161,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_00_Kyodai_tomato",
-				"vertex": [
-					[
-						2.4999999964603736,
-						-37.88884856
-					],
-					[
-						-5.11614561,
-						-36.00273551
-					],
-					[
-						-9.4032364,
-						-32.9863614
-					],
-					[
-						-12.7117729,
-						-24.8192911
-					],
-					[
-						-11.4930182,
-						-18.596031200000002
-					],
-					[
-						-5.383753,
-						-14.727380800000002
-					],
-					[
-						2.499996597559,
-						-14.1587162
-					],
-					[
-						10.383752999999999,
-						-14.727380800000002
-					],
-					[
-						16.4930182,
-						-18.596031200000002
-					],
-					[
-						17.7117729,
-						-24.8192911
-					],
-					[
-						15.5827255,
-						-32.0114723
-					],
-					[
-						10.11614561,
-						-36.00273551
-					],
-					[
-						2.4999999964603736,
-						-37.88884856
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 257,
-						"length": 7.84621525,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 235,
-						"length": 5.241914,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 203,
-						"length": 8.811779,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 168,
-						"length": 6.341477,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 122,
-						"length": 7.23115349,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 94,
-						"length": 7.904232,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 85,
-						"length": 7.9042387,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 57,
-						"length": 7.23115349,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 11,
-						"length": 6.341477,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 344,
-						"length": 7.5006876,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 307,
-						"length": 6.76858044,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 284,
-						"length": 7.84621525,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-12.7117729,
-						-37.88884856
-					],
-					[
-						17.7117729,
-						-14.1587162
-					]
-				]
-			},
-			{
-				"name": "COL_00_Tetsutako",
-				"vertex": [
-					[
-						2.5,
-						-35.8551035
-					],
-					[
-						-4.294576,
-						-35.8481048
-					],
-					[
-						-5.317254,
-						-35.266213252
-					],
-					[
-						-6.057696999999999,
-						-33.65567721
-					],
-					[
-						-4.631464,
-						-32.69226791
-					],
-					[
-						-4.67163134,
-						-27.01608469
-					],
-					[
-						-4.462131,
-						-25.5240698
-					],
-					[
-						-4.59583759,
-						-21.5370531
-					],
-					[
-						-4.893478,
-						-19.3349352
-					],
-					[
-						-4.80429554,
-						-17.5998898
-					],
-					[
-						-3.6245746600000004,
-						-15.387521800000002
-					],
-					[
-						-1.12333179,
-						-13.412899
-					],
-					[
-						2.499999993171745,
-						-12.814668700000002
-					],
-					[
-						6.12333131,
-						-13.412899
-					],
-					[
-						8.624575,
-						-15.387524300000003
-					],
-					[
-						9.80429554,
-						-17.5998898
-					],
-					[
-						9.893478,
-						-19.3349352
-					],
-					[
-						9.62044525,
-						-21.5395699
-					],
-					[
-						9.49520445,
-						-25.6152503
-					],
-					[
-						9.735372,
-						-26.8944243
-					],
-					[
-						9.66592026,
-						-32.67572762
-					],
-					[
-						11.000907,
-						-33.66948284
-					],
-					[
-						10.44649553,
-						-34.99803086
-					],
-					[
-						9.21123362,
-						-35.837689652
-					],
-					[
-						2.5,
-						-35.8551035
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 6.79458,
-						"ceiling": true,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 241,
-						"length": 1.17663407,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 205,
-						"length": 1.77259207,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 124,
-						"length": 1.721133,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 5.67632532,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 172,
-						"length": 1.50665152,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 182,
-						"length": 3.989258,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 188,
-						"length": 2.2221415,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 177,
-						"length": 1.73733592,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 151,
-						"length": 2.50725222,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 128,
-						"length": 3.18674612,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 99,
-						"length": 3.67238522,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 80,
-						"length": 3.67238474,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 51,
-						"length": 3.186748,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 28,
-						"length": 2.50725031,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 2,
-						"length": 1.73733592,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 353,
-						"length": 2.22147727,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 359,
-						"length": 4.07760429,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 10,
-						"length": 1.30152452,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 5.78172,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 53,
-						"length": 1.66425323,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 338,
-						"length": 1.43958735,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 305,
-						"length": 1.49361944,
-						"ceiling": false,
-						"wall": true,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 6.711256,
-						"ceiling": true,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-6.057696999999999,
-						-35.8551035
-					],
-					[
-						11.000907,
-						-12.814668700000002
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_danzyonotoko",
+			// 	"vertex": [
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 228,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 166,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 168,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 192,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 141,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 168,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 168,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 159,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 23,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 13,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 15,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 43,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 350,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 7,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 11,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 328,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-34.8981743
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Skywalker",
+			// 	"vertex": [
+			// 		[
+			// 			2.50000381469727,
+			// 			-29.3642363
+			// 		],
+			// 		[
+			// 			-1.16097641,
+			// 			-29.045775300000003
+			// 		],
+			// 		[
+			// 			-5.05084229,
+			// 			-28.134248300000003
+			// 		],
+			// 		[
+			// 			-8.8822861,
+			// 			-31.287416
+			// 		],
+			// 		[
+			// 			-10.0317926,
+			// 			-31.85621406
+			// 		],
+			// 		[
+			// 			-13.2659626,
+			// 			-28.8031663
+			// 		],
+			// 		[
+			// 			-12.5189686,
+			// 			-27.47546293
+			// 		],
+			// 		[
+			// 			-13.569320000000001,
+			// 			-20.198841100000003
+			// 		],
+			// 		[
+			// 			-17.6592026,
+			// 			-17.452335400000003
+			// 		],
+			// 		[
+			// 			-18.0484,
+			// 			-16.7981167
+			// 		],
+			// 		[
+			// 			-14.096070000000001,
+			// 			-14.346038800000002
+			// 		],
+			// 		[
+			// 			-13.951034499999999,
+			// 			-12.835300500000002
+			// 		],
+			// 		[
+			// 			-11.44651,
+			// 			-6.862970400000002
+			// 		],
+			// 		[
+			// 			-9.3605347,
+			// 			-4.460849800000002
+			// 		],
+			// 		[
+			// 			-6.818759999999999,
+			// 			-2.537468000000004
+			// 		],
+			// 		[
+			// 			-3.918869,
+			// 			-1.1362743000000037
+			// 		],
+			// 		[
+			// 			2.50000381469727,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			5.61215973,
+			// 			-0.2852973999999975
+			// 		],
+			// 		[
+			// 			8.91888428,
+			// 			-1.1362743000000037
+			// 		],
+			// 		[
+			// 			11.818771,
+			// 			-2.537468000000004
+			// 		],
+			// 		[
+			// 			14.3605423,
+			// 			-4.460849800000002
+			// 		],
+			// 		[
+			// 			16.4465294,
+			// 			-6.862970400000002
+			// 		],
+			// 		[
+			// 			18.95105,
+			// 			-12.835300500000002
+			// 		],
+			// 		[
+			// 			19.09608,
+			// 			-14.346038800000002
+			// 		],
+			// 		[
+			// 			23.0484161,
+			// 			-16.7981167
+			// 		],
+			// 		[
+			// 			22.659214,
+			// 			-17.452335400000003
+			// 		],
+			// 		[
+			// 			18.5693359,
+			// 			-20.1988421
+			// 		],
+			// 		[
+			// 			17.649227099999997,
+			// 			-21.9103384
+			// 		],
+			// 		[
+			// 			17.5189686,
+			// 			-27.47546293
+			// 		],
+			// 		[
+			// 			18.2659626,
+			// 			-28.8031663
+			// 		],
+			// 		[
+			// 			15.0317926,
+			// 			-31.85621406
+			// 		],
+			// 		[
+			// 			13.7774,
+			// 			-30.92936517
+			// 		],
+			// 		[
+			// 			9.68128967,
+			// 			-28.1564088
+			// 		],
+			// 		[
+			// 			6.34938431,
+			// 			-29.0570733
+			// 		],
+			// 		[
+			// 			2.50000381469727,
+			// 			-29.3642363
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 266,
+			// 			"length": 3.67480516,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 257,
+			// 			"length": 3.9952395,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 310,
+			// 			"length": 4.962099,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 297,
+			// 			"length": 1.2825352,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 227,
+			// 			"length": 4.44757843,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 150,
+			// 			"length": 1.523416,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 189,
+			// 			"length": 7.352038,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 237,
+			// 			"length": 4.9265027,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 211,
+			// 			"length": 0.7612341,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 121,
+			// 			"length": 4.65119457,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 174,
+			// 			"length": 1.51768422,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 157,
+			// 			"length": 6.47621536,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 139,
+			// 			"length": 3.181427,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 127,
+			// 			"length": 3.187478,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 115,
+			// 			"length": 3.22067022,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 100,
+			// 			"length": 6.51866865,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 84,
+			// 			"length": 3.12520552,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 75,
+			// 			"length": 3.414467,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 64,
+			// 			"length": 3.22066665,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 52,
+			// 			"length": 3.187475,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 40,
+			// 			"length": 3.18143439,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 22,
+			// 			"length": 6.476214,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 5,
+			// 			"length": 1.51768386,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 58,
+			// 			"length": 4.651198,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 330,
+			// 			"length": 0.7612361,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 304,
+			// 			"length": 4.9265,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 332,
+			// 			"length": 1.943147,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 359,
+			// 			"length": 5.566649,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 29,
+			// 			"length": 1.523416,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 314,
+			// 			"length": 4.44757843,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 234,
+			// 			"length": 1.5596633,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 236,
+			// 			"length": 4.946454,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 286,
+			// 			"length": 3.45149088,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 275,
+			// 			"length": 3.86161613,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-18.0484,
+			// 			-31.85621406
+			// 		],
+			// 		[
+			// 			23.0484161,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Kyodai_tomato",
+			// 	"vertex": [
+			// 		[
+			// 			2.4999999964603736,
+			// 			-37.88884856
+			// 		],
+			// 		[
+			// 			-5.11614561,
+			// 			-36.00273551
+			// 		],
+			// 		[
+			// 			-9.4032364,
+			// 			-32.9863614
+			// 		],
+			// 		[
+			// 			-12.7117729,
+			// 			-24.8192911
+			// 		],
+			// 		[
+			// 			-11.4930182,
+			// 			-18.596031200000002
+			// 		],
+			// 		[
+			// 			-5.383753,
+			// 			-14.727380800000002
+			// 		],
+			// 		[
+			// 			2.499996597559,
+			// 			-14.1587162
+			// 		],
+			// 		[
+			// 			10.383752999999999,
+			// 			-14.727380800000002
+			// 		],
+			// 		[
+			// 			16.4930182,
+			// 			-18.596031200000002
+			// 		],
+			// 		[
+			// 			17.7117729,
+			// 			-24.8192911
+			// 		],
+			// 		[
+			// 			15.5827255,
+			// 			-32.0114723
+			// 		],
+			// 		[
+			// 			10.11614561,
+			// 			-36.00273551
+			// 		],
+			// 		[
+			// 			2.4999999964603736,
+			// 			-37.88884856
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 257,
+			// 			"length": 7.84621525,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 235,
+			// 			"length": 5.241914,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 203,
+			// 			"length": 8.811779,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 168,
+			// 			"length": 6.341477,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 122,
+			// 			"length": 7.23115349,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 94,
+			// 			"length": 7.904232,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 85,
+			// 			"length": 7.9042387,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 57,
+			// 			"length": 7.23115349,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 11,
+			// 			"length": 6.341477,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 344,
+			// 			"length": 7.5006876,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 307,
+			// 			"length": 6.76858044,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 284,
+			// 			"length": 7.84621525,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-12.7117729,
+			// 			-37.88884856
+			// 		],
+			// 		[
+			// 			17.7117729,
+			// 			-14.1587162
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Tetsutako",
+			// 	"vertex": [
+			// 		[
+			// 			2.5,
+			// 			-35.8551035
+			// 		],
+			// 		[
+			// 			-4.294576,
+			// 			-35.8481048
+			// 		],
+			// 		[
+			// 			-5.317254,
+			// 			-35.266213252
+			// 		],
+			// 		[
+			// 			-6.057696999999999,
+			// 			-33.65567721
+			// 		],
+			// 		[
+			// 			-4.631464,
+			// 			-32.69226791
+			// 		],
+			// 		[
+			// 			-4.67163134,
+			// 			-27.01608469
+			// 		],
+			// 		[
+			// 			-4.462131,
+			// 			-25.5240698
+			// 		],
+			// 		[
+			// 			-4.59583759,
+			// 			-21.5370531
+			// 		],
+			// 		[
+			// 			-4.893478,
+			// 			-19.3349352
+			// 		],
+			// 		[
+			// 			-4.80429554,
+			// 			-17.5998898
+			// 		],
+			// 		[
+			// 			-3.6245746600000004,
+			// 			-15.387521800000002
+			// 		],
+			// 		[
+			// 			-1.12333179,
+			// 			-13.412899
+			// 		],
+			// 		[
+			// 			2.499999993171745,
+			// 			-12.814668700000002
+			// 		],
+			// 		[
+			// 			6.12333131,
+			// 			-13.412899
+			// 		],
+			// 		[
+			// 			8.624575,
+			// 			-15.387524300000003
+			// 		],
+			// 		[
+			// 			9.80429554,
+			// 			-17.5998898
+			// 		],
+			// 		[
+			// 			9.893478,
+			// 			-19.3349352
+			// 		],
+			// 		[
+			// 			9.62044525,
+			// 			-21.5395699
+			// 		],
+			// 		[
+			// 			9.49520445,
+			// 			-25.6152503
+			// 		],
+			// 		[
+			// 			9.735372,
+			// 			-26.8944243
+			// 		],
+			// 		[
+			// 			9.66592026,
+			// 			-32.67572762
+			// 		],
+			// 		[
+			// 			11.000907,
+			// 			-33.66948284
+			// 		],
+			// 		[
+			// 			10.44649553,
+			// 			-34.99803086
+			// 		],
+			// 		[
+			// 			9.21123362,
+			// 			-35.837689652
+			// 		],
+			// 		[
+			// 			2.5,
+			// 			-35.8551035
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 6.79458,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 241,
+			// 			"length": 1.17663407,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 205,
+			// 			"length": 1.77259207,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 124,
+			// 			"length": 1.721133,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 181,
+			// 			"length": 5.67632532,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 172,
+			// 			"length": 1.50665152,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 182,
+			// 			"length": 3.989258,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 188,
+			// 			"length": 2.2221415,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 177,
+			// 			"length": 1.73733592,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 151,
+			// 			"length": 2.50725222,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 128,
+			// 			"length": 3.18674612,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 99,
+			// 			"length": 3.67238522,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 80,
+			// 			"length": 3.67238474,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 51,
+			// 			"length": 3.186748,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 28,
+			// 			"length": 2.50725031,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 2,
+			// 			"length": 1.73733592,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 353,
+			// 			"length": 2.22147727,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 359,
+			// 			"length": 4.07760429,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 10,
+			// 			"length": 1.30152452,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 5.78172,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 53,
+			// 			"length": 1.66425323,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 338,
+			// 			"length": 1.43958735,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 305,
+			// 			"length": 1.49361944,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 271,
+			// 			"length": 6.711256,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-6.057696999999999,
+			// 			-35.8551035
+			// 		],
+			// 		[
+			// 			11.000907,
+			// 			-12.814668700000002
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -38484,202 +36950,202 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_Arukume_through",
-				"vertex": [
-					[
-						-9.4467344,
-						-16.9614201
-					],
-					[
-						-7.8416,
-						-14.1991692
-					],
-					[
-						-4.36629152,
-						-12.0260182
-					],
-					[
-						0.6671599100000001,
-						-12.108007400000002
-					],
-					[
-						4.674049,
-						-12.8061443
-					],
-					[
-						8.68276024,
-						-12.173339900000002
-					],
-					[
-						13.7136726,
-						-11.7250343
-					],
-					[
-						17.188784599999998,
-						-14.1599343
-					],
-					[
-						19.1439648,
-						-17.6630802
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 149,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 122,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 80,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 98,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 95,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 54,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 29,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					}
-				],
-				"boundingBox": [
-					[
-						-9.4467344,
-						-17.6630802
-					],
-					[
-						19.1439648,
-						-11.7250343
-					]
-				]
-			},
-			{
-				"name": "COL_00_Ki_through",
-				"vertex": [
-					[
-						-12.162818,
-						1.3849791999999965
-					],
-					[
-						-9.9909325,
-						3.1661756999999966
-					],
-					[
-						15.3169107,
-						3.1661756999999966
-					],
-					[
-						17.9590921,
-						0.6180756999999986
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 129,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 46,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Grass"
-					}
-				],
-				"boundingBox": [
-					[
-						-12.162818,
-						0.6180756999999986
-					],
-					[
-						17.9590921,
-						3.1661756999999966
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_Arukume_through",
+			// 	"vertex": [
+			// 		[
+			// 			-9.4467344,
+			// 			-16.9614201
+			// 		],
+			// 		[
+			// 			-7.8416,
+			// 			-14.1991692
+			// 		],
+			// 		[
+			// 			-4.36629152,
+			// 			-12.0260182
+			// 		],
+			// 		[
+			// 			0.6671599100000001,
+			// 			-12.108007400000002
+			// 		],
+			// 		[
+			// 			4.674049,
+			// 			-12.8061443
+			// 		],
+			// 		[
+			// 			8.68276024,
+			// 			-12.173339900000002
+			// 		],
+			// 		[
+			// 			13.7136726,
+			// 			-11.7250343
+			// 		],
+			// 		[
+			// 			17.188784599999998,
+			// 			-14.1599343
+			// 		],
+			// 		[
+			// 			19.1439648,
+			// 			-17.6630802
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 149,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 122,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 80,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 98,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 95,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 54,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 29,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-9.4467344,
+			// 			-17.6630802
+			// 		],
+			// 		[
+			// 			19.1439648,
+			// 			-11.7250343
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Ki_through",
+			// 	"vertex": [
+			// 		[
+			// 			-12.162818,
+			// 			1.3849791999999965
+			// 		],
+			// 		[
+			// 			-9.9909325,
+			// 			3.1661756999999966
+			// 		],
+			// 		[
+			// 			15.3169107,
+			// 			3.1661756999999966
+			// 		],
+			// 		[
+			// 			17.9590921,
+			// 			0.6180756999999986
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 129,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 46,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Grass"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-12.162818,
+			// 			0.6180756999999986
+			// 		],
+			// 		[
+			// 			17.9590921,
+			// 			3.1661756999999966
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-229.5,
@@ -40542,776 +39008,776 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_B1",
-				"vertex": [
-					[
-						35.0,
-						-577.3271141
-					],
-					[
-						93.22999,
-						-577.3271141
-					],
-					[
-						95.0,
-						-577.3271141
-					],
-					[
-						95.0,
-						-587.3271141
-					],
-					[
-						85.0,
-						-592.3271141
-					],
-					[
-						45.0,
-						-592.3271141
-					],
-					[
-						35.0,
-						-587.3271141
-					],
-					[
-						35.0,
-						-577.3271141
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 58.22999,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 1.7700119,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 10.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 297,
-						"length": 11.18034,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 40.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 244,
-						"length": 11.18034,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 10.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					}
-				],
-				"boundingBox": [
-					[
-						-27.5,
-						-632.327113
-					],
-					[
-						32.5,
-						-617.327113
-					]
-				]
-			},
-			{
-				"name": "COL_B2",
-				"vertex": [
-					[
-						35.0,
-						-575.0
-					],
-					[
-						50.0,
-						-575.0
-					],
-					[
-						65.0,
-						-570.0
-					],
-					[
-						95.0,
-						-570.0
-					],
-					[
-						95.0,
-						-584.0151062
-					],
-					[
-						95.0,
-						-590.0
-					],
-					[
-						90.0,
-						-595.0
-					],
-					[
-						85.0,
-						-595.0
-					],
-					[
-						70.0,
-						-585.0
-					],
-					[
-						40.0,
-						-585.0
-					],
-					[
-						35.0,
-						-579.8883934
-					],
-					[
-						35.0,
-						-575.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 15.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 108,
-						"length": 15.811388,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 30.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 14.0151062,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 5.984894,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 315,
-						"length": 7.071068,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 5.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 237,
-						"length": 18.0277557,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 30.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 225,
-						"length": 7.150421,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 4.8883934,
-						"ceiling": false,
-						"wall": true,
-						"material": "Mementos"
-					}
-				],
-				"boundingBox": [
-					[
-						-31.0,
-						-638.0
-					],
-					[
-						29.0,
-						-613.0
-					]
-				]
-			},
-			{
-				"name": "COL_C1",
-				"vertex": [
-					[
-						-305.0,
-						-535.0
-					],
-					[
-						325.0,
-						-535.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 630.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-305.0,
-						-625.0000000000001
-					],
-					[
-						325.0,
-						-624.9999999999999
-					]
-				]
-			},
-			{
-				"name": "COL_C2",
-				"vertex": [
-					[
-						-260.0,
-						-532.52511
-					],
-					[
-						-150.0,
-						-500.0
-					],
-					[
-						0.0,
-						-535.0
-					],
-					[
-						140.0,
-						-500.0
-					],
-					[
-						260.0,
-						-527.5
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 287,
-						"length": 114.707817,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 257,
-						"length": 154.029221,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 285,
-						"length": 144.3087,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 258,
-						"length": 123.110725,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-260.0,
-						-625.0
-					],
-					[
-						260.0,
-						-590.0
-					]
-				]
-			},
-			{
-				"name": "COL_W1",
-				"vertex": [
-					[
-						115.0,
-						-810.0
-					],
-					[
-						345.0,
-						-810.0
-					],
-					[
-						345.0,
-						-25.0
-					],
-					[
-						115.0,
-						-25.0
-					],
-					[
-						115.0,
-						-810.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 230.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 785.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 230.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 785.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.842171e-14,
-						-810.0
-					],
-					[
-						230.0,
-						-25.0
-					]
-				]
-			},
-			{
-				"name": "COL_W2",
-				"vertex": [
-					[
-						130.0,
-						-785.0
-					],
-					[
-						345.0,
-						-785.0
-					],
-					[
-						345.0,
-						-50.0
-					],
-					[
-						80.0,
-						-50.0
-					],
-					[
-						80.0,
-						-545.0
-					],
-					[
-						130.0,
-						-570.0
-					],
-					[
-						130.0,
-						-785.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 215.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 735.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 265.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 495.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 244,
-						"length": 55.9017,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 215.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-50.0,
-						-780.0
-					],
-					[
-						215.0,
-						-45.0
-					]
-				]
-			},
-			{
-				"name": "COL_W3",
-				"vertex": [
-					[
-						-115.0,
-						-810.0
-					],
-					[
-						-330.0,
-						-810.0
-					],
-					[
-						-330.0,
-						-25.0
-					],
-					[
-						-115.0,
-						-25.0
-					],
-					[
-						-115.0,
-						-810.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 215.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 785.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 215.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 785.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-215.0,
-						-810.0
-					],
-					[
-						0.0,
-						-25.0
-					]
-				]
-			},
-			{
-				"name": "COL_W4",
-				"vertex": [
-					[
-						-145.0,
-						-775.0
-					],
-					[
-						-345.0,
-						-775.0
-					],
-					[
-						-345.0,
-						0.0
-					],
-					[
-						-95.0,
-						0.0
-					],
-					[
-						-95.0,
-						-535.0
-					],
-					[
-						-145.0,
-						-560.0
-					],
-					[
-						-145.0,
-						-775.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 200.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 775.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 250.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 535.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 297,
-						"length": 55.9017,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 215.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-200.0,
-						-780.0
-					],
-					[
-						50.0,
-						-5.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_B1",
+			// 	"vertex": [
+			// 		[
+			// 			35.0,
+			// 			-577.3271141
+			// 		],
+			// 		[
+			// 			93.22999,
+			// 			-577.3271141
+			// 		],
+			// 		[
+			// 			95.0,
+			// 			-577.3271141
+			// 		],
+			// 		[
+			// 			95.0,
+			// 			-587.3271141
+			// 		],
+			// 		[
+			// 			85.0,
+			// 			-592.3271141
+			// 		],
+			// 		[
+			// 			45.0,
+			// 			-592.3271141
+			// 		],
+			// 		[
+			// 			35.0,
+			// 			-587.3271141
+			// 		],
+			// 		[
+			// 			35.0,
+			// 			-577.3271141
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 58.22999,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 1.7700119,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 10.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 297,
+			// 			"length": 11.18034,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 40.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 244,
+			// 			"length": 11.18034,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 10.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-27.5,
+			// 			-632.327113
+			// 		],
+			// 		[
+			// 			32.5,
+			// 			-617.327113
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_B2",
+			// 	"vertex": [
+			// 		[
+			// 			35.0,
+			// 			-575.0
+			// 		],
+			// 		[
+			// 			50.0,
+			// 			-575.0
+			// 		],
+			// 		[
+			// 			65.0,
+			// 			-570.0
+			// 		],
+			// 		[
+			// 			95.0,
+			// 			-570.0
+			// 		],
+			// 		[
+			// 			95.0,
+			// 			-584.0151062
+			// 		],
+			// 		[
+			// 			95.0,
+			// 			-590.0
+			// 		],
+			// 		[
+			// 			90.0,
+			// 			-595.0
+			// 		],
+			// 		[
+			// 			85.0,
+			// 			-595.0
+			// 		],
+			// 		[
+			// 			70.0,
+			// 			-585.0
+			// 		],
+			// 		[
+			// 			40.0,
+			// 			-585.0
+			// 		],
+			// 		[
+			// 			35.0,
+			// 			-579.8883934
+			// 		],
+			// 		[
+			// 			35.0,
+			// 			-575.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 15.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 108,
+			// 			"length": 15.811388,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 30.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 14.0151062,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 5.984894,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 315,
+			// 			"length": 7.071068,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 5.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 237,
+			// 			"length": 18.0277557,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 30.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 225,
+			// 			"length": 7.150421,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 4.8883934,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Mementos"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-31.0,
+			// 			-638.0
+			// 		],
+			// 		[
+			// 			29.0,
+			// 			-613.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_C1",
+			// 	"vertex": [
+			// 		[
+			// 			-305.0,
+			// 			-535.0
+			// 		],
+			// 		[
+			// 			325.0,
+			// 			-535.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 630.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-305.0,
+			// 			-625.0000000000001
+			// 		],
+			// 		[
+			// 			325.0,
+			// 			-624.9999999999999
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_C2",
+			// 	"vertex": [
+			// 		[
+			// 			-260.0,
+			// 			-532.52511
+			// 		],
+			// 		[
+			// 			-150.0,
+			// 			-500.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			-535.0
+			// 		],
+			// 		[
+			// 			140.0,
+			// 			-500.0
+			// 		],
+			// 		[
+			// 			260.0,
+			// 			-527.5
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 287,
+			// 			"length": 114.707817,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 257,
+			// 			"length": 154.029221,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 285,
+			// 			"length": 144.3087,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 258,
+			// 			"length": 123.110725,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-260.0,
+			// 			-625.0
+			// 		],
+			// 		[
+			// 			260.0,
+			// 			-590.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_W1",
+			// 	"vertex": [
+			// 		[
+			// 			115.0,
+			// 			-810.0
+			// 		],
+			// 		[
+			// 			345.0,
+			// 			-810.0
+			// 		],
+			// 		[
+			// 			345.0,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			115.0,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			115.0,
+			// 			-810.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 230.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 785.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 230.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 785.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-2.842171e-14,
+			// 			-810.0
+			// 		],
+			// 		[
+			// 			230.0,
+			// 			-25.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_W2",
+			// 	"vertex": [
+			// 		[
+			// 			130.0,
+			// 			-785.0
+			// 		],
+			// 		[
+			// 			345.0,
+			// 			-785.0
+			// 		],
+			// 		[
+			// 			345.0,
+			// 			-50.0
+			// 		],
+			// 		[
+			// 			80.0,
+			// 			-50.0
+			// 		],
+			// 		[
+			// 			80.0,
+			// 			-545.0
+			// 		],
+			// 		[
+			// 			130.0,
+			// 			-570.0
+			// 		],
+			// 		[
+			// 			130.0,
+			// 			-785.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 215.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 735.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 265.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 495.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 244,
+			// 			"length": 55.9017,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 215.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-50.0,
+			// 			-780.0
+			// 		],
+			// 		[
+			// 			215.0,
+			// 			-45.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_W3",
+			// 	"vertex": [
+			// 		[
+			// 			-115.0,
+			// 			-810.0
+			// 		],
+			// 		[
+			// 			-330.0,
+			// 			-810.0
+			// 		],
+			// 		[
+			// 			-330.0,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			-115.0,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			-115.0,
+			// 			-810.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 215.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 785.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 215.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 785.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-215.0,
+			// 			-810.0
+			// 		],
+			// 		[
+			// 			0.0,
+			// 			-25.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_W4",
+			// 	"vertex": [
+			// 		[
+			// 			-145.0,
+			// 			-775.0
+			// 		],
+			// 		[
+			// 			-345.0,
+			// 			-775.0
+			// 		],
+			// 		[
+			// 			-345.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-95.0,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-95.0,
+			// 			-535.0
+			// 		],
+			// 		[
+			// 			-145.0,
+			// 			-560.0
+			// 		],
+			// 		[
+			// 			-145.0,
+			// 			-775.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 200.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 775.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 250.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 535.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 297,
+			// 			"length": 55.9017,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 215.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-200.0,
+			// 			-780.0
+			// 		],
+			// 		[
+			// 			50.0,
+			// 			-5.0
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -41384,104 +39850,104 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_F1",
-				"vertex": [
-					[
-						35.0,
-						-577.3271141
-					],
-					[
-						95.0,
-						-577.3271141
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					}
-				],
-				"boundingBox": [
-					[
-						-27.5,
-						-622.32711315
-					],
-					[
-						32.5,
-						-622.32711315
-					]
-				]
-			},
-			{
-				"name": "COL_F2",
-				"vertex": [
-					[
-						35.0,
-						-575.0
-					],
-					[
-						50.0,
-						-575.0
-					],
-					[
-						65.0,
-						-570.0
-					],
-					[
-						95.0,
-						-570.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 108,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Mementos"
-					}
-				],
-				"boundingBox": [
-					[
-						-29.0,
-						-624.0
-					],
-					[
-						31.0,
-						-619.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_F1",
+			// 	"vertex": [
+			// 		[
+			// 			35.0,
+			// 			-577.3271141
+			// 		],
+			// 		[
+			// 			95.0,
+			// 			-577.3271141
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-27.5,
+			// 			-622.32711315
+			// 		],
+			// 		[
+			// 			32.5,
+			// 			-622.32711315
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_F2",
+			// 	"vertex": [
+			// 		[
+			// 			35.0,
+			// 			-575.0
+			// 		],
+			// 		[
+			// 			50.0,
+			// 			-575.0
+			// 		],
+			// 		[
+			// 			65.0,
+			// 			-570.0
+			// 		],
+			// 		[
+			// 			95.0,
+			// 			-570.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 108,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Mementos"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-29.0,
+			// 			-624.0
+			// 		],
+			// 		[
+			// 			31.0,
+			// 			-619.0
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-244.0,
@@ -45785,115 +44251,10 @@ var hdrStages = [
 		],
 		"platforms": [
 			{
-				"name": "COL_curve66",
-				"vertex": [
-					[
-						-90.0,
-						30.0
-					],
-					[
-						-80.0,
-						30.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-90.0,
-						30.0
-					],
-					[
-						-80.0,
-						30.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve67",
-				"vertex": [
-					[
-						-80.0,
-						30.0
-					],
-					[
-						-70.0,
-						30.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-80.0,
-						30.0
-					],
-					[
-						-70.0,
-						30.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve68",
-				"vertex": [
-					[
-						-70.0,
-						30.0
-					],
-					[
-						-60.0,
-						30.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-70.0,
-						30.0
-					],
-					[
-						-60.0,
-						30.0
-					]
-				]
-			},
-			{
 				"name": "COL_curve69",
 				"vertex": [
 					[
-						-60.0,
+						-90.0,
 						30.0
 					],
 					[
@@ -45915,152 +44276,12 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-60.0,
+						-90.0,
 						30.0
 					],
 					[
 						-50.0,
 						30.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve70",
-				"vertex": [
-					[
-						60.0,
-						40.0
-					],
-					[
-						50.0,
-						40.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						50.0,
-						40.0
-					],
-					[
-						60.0,
-						40.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve71",
-				"vertex": [
-					[
-						50.0,
-						40.0
-					],
-					[
-						40.0,
-						40.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						40.0,
-						40.0
-					],
-					[
-						50.0,
-						40.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve72",
-				"vertex": [
-					[
-						40.0,
-						40.0
-					],
-					[
-						30.0,
-						40.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						30.0,
-						40.0
-					],
-					[
-						40.0,
-						40.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve73",
-				"vertex": [
-					[
-						30.0,
-						40.0
-					],
-					[
-						20.0,
-						40.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						20.0,
-						40.0
-					],
-					[
-						30.0,
-						40.0
 					]
 				]
 			},
@@ -46068,7 +44289,7 @@ var hdrStages = [
 				"name": "COL_curve74",
 				"vertex": [
 					[
-						20.0,
+						60.0,
 						40.0
 					],
 					[
@@ -46094,7 +44315,7 @@ var hdrStages = [
 						40.0
 					],
 					[
-						20.0,
+						60.0,
 						40.0
 					]
 				]
@@ -46944,150 +45165,10 @@ var hdrStages = [
 		],
 		"platforms": [
 			{
-				"name": "COL_curve64",
-				"vertex": [
-					[
-						-70.0,
-						30.0
-					],
-					[
-						-60.0,
-						30.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-70.0,
-						30.0
-					],
-					[
-						-60.0,
-						30.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve65",
-				"vertex": [
-					[
-						-60.0,
-						30.0
-					],
-					[
-						-50.0,
-						30.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-60.0,
-						30.0
-					],
-					[
-						-50.0,
-						30.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve66",
-				"vertex": [
-					[
-						-50.0,
-						30.0
-					],
-					[
-						-40.0,
-						30.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-50.0,
-						30.0
-					],
-					[
-						-40.0,
-						30.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve67",
-				"vertex": [
-					[
-						-40.0,
-						30.0
-					],
-					[
-						-30.0,
-						30.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-40.0,
-						30.0
-					],
-					[
-						-30.0,
-						30.0
-					]
-				]
-			},
-			{
 				"name": "COL_curve68",
 				"vertex": [
 					[
-						-30.0,
+						-70.0,
 						30.0
 					],
 					[
@@ -47109,7 +45190,7 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-30.0,
+						-70.0,
 						30.0
 					],
 					[
@@ -48054,97 +46135,97 @@ var hdrStages = [
 		"name": "Moray Towers",
 		"lvd": "spla_parking",
 		"collisions": [
-			{
-				"name": "COL_curve21",
-				"vertex": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_curve21",
+			// 	"vertex": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_curve26",
 				"vertex": [
@@ -48301,279 +46382,279 @@ var hdrStages = [
 			}
 		],
 		"platforms": [
-			{
-				"name": "COL_curve20",
-				"vertex": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 123,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 112,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 112,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 67,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 77,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 77,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve22",
-				"vertex": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve23",
-				"vertex": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 77,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 77,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve24",
-				"vertex": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_curve20",
+			// 	"vertex": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 123,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 112,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 112,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 67,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 77,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 77,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve22",
+			// 	"vertex": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve23",
+			// 	"vertex": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 77,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 77,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve24",
+			// 	"vertex": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_curve25",
 				"vertex": [
@@ -48609,41 +46690,41 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_curve27",
-				"vertex": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 102,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.60549125,
-						0.0
-					],
-					[
-						-2.60549125,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_curve27",
+			// 	"vertex": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 102,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-2.60549125,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-221.60549125,
@@ -48733,7 +46814,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "Mushroom Kingdom",
+		"stage": "Mushroom Kingdom*",
 		"name": "Mushroom Kingdom",
 		"lvd": "mario_past64_00",
 		"collisions": [
@@ -49103,167 +47184,167 @@ var hdrStages = [
 			}
 		],
 		"platforms": [
-			{
-				"name": "COL_curve3",
-				"vertex": [
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-97.0,
-						-222.0125584546
-					],
-					[
-						-97.0,
-						-222.0125584546
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_curve3",
+			// 	"vertex": [
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Brick"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Brick"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Brick"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		],
+			// 		[
+			// 			-97.0,
+			// 			-222.0125584546
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_curve8",
 				"vertex": [
@@ -49458,7 +47539,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "Mushroom Kingdom II",
+		"stage": "Mushroom Kingdom II*",
 		"name": "Mushroom Kingdom II",
 		"lvd": "mario_pastusa_00",
 		"collisions": [
@@ -49595,153 +47676,153 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_curve15",
-				"vertex": [
-					[
-						-12.0,
-						-12.5424185
-					],
-					[
-						12.0,
-						-12.5424185
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 24.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-12.0,
-						-12.5424185
-					],
-					[
-						12.0,
-						-12.5424185
-					]
-				]
-			},
-			{
-				"name": "COL_curve16",
-				"vertex": [
-					[
-						-12.0,
-						-12.5424185
-					],
-					[
-						12.0,
-						-12.5424185
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 24.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-12.0,
-						-12.5424185
-					],
-					[
-						12.0,
-						-12.5424185
-					]
-				]
-			},
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						4.8,
-						-20.5424185
-					],
-					[
-						-4.8,
-						-20.5424185
-					],
-					[
-						-4.8,
-						0.0
-					],
-					[
-						4.8,
-						0.0
-					],
-					[
-						4.8,
-						-20.5424185
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 9.6,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": true,
-						"passthroughAngle": 180,
-						"length": 20.54242,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 9.6,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": true,
-						"passthroughAngle": 0,
-						"length": 20.54242,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-4.8,
-						-20.5424185
-					],
-					[
-						4.8,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_curve15",
+			// 	"vertex": [
+			// 		[
+			// 			-12.0,
+			// 			-12.5424185
+			// 		],
+			// 		[
+			// 			12.0,
+			// 			-12.5424185
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 24.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-12.0,
+			// 			-12.5424185
+			// 		],
+			// 		[
+			// 			12.0,
+			// 			-12.5424185
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve16",
+			// 	"vertex": [
+			// 		[
+			// 			-12.0,
+			// 			-12.5424185
+			// 		],
+			// 		[
+			// 			12.0,
+			// 			-12.5424185
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 24.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-12.0,
+			// 			-12.5424185
+			// 		],
+			// 		[
+			// 			12.0,
+			// 			-12.5424185
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			4.8,
+			// 			-20.5424185
+			// 		],
+			// 		[
+			// 			-4.8,
+			// 			-20.5424185
+			// 		],
+			// 		[
+			// 			-4.8,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			4.8,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			4.8,
+			// 			-20.5424185
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 9.6,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": true,
+			// 			"passthroughAngle": 180,
+			// 			"length": 20.54242,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 9.6,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": true,
+			// 			"passthroughAngle": 0,
+			// 			"length": 20.54242,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-4.8,
+			// 			-20.5424185
+			// 		],
+			// 		[
+			// 			4.8,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -50021,7 +48102,7 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		"stage": "Mushroom Kingdom U (1)*",
+		"stage": "Mushroom Kingdom U (1)",
 		"name": "Mushroom Kingdom U",
 		"lvd": "mariou_01",
 		"collisions": [
@@ -50368,7 +48449,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "New Donk City Hall",
+		"stage": "New Donk City Hall*",
 		"name": "New Donk City Hall",
 		"lvd": "mario_odyssey_00",
 		"collisions": [
@@ -52105,426 +50186,426 @@ var hdrStages = [
 		"name": "New Pork City",
 		"lvd": "mother_newpork_00",
 		"collisions": [
-			{
-				"name": "COL_curve6",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve8",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_curve6",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve8",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_curve13",
 				"vertex": [
@@ -52896,1226 +50977,1226 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_curve14",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve15",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "HeavyMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_viking",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve26",
-				"vertex": [
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					],
-					[
-						1.278299999999997,
-						-7.1621
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve25",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_curve14",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve15",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "HeavyMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_viking",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve26",
+			// 	"vertex": [
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		],
+			// 		[
+			// 			1.278299999999997,
+			// 			-7.1621
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve25",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
-			{
-				"name": "COL_curve9",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve10",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_curve9",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve10",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_curve11",
 				"vertex": [
@@ -54242,384 +52323,384 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_curve16",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve17",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve18",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve19",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve20",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve21",
-				"vertex": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.45000000000000284,
-						-5.0
-					],
-					[
-						-0.45000000000000284,
-						-5.0
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_curve16",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve17",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve18",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve19",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve20",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve21",
+			// 	"vertex": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		],
+			// 		[
+			// 			-0.45000000000000284,
+			// 			-5.0
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_curve23",
 				"vertex": [
@@ -59039,5314 +57120,5314 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_02_PlatformL",
-				"vertex": [
-					[
-						-245.8618215,
-						-215.025
-					],
-					[
-						-67.9183575,
-						-215.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 177.943466,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-245.8618215,
-						-215.025
-					],
-					[
-						-67.9183575,
-						-215.0
-					]
-				]
-			},
-			{
-				"name": "COL_02_PlatformR",
-				"vertex": [
-					[
-						80.95640250000001,
-						-215.0
-					],
-					[
-						259.3850655,
-						-215.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 178.428665,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						80.95640250000001,
-						-215.0
-					],
-					[
-						259.3850655,
-						-215.0
-					]
-				]
-			},
-			{
-				"name": "COL_06_Platform01",
-				"vertex": [
-					[
-						-72.2778475,
-						-170.5
-					],
-					[
-						45.972158900000004,
-						-170.5
-					],
-					[
-						45.972158900000004,
-						-187.4999981
-					],
-					[
-						-72.27783749999999,
-						-187.4999981
-					],
-					[
-						-72.2778475,
-						-170.5
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 118.25,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 16.9999981,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 118.25,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 16.9999981,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-72.2778475,
-						-187.4999981
-					],
-					[
-						45.972158900000004,
-						-170.5
-					]
-				]
-			},
-			{
-				"name": "COL_00_MovingPlatform02_through",
-				"vertex": [
-					[
-						166.9709115,
-						-189.0108
-					],
-					[
-						182.2273045,
-						-182.7910957
-					],
-					[
-						186.9955545,
-						-166.5154152
-					],
-					[
-						199.8865455,
-						-166.5927
-					],
-					[
-						205.1314225,
-						-168.583744
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 112,
-						"length": 16.4755039,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 163,
-						"length": 16.9597759,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 12.891223,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 69,
-						"length": 5.61007547,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						166.9709115,
-						-189.0108
-					],
-					[
-						205.1314225,
-						-166.5154152
-					]
-				]
-			},
-			{
-				"name": "COL_00_MovingPlatform02_through",
-				"vertex": [
-					[
-						166.9709115,
-						-189.0108
-					],
-					[
-						182.2273045,
-						-182.7910957
-					],
-					[
-						186.9955545,
-						-166.5154152
-					],
-					[
-						199.8865455,
-						-166.5927
-					],
-					[
-						205.1314225,
-						-168.583744
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 112,
-						"length": 16.4755039,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 163,
-						"length": 16.9597759,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 12.891223,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 69,
-						"length": 5.61007547,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						166.9709115,
-						-189.0108
-					],
-					[
-						205.1314225,
-						-166.5154152
-					]
-				]
-			},
-			{
-				"name": "COL_00_MovingPlatform01_through",
-				"vertex": [
-					[
-						166.63176950000002,
-						-162.46404
-					],
-					[
-						171.2094825,
-						-159.8782349
-					],
-					[
-						180.6932935,
-						-158.198513
-					],
-					[
-						187.0496315,
-						-138.98869000000002
-					],
-					[
-						205.1854955,
-						-141.05702
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 119,
-						"length": 5.25755072,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 100,
-						"length": 9.631413,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 161,
-						"length": 20.2341347,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 83,
-						"length": 18.2534256,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						166.63176950000002,
-						-162.46404
-					],
-					[
-						205.1854955,
-						-138.98869000000002
-					]
-				]
-			},
-			{
-				"name": "COL_00_MovingPlatform01_through",
-				"vertex": [
-					[
-						166.63176950000002,
-						-162.46404
-					],
-					[
-						171.2094825,
-						-159.8782349
-					],
-					[
-						180.6932935,
-						-158.198513
-					],
-					[
-						187.0496315,
-						-138.98869000000002
-					],
-					[
-						205.1854955,
-						-141.05702
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 119,
-						"length": 5.25755072,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 100,
-						"length": 9.631413,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 161,
-						"length": 20.2341347,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 83,
-						"length": 18.2534256,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						166.63176950000002,
-						-162.46404
-					],
-					[
-						205.1854955,
-						-138.98869000000002
-					]
-				]
-			},
-			{
-				"name": "COL_08_GimmickPlatform01",
-				"vertex": [
-					[
-						-20.043597499999994,
-						-213.8
-					],
-					[
-						33.0816425,
-						-213.8
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 53.12524,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-20.043597499999994,
-						-213.8
-					],
-					[
-						33.0816425,
-						-213.8
-					]
-				]
-			},
-			{
-				"name": "COL_08_GimmickPlatform01",
-				"vertex": [
-					[
-						-20.043597499999994,
-						-213.8
-					],
-					[
-						33.0816425,
-						-213.8
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 53.12524,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-20.043597499999994,
-						-213.8
-					],
-					[
-						33.0816425,
-						-213.8
-					]
-				]
-			},
-			{
-				"name": "COL_010_Seesaw",
-				"vertex": [
-					[
-						-3.174916499999995,
-						-215.06585693
-					],
-					[
-						4.549028790000006,
-						-194.96959
-					],
-					[
-						8.389122040000005,
-						-194.96959
-					],
-					[
-						15.978263500000006,
-						-215.06585693
-					],
-					[
-						-3.174916499999995,
-						-215.06585693
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 158,
-						"length": 21.5295,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 3.84009314,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 20,
-						"length": 21.4815044,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 19.15318,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-3.174916499999995,
-						-215.06585693
-					],
-					[
-						15.978263500000006,
-						-194.96959
-					]
-				]
-			},
-			{
-				"name": "COL_14_Platform01",
-				"vertex": [
-					[
-						-61.72177749999999,
-						-200.1617279
-					],
-					[
-						-53.8689475,
-						-194.0228577
-					],
-					[
-						-43.778187499999994,
-						-191.56723
-					],
-					[
-						-36.690907499999994,
-						-191.4862976
-					],
-					[
-						-20.268605699999995,
-						-194.3919067
-					],
-					[
-						-8.979535499999994,
-						-194.1135712
-					],
-					[
-						-1.278951129999995,
-						-190.4164429
-					],
-					[
-						11.219347500000005,
-						-182.47603
-					],
-					[
-						16.244905980000006,
-						-180.7001648
-					],
-					[
-						19.151247500000004,
-						-181.24872
-					],
-					[
-						23.176355900000004,
-						-185.3968811
-					],
-					[
-						26.483767100000005,
-						-192.5512314
-					],
-					[
-						29.231251300000004,
-						-194.9146614
-					],
-					[
-						34.78029110000001,
-						-195.7241764
-					],
-					[
-						42.01821760000001,
-						-187.2496548
-					],
-					[
-						44.16561250000001,
-						-187.3676147
-					],
-					[
-						46.46331250000001,
-						-189.89212
-					],
-					[
-						49.188318800000005,
-						-189.55429
-					],
-					[
-						51.17626250000001,
-						-188.0988159
-					],
-					[
-						52.578072500000005,
-						-187.95166
-					],
-					[
-						54.742092500000005,
-						-189.2822876
-					],
-					[
-						59.2176156,
-						-195.1660156
-					],
-					[
-						69.7340951,
-						-197.91092
-					],
-					[
-						79.0235825,
-						-204.3067093
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 128,
-						"length": 9.96758,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 103,
-						"length": 10.3852558,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 7.08774233,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 79,
-						"length": 16.6773663,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 91,
-						"length": 11.2925005,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 115,
-						"length": 8.542117,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 122,
-						"length": 14.8073511,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 109,
-						"length": 5.33009672,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 79,
-						"length": 2.95765662,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 44,
-						"length": 5.78003025,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 24,
-						"length": 7.881859,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 49,
-						"length": 3.624151,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 81,
-						"length": 5.60777664,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 139,
-						"length": 11.1447344,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 86,
-						"length": 2.15063357,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 42,
-						"length": 3.413583,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 97,
-						"length": 2.74586725,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 126,
-						"length": 2.463805,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 95,
-						"length": 1.4095124,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 58,
-						"length": 2.54038143,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 37,
-						"length": 7.3924675,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 75,
-						"length": 10.8688011,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 55,
-						"length": 11.2783308,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-61.72177749999999,
-						-204.3067093
-					],
-					[
-						79.0235825,
-						-180.7001648
-					]
-				]
-			},
-			{
-				"name": "COL_16_GimmickScaffold01",
-				"vertex": [
-					[
-						-258.4809775,
-						-138.9965439
-					],
-					[
-						-108.4809775,
-						-138.31528
-					],
-					[
-						-97.7847955,
-						-140.60455000000002
-					],
-					[
-						-95.35197749999999,
-						-148.63401
-					],
-					[
-						-95.3520025,
-						-168.83429
-					],
-					[
-						-93.57056949999999,
-						-170.6157227
-					],
-					[
-						-93.57056949999999,
-						-184.0296516
-					],
-					[
-						-123.3913775,
-						-184.0296516
-					],
-					[
-						-123.3913775,
-						-170.63681
-					],
-					[
-						-121.6060995,
-						-168.85154
-					],
-					[
-						-121.43436949999999,
-						-164.103466
-					],
-					[
-						-123.42747749999998,
-						-162.11034999999998
-					],
-					[
-						-258.4809775,
-						-162.1103439
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 150.001541,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 77,
-						"length": 10.9384232,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 16,
-						"length": 8.389921,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 20.20028,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 45,
-						"length": 2.519327,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 13.413929,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 29.8208084,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 13.3928413,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 134,
-						"length": 2.52475953,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 177,
-						"length": 4.75117826,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 226,
-						"length": 2.81868672,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 135.0535,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-258.4809775,
-						-184.0296516
-					],
-					[
-						-93.57056949999999,
-						-138.31528
-					]
-				]
-			},
-			{
-				"name": "COL_16_GimmickScaffold02",
-				"vertex": [
-					[
-						-39.5507102,
-						-215.0
-					],
-					[
-						-39.5507102,
-						-208.30107927
-					],
-					[
-						-41.33212749999999,
-						-206.519662
-					],
-					[
-						-41.33212749999999,
-						-193.105732
-					],
-					[
-						-16.147105699999994,
-						-193.105732
-					],
-					[
-						-16.147105699999994,
-						-206.498573
-					],
-					[
-						-17.780059299999994,
-						-208.13152647
-					],
-					[
-						-17.780077499999994,
-						-215.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 6.69892073,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 226,
-						"length": 2.519305,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 13.41393,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 25.1850224,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 13.3928413,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 316,
-						"length": 2.30934477,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 6.86847353,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-41.33212749999999,
-						-215.0
-					],
-					[
-						-16.147105699999994,
-						-193.105732
-					]
-				]
-			},
-			{
-				"name": "COL_16_GimmickScaffold03",
-				"vertex": [
-					[
-						28.264082500000004,
-						-214.999999523888
-					],
-					[
-						28.264082500000004,
-						-211.41618848
-					],
-					[
-						26.482664600000007,
-						-209.63477039
-					],
-					[
-						26.482664600000007,
-						-196.22084
-					],
-					[
-						52.327665800000005,
-						-196.22084
-					],
-					[
-						52.327665800000005,
-						-209.61368132
-					],
-					[
-						50.69471600000001,
-						-211.24663353
-					],
-					[
-						50.6947084,
-						-214.999999740248
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 3.583811,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 225,
-						"length": 2.51930547,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 13.41393,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 25.8450012,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 13.3928413,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 316,
-						"length": 2.30934143,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 3.75336623,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						26.482664600000007,
-						-214.999999740248
-					],
-					[
-						52.327665800000005,
-						-196.22084
-					]
-				]
-			},
-			{
-				"name": "COL_16_GimmickScaffold04",
-				"vertex": [
-					[
-						271.5190225,
-						-78.4255
-					],
-					[
-						132.4015675,
-						-177.1449966
-					],
-					[
-						132.1230415,
-						-179.51295
-					],
-					[
-						122.5189005,
-						-187.0955334
-					],
-					[
-						121.0189005,
-						-187.0955334
-					],
-					[
-						103.11600250000001,
-						-164.4196777
-					],
-					[
-						113.6276225,
-						-156.1206131
-					],
-					[
-						116.06348650000001,
-						-156.4071236
-					],
-					[
-						271.5190225,
-						-46.08616599999999
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 306,
-						"length": 170.584885,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 354,
-						"length": 2.38427854,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 309,
-						"length": 12.2366285,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 1.5,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 219,
-						"length": 28.89132,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 128,
-						"length": 13.3928566,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 83,
-						"length": 2.45265937,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 125,
-						"length": 190.623016,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						103.11600250000001,
-						-187.0955334
-					],
-					[
-						271.5190225,
-						-46.08616599999999
-					]
-				]
-			},
-			{
-				"name": "COL_16_GimmickScaffold05",
-				"vertex": [
-					[
-						86.70367250000001,
-						0.0
-					],
-					[
-						90.0352325,
-						-88.3389
-					],
-					[
-						88.36945250000001,
-						-90.004684
-					],
-					[
-						88.2561975,
-						-103.443344
-					],
-					[
-						118.62102750000001,
-						-102.298187
-					],
-					[
-						118.11628950000001,
-						-88.914871
-					],
-					[
-						114.9487785,
-						-85.728012
-					],
-					[
-						113.9525095,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 183,
-						"length": 88.4016953,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 135,
-						"length": 2.35577273,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 13.4391365,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 273,
-						"length": 30.3864155,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 2,
-						"length": 13.3928308,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 44,
-						"length": 4.493239,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 85.7338,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						86.70367250000001,
-						-103.443344
-					],
-					[
-						118.62102750000001,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_16_GimmickScaffold06",
-				"vertex": [
-					[
-						23.654844800000006,
-						0.0
-					],
-					[
-						23.654844800000006,
-						-86.91172800000001
-					],
-					[
-						21.936025200000003,
-						-88.630547
-					],
-					[
-						21.219292500000005,
-						-102.057129
-					],
-					[
-						51.69424250000001,
-						-102.057129
-					],
-					[
-						51.69424250000001,
-						-88.664284
-					],
-					[
-						50.06129250000001,
-						-87.031334
-					],
-					[
-						50.061258800000004,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 86.91173,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 135,
-						"length": 2.43077731,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 176,
-						"length": 13.4456987,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 30.47495,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 13.3928452,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 45,
-						"length": 2.30933976,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 87.0313339,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						21.219292500000005,
-						-102.057129
-					],
-					[
-						51.69424250000001,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_16_GimmickScaffold07",
-				"vertex": [
-					[
-						-50.32406749999999,
-						0.0
-					],
-					[
-						-52.4293036,
-						-85.64779999999999
-					],
-					[
-						-54.26441749999999,
-						-87.4829
-					],
-					[
-						-53.8975501,
-						-100.891823
-					],
-					[
-						-24.087880599999995,
-						-100.076241
-					],
-					[
-						-24.454175399999993,
-						-86.68838500000001
-					],
-					[
-						-26.947354799999992,
-						-84.84823600000001
-					],
-					[
-						-23.641290199999993,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 178,
-						"length": 85.67367,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 134,
-						"length": 2.595237,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 182,
-						"length": 13.4139385,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 272,
-						"length": 29.8208237,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 1,
-						"length": 13.3928652,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 53,
-						"length": 3.09872413,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 358,
-						"length": 84.91262,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-54.26441749999999,
-						-100.891823
-					],
-					[
-						-23.641290199999993,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_18_DolphinL",
-				"vertex": [
-					[
-						-356.4414775,
-						-252.436348
-					],
-					[
-						-343.4034325,
-						-234.0033684
-					],
-					[
-						-327.73161849999997,
-						-221.68481445
-					],
-					[
-						-307.6552325,
-						-220.40829849
-					],
-					[
-						-294.3873775,
-						-227.5694485
-					],
-					[
-						-286.3968775,
-						-237.7134972
-					],
-					[
-						-289.0387165,
-						-244.0663433
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 144,
-						"length": 22.57799,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 128,
-						"length": 19.9337025,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 93,
-						"length": 20.1169262,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 61,
-						"length": 15.0770683,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 38,
-						"length": 12.91317,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 338,
-						"length": 6.880262,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-24.504174699999993,
-						-225.4129982
-					],
-					[
-						45.54043060000001,
-						-193.3849487
-					]
-				]
-			},
-			{
-				"name": "COL_18_DolphinL",
-				"vertex": [
-					[
-						-356.4414775,
-						-252.436348
-					],
-					[
-						-343.4034325,
-						-234.0033684
-					],
-					[
-						-327.73161849999997,
-						-221.68481445
-					],
-					[
-						-307.6552325,
-						-220.40829849
-					],
-					[
-						-294.3873775,
-						-227.5694485
-					],
-					[
-						-286.3968775,
-						-237.7134972
-					],
-					[
-						-289.0387165,
-						-244.0663433
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 144,
-						"length": 22.57799,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 128,
-						"length": 19.9337025,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 93,
-						"length": 20.1169262,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 61,
-						"length": 15.0770683,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 38,
-						"length": 12.91317,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 338,
-						"length": 6.880262,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-24.504174699999993,
-						-225.4129982
-					],
-					[
-						45.54043060000001,
-						-193.3849487
-					]
-				]
-			},
-			{
-				"name": "COL_18_DolphinR",
-				"vertex": [
-					[
-						302.07676150000003,
-						-244.0663433
-					],
-					[
-						299.4349225,
-						-237.7134972
-					],
-					[
-						307.4254225,
-						-227.5694485
-					],
-					[
-						320.6932775,
-						-220.40829849
-					],
-					[
-						340.7696635,
-						-221.68481445
-					],
-					[
-						356.4414775,
-						-234.0033684
-					],
-					[
-						369.47952250000003,
-						-252.436348
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 203,
-						"length": 6.880262,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 141,
-						"length": 12.91317,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 118,
-						"length": 15.0770683,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 86,
-						"length": 20.1169262,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 51,
-						"length": 19.9337025,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 35,
-						"length": 22.57799,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-32.5023856,
-						-225.4129982
-					],
-					[
-						37.542219700000004,
-						-193.3849487
-					]
-				]
-			},
-			{
-				"name": "COL_18_DolphinR",
-				"vertex": [
-					[
-						302.07676150000003,
-						-244.0663433
-					],
-					[
-						299.4349225,
-						-237.7134972
-					],
-					[
-						307.4254225,
-						-227.5694485
-					],
-					[
-						320.6932775,
-						-220.40829849
-					],
-					[
-						340.7696635,
-						-221.68481445
-					],
-					[
-						356.4414775,
-						-234.0033684
-					],
-					[
-						369.47952250000003,
-						-252.436348
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 203,
-						"length": 6.880262,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 141,
-						"length": 12.91317,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 118,
-						"length": 15.0770683,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 86,
-						"length": 20.1169262,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 51,
-						"length": 19.9337025,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 35,
-						"length": 22.57799,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-32.5023856,
-						-225.4129982
-					],
-					[
-						37.542219700000004,
-						-193.3849487
-					]
-				]
-			},
-			{
-				"name": "COL_20_Short_Platform",
-				"vertex": [
-					[
-						-63.14159149999999,
-						-223.699211
-					],
-					[
-						-113.5372905,
-						-220.478272
-					],
-					[
-						-112.9991045,
-						-210.89517069
-					],
-					[
-						-29.648107499999995,
-						-205.78309
-					],
-					[
-						12.944239170000007,
-						-205.998695
-					],
-					[
-						18.364649300000004,
-						-208.724802
-					],
-					[
-						18.977411800000006,
-						-219.64641571
-					],
-					[
-						16.362894500000003,
-						-223.076927
-					],
-					[
-						-63.14159149999999,
-						-223.699211
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 267,
-						"length": 50.4985237,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 176,
-						"length": 9.598202,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 93,
-						"length": 83.5076141,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 42.59289,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 63,
-						"length": 6.067331,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 3,
-						"length": 10.93879,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 323,
-						"length": 4.313248,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 79.50692,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-113.5372905,
-						-223.699211
-					],
-					[
-						18.977411800000006,
-						-205.78309
-					]
-				]
-			},
-			{
-				"name": "COL_23_Ink",
-				"vertex": [
-					[
-						60.4116197,
-						-187.649168
-					],
-					[
-						58.713502500000004,
-						-180.9252625
-					],
-					[
-						61.0727868,
-						-173.9086
-					],
-					[
-						86.5612325,
-						-173.89691
-					],
-					[
-						88.9785325,
-						-179.9300842
-					],
-					[
-						86.7694269,
-						-188.4073181
-					],
-					[
-						73.1725225,
-						-190.2429256
-					],
-					[
-						60.4116197,
-						-187.649168
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 195,
-						"length": 6.93502,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 161,
-						"length": 7.402687,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 25.488451,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 21,
-						"length": 6.499423,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 346,
-						"length": 8.760345,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 278,
-						"length": 13.7202463,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 259,
-						"length": 13.0218391,
-						"ceiling": true,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						58.713502500000004,
-						-190.2429256
-					],
-					[
-						88.9785325,
-						-173.89691
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_02_PlatformL",
+			// 	"vertex": [
+			// 		[
+			// 			-245.8618215,
+			// 			-215.025
+			// 		],
+			// 		[
+			// 			-67.9183575,
+			// 			-215.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 177.943466,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-245.8618215,
+			// 			-215.025
+			// 		],
+			// 		[
+			// 			-67.9183575,
+			// 			-215.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_02_PlatformR",
+			// 	"vertex": [
+			// 		[
+			// 			80.95640250000001,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			259.3850655,
+			// 			-215.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 178.428665,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			80.95640250000001,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			259.3850655,
+			// 			-215.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_Platform01",
+			// 	"vertex": [
+			// 		[
+			// 			-72.2778475,
+			// 			-170.5
+			// 		],
+			// 		[
+			// 			45.972158900000004,
+			// 			-170.5
+			// 		],
+			// 		[
+			// 			45.972158900000004,
+			// 			-187.4999981
+			// 		],
+			// 		[
+			// 			-72.27783749999999,
+			// 			-187.4999981
+			// 		],
+			// 		[
+			// 			-72.2778475,
+			// 			-170.5
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 118.25,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 16.9999981,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 118.25,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 181,
+			// 			"length": 16.9999981,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-72.2778475,
+			// 			-187.4999981
+			// 		],
+			// 		[
+			// 			45.972158900000004,
+			// 			-170.5
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_MovingPlatform02_through",
+			// 	"vertex": [
+			// 		[
+			// 			166.9709115,
+			// 			-189.0108
+			// 		],
+			// 		[
+			// 			182.2273045,
+			// 			-182.7910957
+			// 		],
+			// 		[
+			// 			186.9955545,
+			// 			-166.5154152
+			// 		],
+			// 		[
+			// 			199.8865455,
+			// 			-166.5927
+			// 		],
+			// 		[
+			// 			205.1314225,
+			// 			-168.583744
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 112,
+			// 			"length": 16.4755039,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 163,
+			// 			"length": 16.9597759,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 12.891223,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 69,
+			// 			"length": 5.61007547,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			166.9709115,
+			// 			-189.0108
+			// 		],
+			// 		[
+			// 			205.1314225,
+			// 			-166.5154152
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_MovingPlatform02_through",
+			// 	"vertex": [
+			// 		[
+			// 			166.9709115,
+			// 			-189.0108
+			// 		],
+			// 		[
+			// 			182.2273045,
+			// 			-182.7910957
+			// 		],
+			// 		[
+			// 			186.9955545,
+			// 			-166.5154152
+			// 		],
+			// 		[
+			// 			199.8865455,
+			// 			-166.5927
+			// 		],
+			// 		[
+			// 			205.1314225,
+			// 			-168.583744
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 112,
+			// 			"length": 16.4755039,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 163,
+			// 			"length": 16.9597759,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 12.891223,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 69,
+			// 			"length": 5.61007547,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			166.9709115,
+			// 			-189.0108
+			// 		],
+			// 		[
+			// 			205.1314225,
+			// 			-166.5154152
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			166.63176950000002,
+			// 			-162.46404
+			// 		],
+			// 		[
+			// 			171.2094825,
+			// 			-159.8782349
+			// 		],
+			// 		[
+			// 			180.6932935,
+			// 			-158.198513
+			// 		],
+			// 		[
+			// 			187.0496315,
+			// 			-138.98869000000002
+			// 		],
+			// 		[
+			// 			205.1854955,
+			// 			-141.05702
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 119,
+			// 			"length": 5.25755072,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 100,
+			// 			"length": 9.631413,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 161,
+			// 			"length": 20.2341347,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 83,
+			// 			"length": 18.2534256,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			166.63176950000002,
+			// 			-162.46404
+			// 		],
+			// 		[
+			// 			205.1854955,
+			// 			-138.98869000000002
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			166.63176950000002,
+			// 			-162.46404
+			// 		],
+			// 		[
+			// 			171.2094825,
+			// 			-159.8782349
+			// 		],
+			// 		[
+			// 			180.6932935,
+			// 			-158.198513
+			// 		],
+			// 		[
+			// 			187.0496315,
+			// 			-138.98869000000002
+			// 		],
+			// 		[
+			// 			205.1854955,
+			// 			-141.05702
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 119,
+			// 			"length": 5.25755072,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 100,
+			// 			"length": 9.631413,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 161,
+			// 			"length": 20.2341347,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 83,
+			// 			"length": 18.2534256,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			166.63176950000002,
+			// 			-162.46404
+			// 		],
+			// 		[
+			// 			205.1854955,
+			// 			-138.98869000000002
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_08_GimmickPlatform01",
+			// 	"vertex": [
+			// 		[
+			// 			-20.043597499999994,
+			// 			-213.8
+			// 		],
+			// 		[
+			// 			33.0816425,
+			// 			-213.8
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 53.12524,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-20.043597499999994,
+			// 			-213.8
+			// 		],
+			// 		[
+			// 			33.0816425,
+			// 			-213.8
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_08_GimmickPlatform01",
+			// 	"vertex": [
+			// 		[
+			// 			-20.043597499999994,
+			// 			-213.8
+			// 		],
+			// 		[
+			// 			33.0816425,
+			// 			-213.8
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 53.12524,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-20.043597499999994,
+			// 			-213.8
+			// 		],
+			// 		[
+			// 			33.0816425,
+			// 			-213.8
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_010_Seesaw",
+			// 	"vertex": [
+			// 		[
+			// 			-3.174916499999995,
+			// 			-215.06585693
+			// 		],
+			// 		[
+			// 			4.549028790000006,
+			// 			-194.96959
+			// 		],
+			// 		[
+			// 			8.389122040000005,
+			// 			-194.96959
+			// 		],
+			// 		[
+			// 			15.978263500000006,
+			// 			-215.06585693
+			// 		],
+			// 		[
+			// 			-3.174916499999995,
+			// 			-215.06585693
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 158,
+			// 			"length": 21.5295,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 3.84009314,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 20,
+			// 			"length": 21.4815044,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 19.15318,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-3.174916499999995,
+			// 			-215.06585693
+			// 		],
+			// 		[
+			// 			15.978263500000006,
+			// 			-194.96959
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_14_Platform01",
+			// 	"vertex": [
+			// 		[
+			// 			-61.72177749999999,
+			// 			-200.1617279
+			// 		],
+			// 		[
+			// 			-53.8689475,
+			// 			-194.0228577
+			// 		],
+			// 		[
+			// 			-43.778187499999994,
+			// 			-191.56723
+			// 		],
+			// 		[
+			// 			-36.690907499999994,
+			// 			-191.4862976
+			// 		],
+			// 		[
+			// 			-20.268605699999995,
+			// 			-194.3919067
+			// 		],
+			// 		[
+			// 			-8.979535499999994,
+			// 			-194.1135712
+			// 		],
+			// 		[
+			// 			-1.278951129999995,
+			// 			-190.4164429
+			// 		],
+			// 		[
+			// 			11.219347500000005,
+			// 			-182.47603
+			// 		],
+			// 		[
+			// 			16.244905980000006,
+			// 			-180.7001648
+			// 		],
+			// 		[
+			// 			19.151247500000004,
+			// 			-181.24872
+			// 		],
+			// 		[
+			// 			23.176355900000004,
+			// 			-185.3968811
+			// 		],
+			// 		[
+			// 			26.483767100000005,
+			// 			-192.5512314
+			// 		],
+			// 		[
+			// 			29.231251300000004,
+			// 			-194.9146614
+			// 		],
+			// 		[
+			// 			34.78029110000001,
+			// 			-195.7241764
+			// 		],
+			// 		[
+			// 			42.01821760000001,
+			// 			-187.2496548
+			// 		],
+			// 		[
+			// 			44.16561250000001,
+			// 			-187.3676147
+			// 		],
+			// 		[
+			// 			46.46331250000001,
+			// 			-189.89212
+			// 		],
+			// 		[
+			// 			49.188318800000005,
+			// 			-189.55429
+			// 		],
+			// 		[
+			// 			51.17626250000001,
+			// 			-188.0988159
+			// 		],
+			// 		[
+			// 			52.578072500000005,
+			// 			-187.95166
+			// 		],
+			// 		[
+			// 			54.742092500000005,
+			// 			-189.2822876
+			// 		],
+			// 		[
+			// 			59.2176156,
+			// 			-195.1660156
+			// 		],
+			// 		[
+			// 			69.7340951,
+			// 			-197.91092
+			// 		],
+			// 		[
+			// 			79.0235825,
+			// 			-204.3067093
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 128,
+			// 			"length": 9.96758,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 103,
+			// 			"length": 10.3852558,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 7.08774233,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 79,
+			// 			"length": 16.6773663,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 91,
+			// 			"length": 11.2925005,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 115,
+			// 			"length": 8.542117,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 122,
+			// 			"length": 14.8073511,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 109,
+			// 			"length": 5.33009672,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 79,
+			// 			"length": 2.95765662,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 44,
+			// 			"length": 5.78003025,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 24,
+			// 			"length": 7.881859,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 49,
+			// 			"length": 3.624151,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 81,
+			// 			"length": 5.60777664,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 139,
+			// 			"length": 11.1447344,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 86,
+			// 			"length": 2.15063357,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 42,
+			// 			"length": 3.413583,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 97,
+			// 			"length": 2.74586725,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 126,
+			// 			"length": 2.463805,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 95,
+			// 			"length": 1.4095124,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 58,
+			// 			"length": 2.54038143,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 37,
+			// 			"length": 7.3924675,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 75,
+			// 			"length": 10.8688011,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 55,
+			// 			"length": 11.2783308,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-61.72177749999999,
+			// 			-204.3067093
+			// 		],
+			// 		[
+			// 			79.0235825,
+			// 			-180.7001648
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_16_GimmickScaffold01",
+			// 	"vertex": [
+			// 		[
+			// 			-258.4809775,
+			// 			-138.9965439
+			// 		],
+			// 		[
+			// 			-108.4809775,
+			// 			-138.31528
+			// 		],
+			// 		[
+			// 			-97.7847955,
+			// 			-140.60455000000002
+			// 		],
+			// 		[
+			// 			-95.35197749999999,
+			// 			-148.63401
+			// 		],
+			// 		[
+			// 			-95.3520025,
+			// 			-168.83429
+			// 		],
+			// 		[
+			// 			-93.57056949999999,
+			// 			-170.6157227
+			// 		],
+			// 		[
+			// 			-93.57056949999999,
+			// 			-184.0296516
+			// 		],
+			// 		[
+			// 			-123.3913775,
+			// 			-184.0296516
+			// 		],
+			// 		[
+			// 			-123.3913775,
+			// 			-170.63681
+			// 		],
+			// 		[
+			// 			-121.6060995,
+			// 			-168.85154
+			// 		],
+			// 		[
+			// 			-121.43436949999999,
+			// 			-164.103466
+			// 		],
+			// 		[
+			// 			-123.42747749999998,
+			// 			-162.11034999999998
+			// 		],
+			// 		[
+			// 			-258.4809775,
+			// 			-162.1103439
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 150.001541,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 77,
+			// 			"length": 10.9384232,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 16,
+			// 			"length": 8.389921,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 20.20028,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 45,
+			// 			"length": 2.519327,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 13.413929,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 29.8208084,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 13.3928413,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 134,
+			// 			"length": 2.52475953,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 177,
+			// 			"length": 4.75117826,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 226,
+			// 			"length": 2.81868672,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 135.0535,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-258.4809775,
+			// 			-184.0296516
+			// 		],
+			// 		[
+			// 			-93.57056949999999,
+			// 			-138.31528
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_16_GimmickScaffold02",
+			// 	"vertex": [
+			// 		[
+			// 			-39.5507102,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			-39.5507102,
+			// 			-208.30107927
+			// 		],
+			// 		[
+			// 			-41.33212749999999,
+			// 			-206.519662
+			// 		],
+			// 		[
+			// 			-41.33212749999999,
+			// 			-193.105732
+			// 		],
+			// 		[
+			// 			-16.147105699999994,
+			// 			-193.105732
+			// 		],
+			// 		[
+			// 			-16.147105699999994,
+			// 			-206.498573
+			// 		],
+			// 		[
+			// 			-17.780059299999994,
+			// 			-208.13152647
+			// 		],
+			// 		[
+			// 			-17.780077499999994,
+			// 			-215.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 6.69892073,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 226,
+			// 			"length": 2.519305,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 13.41393,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 25.1850224,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 13.3928413,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 316,
+			// 			"length": 2.30934477,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 6.86847353,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-41.33212749999999,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			-16.147105699999994,
+			// 			-193.105732
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_16_GimmickScaffold03",
+			// 	"vertex": [
+			// 		[
+			// 			28.264082500000004,
+			// 			-214.999999523888
+			// 		],
+			// 		[
+			// 			28.264082500000004,
+			// 			-211.41618848
+			// 		],
+			// 		[
+			// 			26.482664600000007,
+			// 			-209.63477039
+			// 		],
+			// 		[
+			// 			26.482664600000007,
+			// 			-196.22084
+			// 		],
+			// 		[
+			// 			52.327665800000005,
+			// 			-196.22084
+			// 		],
+			// 		[
+			// 			52.327665800000005,
+			// 			-209.61368132
+			// 		],
+			// 		[
+			// 			50.69471600000001,
+			// 			-211.24663353
+			// 		],
+			// 		[
+			// 			50.6947084,
+			// 			-214.999999740248
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 3.583811,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 225,
+			// 			"length": 2.51930547,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 13.41393,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 25.8450012,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 13.3928413,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 316,
+			// 			"length": 2.30934143,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 3.75336623,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			26.482664600000007,
+			// 			-214.999999740248
+			// 		],
+			// 		[
+			// 			52.327665800000005,
+			// 			-196.22084
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_16_GimmickScaffold04",
+			// 	"vertex": [
+			// 		[
+			// 			271.5190225,
+			// 			-78.4255
+			// 		],
+			// 		[
+			// 			132.4015675,
+			// 			-177.1449966
+			// 		],
+			// 		[
+			// 			132.1230415,
+			// 			-179.51295
+			// 		],
+			// 		[
+			// 			122.5189005,
+			// 			-187.0955334
+			// 		],
+			// 		[
+			// 			121.0189005,
+			// 			-187.0955334
+			// 		],
+			// 		[
+			// 			103.11600250000001,
+			// 			-164.4196777
+			// 		],
+			// 		[
+			// 			113.6276225,
+			// 			-156.1206131
+			// 		],
+			// 		[
+			// 			116.06348650000001,
+			// 			-156.4071236
+			// 		],
+			// 		[
+			// 			271.5190225,
+			// 			-46.08616599999999
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 306,
+			// 			"length": 170.584885,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 354,
+			// 			"length": 2.38427854,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 309,
+			// 			"length": 12.2366285,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 1.5,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 219,
+			// 			"length": 28.89132,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 128,
+			// 			"length": 13.3928566,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 83,
+			// 			"length": 2.45265937,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 125,
+			// 			"length": 190.623016,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			103.11600250000001,
+			// 			-187.0955334
+			// 		],
+			// 		[
+			// 			271.5190225,
+			// 			-46.08616599999999
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_16_GimmickScaffold05",
+			// 	"vertex": [
+			// 		[
+			// 			86.70367250000001,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			90.0352325,
+			// 			-88.3389
+			// 		],
+			// 		[
+			// 			88.36945250000001,
+			// 			-90.004684
+			// 		],
+			// 		[
+			// 			88.2561975,
+			// 			-103.443344
+			// 		],
+			// 		[
+			// 			118.62102750000001,
+			// 			-102.298187
+			// 		],
+			// 		[
+			// 			118.11628950000001,
+			// 			-88.914871
+			// 		],
+			// 		[
+			// 			114.9487785,
+			// 			-85.728012
+			// 		],
+			// 		[
+			// 			113.9525095,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 183,
+			// 			"length": 88.4016953,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 135,
+			// 			"length": 2.35577273,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 179,
+			// 			"length": 13.4391365,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 273,
+			// 			"length": 30.3864155,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 2,
+			// 			"length": 13.3928308,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 44,
+			// 			"length": 4.493239,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 85.7338,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			86.70367250000001,
+			// 			-103.443344
+			// 		],
+			// 		[
+			// 			118.62102750000001,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_16_GimmickScaffold06",
+			// 	"vertex": [
+			// 		[
+			// 			23.654844800000006,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			23.654844800000006,
+			// 			-86.91172800000001
+			// 		],
+			// 		[
+			// 			21.936025200000003,
+			// 			-88.630547
+			// 		],
+			// 		[
+			// 			21.219292500000005,
+			// 			-102.057129
+			// 		],
+			// 		[
+			// 			51.69424250000001,
+			// 			-102.057129
+			// 		],
+			// 		[
+			// 			51.69424250000001,
+			// 			-88.664284
+			// 		],
+			// 		[
+			// 			50.06129250000001,
+			// 			-87.031334
+			// 		],
+			// 		[
+			// 			50.061258800000004,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 86.91173,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 135,
+			// 			"length": 2.43077731,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 176,
+			// 			"length": 13.4456987,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 30.47495,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 13.3928452,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 45,
+			// 			"length": 2.30933976,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 87.0313339,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			21.219292500000005,
+			// 			-102.057129
+			// 		],
+			// 		[
+			// 			51.69424250000001,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_16_GimmickScaffold07",
+			// 	"vertex": [
+			// 		[
+			// 			-50.32406749999999,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-52.4293036,
+			// 			-85.64779999999999
+			// 		],
+			// 		[
+			// 			-54.26441749999999,
+			// 			-87.4829
+			// 		],
+			// 		[
+			// 			-53.8975501,
+			// 			-100.891823
+			// 		],
+			// 		[
+			// 			-24.087880599999995,
+			// 			-100.076241
+			// 		],
+			// 		[
+			// 			-24.454175399999993,
+			// 			-86.68838500000001
+			// 		],
+			// 		[
+			// 			-26.947354799999992,
+			// 			-84.84823600000001
+			// 		],
+			// 		[
+			// 			-23.641290199999993,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 178,
+			// 			"length": 85.67367,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 134,
+			// 			"length": 2.595237,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 182,
+			// 			"length": 13.4139385,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 272,
+			// 			"length": 29.8208237,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 1,
+			// 			"length": 13.3928652,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 53,
+			// 			"length": 3.09872413,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 358,
+			// 			"length": 84.91262,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-54.26441749999999,
+			// 			-100.891823
+			// 		],
+			// 		[
+			// 			-23.641290199999993,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_18_DolphinL",
+			// 	"vertex": [
+			// 		[
+			// 			-356.4414775,
+			// 			-252.436348
+			// 		],
+			// 		[
+			// 			-343.4034325,
+			// 			-234.0033684
+			// 		],
+			// 		[
+			// 			-327.73161849999997,
+			// 			-221.68481445
+			// 		],
+			// 		[
+			// 			-307.6552325,
+			// 			-220.40829849
+			// 		],
+			// 		[
+			// 			-294.3873775,
+			// 			-227.5694485
+			// 		],
+			// 		[
+			// 			-286.3968775,
+			// 			-237.7134972
+			// 		],
+			// 		[
+			// 			-289.0387165,
+			// 			-244.0663433
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 144,
+			// 			"length": 22.57799,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 128,
+			// 			"length": 19.9337025,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 93,
+			// 			"length": 20.1169262,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 61,
+			// 			"length": 15.0770683,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 38,
+			// 			"length": 12.91317,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 338,
+			// 			"length": 6.880262,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-24.504174699999993,
+			// 			-225.4129982
+			// 		],
+			// 		[
+			// 			45.54043060000001,
+			// 			-193.3849487
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_18_DolphinL",
+			// 	"vertex": [
+			// 		[
+			// 			-356.4414775,
+			// 			-252.436348
+			// 		],
+			// 		[
+			// 			-343.4034325,
+			// 			-234.0033684
+			// 		],
+			// 		[
+			// 			-327.73161849999997,
+			// 			-221.68481445
+			// 		],
+			// 		[
+			// 			-307.6552325,
+			// 			-220.40829849
+			// 		],
+			// 		[
+			// 			-294.3873775,
+			// 			-227.5694485
+			// 		],
+			// 		[
+			// 			-286.3968775,
+			// 			-237.7134972
+			// 		],
+			// 		[
+			// 			-289.0387165,
+			// 			-244.0663433
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 144,
+			// 			"length": 22.57799,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 128,
+			// 			"length": 19.9337025,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 93,
+			// 			"length": 20.1169262,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 61,
+			// 			"length": 15.0770683,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 38,
+			// 			"length": 12.91317,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 338,
+			// 			"length": 6.880262,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-24.504174699999993,
+			// 			-225.4129982
+			// 		],
+			// 		[
+			// 			45.54043060000001,
+			// 			-193.3849487
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_18_DolphinR",
+			// 	"vertex": [
+			// 		[
+			// 			302.07676150000003,
+			// 			-244.0663433
+			// 		],
+			// 		[
+			// 			299.4349225,
+			// 			-237.7134972
+			// 		],
+			// 		[
+			// 			307.4254225,
+			// 			-227.5694485
+			// 		],
+			// 		[
+			// 			320.6932775,
+			// 			-220.40829849
+			// 		],
+			// 		[
+			// 			340.7696635,
+			// 			-221.68481445
+			// 		],
+			// 		[
+			// 			356.4414775,
+			// 			-234.0033684
+			// 		],
+			// 		[
+			// 			369.47952250000003,
+			// 			-252.436348
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 203,
+			// 			"length": 6.880262,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 141,
+			// 			"length": 12.91317,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 118,
+			// 			"length": 15.0770683,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 86,
+			// 			"length": 20.1169262,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 51,
+			// 			"length": 19.9337025,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 35,
+			// 			"length": 22.57799,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-32.5023856,
+			// 			-225.4129982
+			// 		],
+			// 		[
+			// 			37.542219700000004,
+			// 			-193.3849487
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_18_DolphinR",
+			// 	"vertex": [
+			// 		[
+			// 			302.07676150000003,
+			// 			-244.0663433
+			// 		],
+			// 		[
+			// 			299.4349225,
+			// 			-237.7134972
+			// 		],
+			// 		[
+			// 			307.4254225,
+			// 			-227.5694485
+			// 		],
+			// 		[
+			// 			320.6932775,
+			// 			-220.40829849
+			// 		],
+			// 		[
+			// 			340.7696635,
+			// 			-221.68481445
+			// 		],
+			// 		[
+			// 			356.4414775,
+			// 			-234.0033684
+			// 		],
+			// 		[
+			// 			369.47952250000003,
+			// 			-252.436348
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 203,
+			// 			"length": 6.880262,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 141,
+			// 			"length": 12.91317,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 118,
+			// 			"length": 15.0770683,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 86,
+			// 			"length": 20.1169262,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 51,
+			// 			"length": 19.9337025,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 35,
+			// 			"length": 22.57799,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-32.5023856,
+			// 			-225.4129982
+			// 		],
+			// 		[
+			// 			37.542219700000004,
+			// 			-193.3849487
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_20_Short_Platform",
+			// 	"vertex": [
+			// 		[
+			// 			-63.14159149999999,
+			// 			-223.699211
+			// 		],
+			// 		[
+			// 			-113.5372905,
+			// 			-220.478272
+			// 		],
+			// 		[
+			// 			-112.9991045,
+			// 			-210.89517069
+			// 		],
+			// 		[
+			// 			-29.648107499999995,
+			// 			-205.78309
+			// 		],
+			// 		[
+			// 			12.944239170000007,
+			// 			-205.998695
+			// 		],
+			// 		[
+			// 			18.364649300000004,
+			// 			-208.724802
+			// 		],
+			// 		[
+			// 			18.977411800000006,
+			// 			-219.64641571
+			// 		],
+			// 		[
+			// 			16.362894500000003,
+			// 			-223.076927
+			// 		],
+			// 		[
+			// 			-63.14159149999999,
+			// 			-223.699211
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 267,
+			// 			"length": 50.4985237,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 176,
+			// 			"length": 9.598202,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 93,
+			// 			"length": 83.5076141,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 42.59289,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 63,
+			// 			"length": 6.067331,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 3,
+			// 			"length": 10.93879,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 323,
+			// 			"length": 4.313248,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 271,
+			// 			"length": 79.50692,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-113.5372905,
+			// 			-223.699211
+			// 		],
+			// 		[
+			// 			18.977411800000006,
+			// 			-205.78309
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Ink",
+			// 	"vertex": [
+			// 		[
+			// 			60.4116197,
+			// 			-187.649168
+			// 		],
+			// 		[
+			// 			58.713502500000004,
+			// 			-180.9252625
+			// 		],
+			// 		[
+			// 			61.0727868,
+			// 			-173.9086
+			// 		],
+			// 		[
+			// 			86.5612325,
+			// 			-173.89691
+			// 		],
+			// 		[
+			// 			88.9785325,
+			// 			-179.9300842
+			// 		],
+			// 		[
+			// 			86.7694269,
+			// 			-188.4073181
+			// 		],
+			// 		[
+			// 			73.1725225,
+			// 			-190.2429256
+			// 		],
+			// 		[
+			// 			60.4116197,
+			// 			-187.649168
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 195,
+			// 			"length": 6.93502,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 161,
+			// 			"length": 7.402687,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 25.488451,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 21,
+			// 			"length": 6.499423,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 346,
+			// 			"length": 8.760345,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 278,
+			// 			"length": 13.7202463,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 259,
+			// 			"length": 13.0218391,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			58.713502500000004,
+			// 			-190.2429256
+			// 		],
+			// 		[
+			// 			88.9785325,
+			// 			-173.89691
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
-			{
-				"name": "COL_01_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-5.9809774999999945,
-						-195.0
-					],
-					[
-						19.019022500000005,
-						-195.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-5.9809774999999945,
-						-195.0
-					],
-					[
-						19.019022500000005,
-						-195.0
-					]
-				]
-			},
-			{
-				"name": "COL_01_GimmickPlatform01_throug",
-				"vertex": [
-					[
-						-5.9809774999999945,
-						-195.0
-					],
-					[
-						19.019022500000005,
-						-195.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-5.9809774999999945,
-						-195.0
-					],
-					[
-						19.019022500000005,
-						-195.0
-					]
-				]
-			},
-			{
-				"name": "COL_02_CarL_through",
-				"vertex": [
-					[
-						-4.314674799999995,
-						-186.04275
-					],
-					[
-						-1.3292831999999946,
-						-183.4870262
-					],
-					[
-						6.947026556000005,
-						-183.15838
-					],
-					[
-						23.715481300000004,
-						-184.8368759
-					],
-					[
-						27.778392500000006,
-						-187.5878639
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 130,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 92,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 84,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 55,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-4.314674799999995,
-						-187.5878639
-					],
-					[
-						27.778392500000006,
-						-183.15838
-					]
-				]
-			},
-			{
-				"name": "COL_02_CarL_through",
-				"vertex": [
-					[
-						-4.314674799999995,
-						-186.04275
-					],
-					[
-						-1.3292831999999946,
-						-183.4870262
-					],
-					[
-						6.947026556000005,
-						-183.15838
-					],
-					[
-						23.715481300000004,
-						-184.8368759
-					],
-					[
-						27.778392500000006,
-						-187.5878639
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 130,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 92,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 84,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 55,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-4.314674799999995,
-						-187.5878639
-					],
-					[
-						27.778392500000006,
-						-183.15838
-					]
-				]
-			},
-			{
-				"name": "COL_02_CarR_through",
-				"vertex": [
-					[
-						17.352719800000006,
-						-186.04275
-					],
-					[
-						14.367328200000006,
-						-183.4870262
-					],
-					[
-						6.091018444000006,
-						-183.15838
-					],
-					[
-						-10.677436299999993,
-						-184.8368759
-					],
-					[
-						-14.740347499999995,
-						-187.5878639
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 49,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 87,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 95,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 124,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-14.740347499999995,
-						-187.5878639
-					],
-					[
-						17.352719800000006,
-						-183.15838
-					]
-				]
-			},
-			{
-				"name": "COL_02_CarR_through",
-				"vertex": [
-					[
-						17.352719800000006,
-						-186.04275
-					],
-					[
-						14.367328200000006,
-						-183.4870262
-					],
-					[
-						6.091018444000006,
-						-183.15838
-					],
-					[
-						-10.677436299999993,
-						-184.8368759
-					],
-					[
-						-14.740347499999995,
-						-187.5878639
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 49,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 87,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 95,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 124,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-14.740347499999995,
-						-187.5878639
-					],
-					[
-						17.352719800000006,
-						-183.15838
-					]
-				]
-			},
-			{
-				"name": "COL_03_Platform01_through",
-				"vertex": [
-					[
-						16.519022500000005,
-						-215.0
-					],
-					[
-						84.4707625,
-						-203.0182762
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 100,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						16.519022500000005,
-						-215.0
-					],
-					[
-						84.4707625,
-						-203.0182762
-					]
-				]
-			},
-			{
-				"name": "COL_03_Platform02_through",
-				"vertex": [
-					[
-						-59.55743749999999,
-						-188.4690857
-					],
-					[
-						45.851099500000004,
-						-192.8611088
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 87,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-59.55743749999999,
-						-192.8611088
-					],
-					[
-						45.851099500000004,
-						-188.4690857
-					]
-				]
-			},
-			{
-				"name": "COL_03_Platform03_through",
-				"vertex": [
-					[
-						-33.23899219999999,
-						-167.78529
-					],
-					[
-						74.15012250000001,
-						-162.903965
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 92,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-33.23899219999999,
-						-167.78529
-					],
-					[
-						74.15012250000001,
-						-162.903965
-					]
-				]
-			},
-			{
-				"name": "COL_03_Platform04_through",
-				"vertex": [
-					[
-						-77.0350375,
-						-132.62805
-					],
-					[
-						47.4950357,
-						-143.45676
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 85,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-77.0350375,
-						-143.45676
-					],
-					[
-						47.4950357,
-						-132.62805
-					]
-				]
-			},
-			{
-				"name": "COL_005_Plane_through",
-				"vertex": [
-					[
-						-174.9708915,
-						-132.19122
-					],
-					[
-						-129.4451655,
-						-136.73063000000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 84,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-12.843974599999996,
-						-216.37382066
-					],
-					[
-						32.6817525,
-						-211.83440971
-					]
-				]
-			},
-			{
-				"name": "COL_005_Plane_through",
-				"vertex": [
-					[
-						96.77968840000001,
-						-152.2580566
-					],
-					[
-						134.1765315,
-						-136.8279953
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 112,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-18.211705599999995,
-						-223.646769
-					],
-					[
-						19.185134400000006,
-						-208.21670532
-					]
-				]
-			},
-			{
-				"name": "COL_005_Plane_through",
-				"vertex": [
-					[
-						-124.3945775,
-						-114.777695
-					],
-					[
-						-83.09874749999999,
-						-131.35940549999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 68,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-7.483938699999994,
-						-224.252724
-					],
-					[
-						33.81190350000001,
-						-207.67101431
-					]
-				]
-			},
-			{
-				"name": "COL_06_MovingPlatform01_through",
-				"vertex": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				]
-			},
-			{
-				"name": "COL_06_MovingPlatform01_through",
-				"vertex": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				]
-			},
-			{
-				"name": "COL_06_MovingPlatform01_through",
-				"vertex": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				]
-			},
-			{
-				"name": "COL_06_MovingPlatform01_through",
-				"vertex": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				]
-			},
-			{
-				"name": "COL_06_MovingPlatform01_through",
-				"vertex": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				]
-			},
-			{
-				"name": "COL_06_MovingPlatform01_through",
-				"vertex": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				]
-			},
-			{
-				"name": "COL_06_MovingPlatform01_through",
-				"vertex": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				]
-			},
-			{
-				"name": "COL_06_MovingPlatform01_through",
-				"vertex": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.980977499999995,
-						-211.0
-					],
-					[
-						24.019022500000005,
-						-211.0
-					]
-				]
-			},
-			{
-				"name": "COL_09_Platform01_through",
-				"vertex": [
-					[
-						-15.162953799999993,
-						-215.7793884
-					],
-					[
-						-10.677510699999996,
-						-211.57666016
-					],
-					[
-						-1.579732499999995,
-						-207.218445
-					],
-					[
-						11.415689980000005,
-						-209.25
-					],
-					[
-						23.313913900000006,
-						-212.52481079
-					],
-					[
-						28.740397000000005,
-						-215.5786133
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 133,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 115,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 81,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 74,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 60,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-15.162953799999993,
-						-215.7793884
-					],
-					[
-						28.740397000000005,
-						-207.218445
-					]
-				]
-			},
-			{
-				"name": "COL_09_Platform02_through",
-				"vertex": [
-					[
-						-12.716885999999995,
-						-215.7021332
-					],
-					[
-						-4.289960299999995,
-						-208.3033905
-					],
-					[
-						1.993761500000005,
-						-206.786087
-					],
-					[
-						19.239016100000008,
-						-208.894394
-					],
-					[
-						25.572405400000005,
-						-214.783493042
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 131,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 103,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 83,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 47,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-12.716885999999995,
-						-215.7021332
-					],
-					[
-						25.572405400000005,
-						-206.786087
-					]
-				]
-			},
-			{
-				"name": "COL_09_Platform03_through",
-				"vertex": [
-					[
-						-13.128442299999996,
-						-213.26713562
-					],
-					[
-						0.8247745000000055,
-						-206.72697449
-					],
-					[
-						17.861990500000005,
-						-208.08284
-					],
-					[
-						26.518454100000007,
-						-215.6174164
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 115,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 85,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 48,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-13.128442299999996,
-						-215.6174164
-					],
-					[
-						26.518454100000007,
-						-206.72697449
-					]
-				]
-			},
-			{
-				"name": "COL_010_Seesaw_through",
-				"vertex": [
-					[
-						-53.48094749999999,
-						-212.899999
-					],
-					[
-						66.490458,
-						-212.899999
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-53.48094749999999,
-						-212.899999
-					],
-					[
-						66.490458,
-						-212.899999
-					]
-				]
-			},
-			{
-				"name": "COL_11_Scaffold01_through",
-				"vertex": [
-					[
-						-77.75504749999999,
-						-183.12865
-					],
-					[
-						17.244951800000006,
-						-183.12865
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-77.75504749999999,
-						-183.12865
-					],
-					[
-						17.244951800000006,
-						-183.12865
-					]
-				]
-			},
-			{
-				"name": "COL_11_Scaffold02_through",
-				"vertex": [
-					[
-						-7.478913699999994,
-						-154.9972572
-					],
-					[
-						86.5210825,
-						-154.9972572
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-7.478913699999994,
-						-154.9972572
-					],
-					[
-						86.5210825,
-						-154.9972572
-					]
-				]
-			},
-			{
-				"name": "COL_curve5",
-				"vertex": [
-					[
-						-122.87003049999998,
-						-224.52651
-					],
-					[
-						-3.177979499999994,
-						-180.29616
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 110,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-122.87003049999998,
-						-224.52651
-					],
-					[
-						-3.177979499999994,
-						-180.29616
-					]
-				]
-			},
-			{
-				"name": "COL_curve22",
-				"vertex": [
-					[
-						15.859242500000006,
-						-179.4731674
-					],
-					[
-						135.8715005,
-						-224.83058499999999
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 69,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						15.859242500000006,
-						-224.83058499999999
-					],
-					[
-						135.8715005,
-						-179.4731674
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorR_D",
-				"vertex": [
-					[
-						135.6543225,
-						-142.85197449999998
-					],
-					[
-						152.7868445,
-						-142.64436999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						135.6543225,
-						-142.85197449999998
-					],
-					[
-						152.7868445,
-						-142.64436999999998
-					]
-				]
-			},
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						40.991262500000005,
-						-215.0
-					],
-					[
-						51.5212725,
-						-213.81708372
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 96,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						40.991262500000005,
-						-215.0
-					],
-					[
-						51.5212725,
-						-213.81708372
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorR_C",
-				"vertex": [
-					[
-						130.29526750000002,
-						-142.91691
-					],
-					[
-						135.6543225,
-						-142.85197449999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						130.29526750000002,
-						-142.91691
-					],
-					[
-						135.6543225,
-						-142.85197449999998
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorR_B",
-				"vertex": [
-					[
-						64.4875425,
-						-212.10931778
-					],
-					[
-						130.29526750000002,
-						-142.91691
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 136,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						64.4875425,
-						-212.10931778
-					],
-					[
-						130.29526750000002,
-						-142.91691
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorR_A",
-				"vertex": [
-					[
-						51.5212725,
-						-213.81708372
-					],
-					[
-						64.4875425,
-						-212.10931778
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 97,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						51.5212725,
-						-213.81708372
-					],
-					[
-						64.4875425,
-						-212.10931778
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorC_D",
-				"vertex": [
-					[
-						31.449280300000005,
-						-142.54879
-					],
-					[
-						49.601740400000004,
-						-142.278656
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						31.449280300000005,
-						-142.54879
-					],
-					[
-						49.601740400000004,
-						-142.278656
-					]
-				]
-			},
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						-62.0052075,
-						-215.0
-					],
-					[
-						-48.50378179999999,
-						-213.60955441
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 95,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-62.0052075,
-						-215.0
-					],
-					[
-						-48.50378179999999,
-						-213.60955441
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorC_C",
-				"vertex": [
-					[
-						27.295271400000004,
-						-142.61061
-					],
-					[
-						31.449280300000005,
-						-142.54879
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						27.295271400000004,
-						-142.61061
-					],
-					[
-						31.449280300000005,
-						-142.54879
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorC_B",
-				"vertex": [
-					[
-						-37.499267499999995,
-						-212.294979
-					],
-					[
-						27.295271400000004,
-						-142.61061
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 137,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-37.499267499999995,
-						-212.294979
-					],
-					[
-						27.295271400000004,
-						-142.61061
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorC_A",
-				"vertex": [
-					[
-						-48.50378179999999,
-						-213.60955441
-					],
-					[
-						-37.499267499999995,
-						-212.294979
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 96,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-48.50378179999999,
-						-213.60955441
-					],
-					[
-						-37.499267499999995,
-						-212.294979
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorL_D",
-				"vertex": [
-					[
-						-70.89352749999999,
-						-140.5195541
-					],
-					[
-						-54.2026675,
-						-142.46505000000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 83,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-70.89352749999999,
-						-142.46505000000002
-					],
-					[
-						-54.2026675,
-						-140.5195541
-					]
-				]
-			},
-			{
-				"name": "COL_curve2",
-				"vertex": [
-					[
-						-166.0087175,
-						-215.0
-					],
-					[
-						-153.4637045,
-						-213.732693
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 95,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-166.0087175,
-						-215.0
-					],
-					[
-						-153.4637045,
-						-213.732693
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorL_C",
-				"vertex": [
-					[
-						-75.1134314,
-						-140.07058
-					],
-					[
-						-70.89352749999999,
-						-140.5195541
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 83,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-75.1134314,
-						-140.5195541
-					],
-					[
-						-70.89352749999999,
-						-140.07058
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorL_B",
-				"vertex": [
-					[
-						-142.9468895,
-						-212.576676
-					],
-					[
-						-75.1134314,
-						-140.07058
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 136,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-142.9468895,
-						-212.576676
-					],
-					[
-						-75.1134314,
-						-140.07058
-					]
-				]
-			},
-			{
-				"name": "COL_19_EscalatorL_A",
-				"vertex": [
-					[
-						-153.4637045,
-						-213.732693
-					],
-					[
-						-142.9468895,
-						-212.576676
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 96,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-153.4637045,
-						-213.732693
-					],
-					[
-						-142.9468895,
-						-212.576676
-					]
-				]
-			},
-			{
-				"name": "COL_20_Long_Platform02_through",
-				"vertex": [
-					[
-						22.152461600000006,
-						-219.136428
-					],
-					[
-						-169.9937645,
-						-219.136428
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-169.9937645,
-						-219.136428
-					],
-					[
-						22.152461600000006,
-						-219.136428
-					]
-				]
-			},
-			{
-				"name": "COL_20_Long_Platform01_through",
-				"vertex": [
-					[
-						-169.9937645,
-						-211.28664
-					],
-					[
-						22.152461600000006,
-						-211.28664
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-169.9937645,
-						-211.28664
-					],
-					[
-						22.152461600000006,
-						-211.28664
-					]
-				]
-			},
-			{
-				"name": "COL_21_GullL",
-				"vertex": [
-					[
-						-75.36732749999999,
-						-143.78935
-					],
-					[
-						-72.86541749999999,
-						-140.20093
-					],
-					[
-						-69.53177749999999,
-						-139.05896
-					],
-					[
-						-63.21792359999999,
-						-141.22352999999998
-					],
-					[
-						-60.992217499999995,
-						-145.63899
-					],
-					[
-						-56.63560749999999,
-						-140.99599999999998
-					],
-					[
-						-52.6167616,
-						-140.01204
-					],
-					[
-						-46.86747749999999,
-						-143.17293999999998
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 145,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 108,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 71,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 26,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 136,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 103,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 61,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-75.36732749999999,
-						-145.63899
-					],
-					[
-						-46.86747749999999,
-						-139.05896
-					]
-				]
-			},
-			{
-				"name": "COL_21_GullR",
-				"vertex": [
-					[
-						61.504179500000006,
-						-122.679245
-					],
-					[
-						64.60644250000001,
-						-120.12255
-					],
-					[
-						69.28391250000001,
-						-119.17029
-					],
-					[
-						73.6646625,
-						-120.77446
-					],
-					[
-						77.21982820000001,
-						-124.73678
-					],
-					[
-						82.44964250000001,
-						-118.03222
-					],
-					[
-						86.73706250000001,
-						-117.52984
-					],
-					[
-						89.90469250000001,
-						-118.60781
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 129,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 101,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 69,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 41,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 142,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 96,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 71,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						61.504179500000006,
-						-124.73678
-					],
-					[
-						89.90469250000001,
-						-117.52984
-					]
-				]
-			},
-			{
-				"name": "COL_22_Platform02",
-				"vertex": [
-					[
-						72.6698125,
-						-154.7660027
-					],
-					[
-						65.8814725,
-						-146.66604610000002
-					],
-					[
-						55.998217100000005,
-						-142.98901
-					],
-					[
-						42.347552500000006,
-						-143.70907590000002
-					],
-					[
-						27.308489400000006,
-						-148.63782
-					],
-					[
-						5.600763833000006,
-						-165.1605034
-					],
-					[
-						-11.841081099999993,
-						-176.8083725
-					],
-					[
-						-24.996397499999993,
-						-180.3973541
-					],
-					[
-						-43.325087499999995,
-						-181.8076553
-					],
-					[
-						-52.667992999999996,
-						-180.54032999999998
-					],
-					[
-						-58.01610319999999,
-						-177.510334
-					],
-					[
-						-61.71419279999999,
-						-171.9223671
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 39,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 69,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 93,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 108,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 127,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 123,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 105,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 94,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 82,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 60,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 33,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-61.71419279999999,
-						-181.8076553
-					],
-					[
-						72.6698125,
-						-142.98901
-					]
-				]
-			},
-			{
-				"name": "COL_22_Platform01",
-				"vertex": [
-					[
-						-61.71419279999999,
-						-154.7660027
-					],
-					[
-						-54.92585509999999,
-						-146.66604610000002
-					],
-					[
-						-45.042600099999994,
-						-142.98901
-					],
-					[
-						-31.391934799999994,
-						-143.70907590000002
-					],
-					[
-						-16.352872299999994,
-						-148.63782
-					],
-					[
-						5.354853190000005,
-						-165.1605034
-					],
-					[
-						22.796698100000004,
-						-176.8083725
-					],
-					[
-						35.95201540000001,
-						-180.3973541
-					],
-					[
-						54.280702500000004,
-						-181.8076553
-					],
-					[
-						63.62361010000001,
-						-180.54032999999998
-					],
-					[
-						68.97172030000002,
-						-177.510334
-					],
-					[
-						72.6698125,
-						-171.9223671
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 140,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 110,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 86,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 71,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 52,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 56,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 74,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 85,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 97,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 119,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 146,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-61.71419279999999,
-						-181.8076553
-					],
-					[
-						72.6698125,
-						-142.98901
-					]
-				]
-			},
-			{
-				"name": "COL_23_Word07",
-				"vertex": [
-					[
-						6.323084390000005,
-						-212.87514949
-					],
-					[
-						94.7149625,
-						-212.87514949
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						6.323084390000005,
-						-212.87514949
-					],
-					[
-						94.7149625,
-						-212.87514949
-					]
-				]
-			},
-			{
-				"name": "COL_23_Word06",
-				"vertex": [
-					[
-						6.320908100000006,
-						-212.87514949
-					],
-					[
-						61.200632500000005,
-						-212.87514949
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						6.320908100000006,
-						-212.87514949
-					],
-					[
-						61.200632500000005,
-						-212.87514949
-					]
-				]
-			},
-			{
-				"name": "COL_23_Word05",
-				"vertex": [
-					[
-						6.514330899000005,
-						-212.87514949
-					],
-					[
-						63.6718278,
-						-212.87514949
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						6.514330899000005,
-						-212.87514949
-					],
-					[
-						63.6718278,
-						-212.87514949
-					]
-				]
-			},
-			{
-				"name": "COL_23_Word04a",
-				"vertex": [
-					[
-						61.733358900000006,
-						-212.87514949
-					],
-					[
-						97.9861125,
-						-212.87514949
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						61.733358900000006,
-						-212.87514949
-					],
-					[
-						97.9861125,
-						-212.87514949
-					]
-				]
-			},
-			{
-				"name": "COL_23_Word04b",
-				"vertex": [
-					[
-						6.185722863000006,
-						-212.87514949
-					],
-					[
-						38.210295200000004,
-						-212.87514949
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						6.185722863000006,
-						-212.87514949
-					],
-					[
-						38.210295200000004,
-						-212.87514949
-					]
-				]
-			},
-			{
-				"name": "COL_23_Word03",
-				"vertex": [
-					[
-						6.593041930000005,
-						-212.87514949
-					],
-					[
-						35.551992500000004,
-						-212.87514949
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						6.593041930000005,
-						-212.87514949
-					],
-					[
-						35.551992500000004,
-						-212.87514949
-					]
-				]
-			},
-			{
-				"name": "COL_23_Word02",
-				"vertex": [
-					[
-						6.468851600000005,
-						-212.87514949
-					],
-					[
-						38.8166986,
-						-212.87514949
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						6.468851600000005,
-						-212.87514949
-					],
-					[
-						38.8166986,
-						-212.87514949
-					]
-				]
-			},
-			{
-				"name": "COL_23_Word01",
-				"vertex": [
-					[
-						6.540508782300005,
-						-212.87514949
-					],
-					[
-						38.5664201,
-						-212.87514949
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						6.540508782300005,
-						-212.87514949
-					],
-					[
-						38.5664201,
-						-212.87514949
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_01_GimmickPlatform01_throug",
+			// 	"vertex": [
+			// 		[
+			// 			-5.9809774999999945,
+			// 			-195.0
+			// 		],
+			// 		[
+			// 			19.019022500000005,
+			// 			-195.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-5.9809774999999945,
+			// 			-195.0
+			// 		],
+			// 		[
+			// 			19.019022500000005,
+			// 			-195.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_01_GimmickPlatform01_throug",
+			// 	"vertex": [
+			// 		[
+			// 			-5.9809774999999945,
+			// 			-195.0
+			// 		],
+			// 		[
+			// 			19.019022500000005,
+			// 			-195.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-5.9809774999999945,
+			// 			-195.0
+			// 		],
+			// 		[
+			// 			19.019022500000005,
+			// 			-195.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_02_CarL_through",
+			// 	"vertex": [
+			// 		[
+			// 			-4.314674799999995,
+			// 			-186.04275
+			// 		],
+			// 		[
+			// 			-1.3292831999999946,
+			// 			-183.4870262
+			// 		],
+			// 		[
+			// 			6.947026556000005,
+			// 			-183.15838
+			// 		],
+			// 		[
+			// 			23.715481300000004,
+			// 			-184.8368759
+			// 		],
+			// 		[
+			// 			27.778392500000006,
+			// 			-187.5878639
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 130,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 92,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 84,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 55,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-4.314674799999995,
+			// 			-187.5878639
+			// 		],
+			// 		[
+			// 			27.778392500000006,
+			// 			-183.15838
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_02_CarL_through",
+			// 	"vertex": [
+			// 		[
+			// 			-4.314674799999995,
+			// 			-186.04275
+			// 		],
+			// 		[
+			// 			-1.3292831999999946,
+			// 			-183.4870262
+			// 		],
+			// 		[
+			// 			6.947026556000005,
+			// 			-183.15838
+			// 		],
+			// 		[
+			// 			23.715481300000004,
+			// 			-184.8368759
+			// 		],
+			// 		[
+			// 			27.778392500000006,
+			// 			-187.5878639
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 130,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 92,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 84,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 55,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-4.314674799999995,
+			// 			-187.5878639
+			// 		],
+			// 		[
+			// 			27.778392500000006,
+			// 			-183.15838
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_02_CarR_through",
+			// 	"vertex": [
+			// 		[
+			// 			17.352719800000006,
+			// 			-186.04275
+			// 		],
+			// 		[
+			// 			14.367328200000006,
+			// 			-183.4870262
+			// 		],
+			// 		[
+			// 			6.091018444000006,
+			// 			-183.15838
+			// 		],
+			// 		[
+			// 			-10.677436299999993,
+			// 			-184.8368759
+			// 		],
+			// 		[
+			// 			-14.740347499999995,
+			// 			-187.5878639
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 49,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 87,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 95,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 124,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-14.740347499999995,
+			// 			-187.5878639
+			// 		],
+			// 		[
+			// 			17.352719800000006,
+			// 			-183.15838
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_02_CarR_through",
+			// 	"vertex": [
+			// 		[
+			// 			17.352719800000006,
+			// 			-186.04275
+			// 		],
+			// 		[
+			// 			14.367328200000006,
+			// 			-183.4870262
+			// 		],
+			// 		[
+			// 			6.091018444000006,
+			// 			-183.15838
+			// 		],
+			// 		[
+			// 			-10.677436299999993,
+			// 			-184.8368759
+			// 		],
+			// 		[
+			// 			-14.740347499999995,
+			// 			-187.5878639
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 49,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 87,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 95,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 124,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-14.740347499999995,
+			// 			-187.5878639
+			// 		],
+			// 		[
+			// 			17.352719800000006,
+			// 			-183.15838
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_03_Platform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			16.519022500000005,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			84.4707625,
+			// 			-203.0182762
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 100,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			16.519022500000005,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			84.4707625,
+			// 			-203.0182762
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_03_Platform02_through",
+			// 	"vertex": [
+			// 		[
+			// 			-59.55743749999999,
+			// 			-188.4690857
+			// 		],
+			// 		[
+			// 			45.851099500000004,
+			// 			-192.8611088
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 87,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-59.55743749999999,
+			// 			-192.8611088
+			// 		],
+			// 		[
+			// 			45.851099500000004,
+			// 			-188.4690857
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_03_Platform03_through",
+			// 	"vertex": [
+			// 		[
+			// 			-33.23899219999999,
+			// 			-167.78529
+			// 		],
+			// 		[
+			// 			74.15012250000001,
+			// 			-162.903965
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 92,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-33.23899219999999,
+			// 			-167.78529
+			// 		],
+			// 		[
+			// 			74.15012250000001,
+			// 			-162.903965
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_03_Platform04_through",
+			// 	"vertex": [
+			// 		[
+			// 			-77.0350375,
+			// 			-132.62805
+			// 		],
+			// 		[
+			// 			47.4950357,
+			// 			-143.45676
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 85,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-77.0350375,
+			// 			-143.45676
+			// 		],
+			// 		[
+			// 			47.4950357,
+			// 			-132.62805
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_005_Plane_through",
+			// 	"vertex": [
+			// 		[
+			// 			-174.9708915,
+			// 			-132.19122
+			// 		],
+			// 		[
+			// 			-129.4451655,
+			// 			-136.73063000000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 84,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-12.843974599999996,
+			// 			-216.37382066
+			// 		],
+			// 		[
+			// 			32.6817525,
+			// 			-211.83440971
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_005_Plane_through",
+			// 	"vertex": [
+			// 		[
+			// 			96.77968840000001,
+			// 			-152.2580566
+			// 		],
+			// 		[
+			// 			134.1765315,
+			// 			-136.8279953
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 112,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-18.211705599999995,
+			// 			-223.646769
+			// 		],
+			// 		[
+			// 			19.185134400000006,
+			// 			-208.21670532
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_005_Plane_through",
+			// 	"vertex": [
+			// 		[
+			// 			-124.3945775,
+			// 			-114.777695
+			// 		],
+			// 		[
+			// 			-83.09874749999999,
+			// 			-131.35940549999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 68,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-7.483938699999994,
+			// 			-224.252724
+			// 		],
+			// 		[
+			// 			33.81190350000001,
+			// 			-207.67101431
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_06_MovingPlatform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.980977499999995,
+			// 			-211.0
+			// 		],
+			// 		[
+			// 			24.019022500000005,
+			// 			-211.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_09_Platform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-15.162953799999993,
+			// 			-215.7793884
+			// 		],
+			// 		[
+			// 			-10.677510699999996,
+			// 			-211.57666016
+			// 		],
+			// 		[
+			// 			-1.579732499999995,
+			// 			-207.218445
+			// 		],
+			// 		[
+			// 			11.415689980000005,
+			// 			-209.25
+			// 		],
+			// 		[
+			// 			23.313913900000006,
+			// 			-212.52481079
+			// 		],
+			// 		[
+			// 			28.740397000000005,
+			// 			-215.5786133
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 133,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 115,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 81,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 74,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 60,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-15.162953799999993,
+			// 			-215.7793884
+			// 		],
+			// 		[
+			// 			28.740397000000005,
+			// 			-207.218445
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_09_Platform02_through",
+			// 	"vertex": [
+			// 		[
+			// 			-12.716885999999995,
+			// 			-215.7021332
+			// 		],
+			// 		[
+			// 			-4.289960299999995,
+			// 			-208.3033905
+			// 		],
+			// 		[
+			// 			1.993761500000005,
+			// 			-206.786087
+			// 		],
+			// 		[
+			// 			19.239016100000008,
+			// 			-208.894394
+			// 		],
+			// 		[
+			// 			25.572405400000005,
+			// 			-214.783493042
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 131,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 103,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 83,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 47,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-12.716885999999995,
+			// 			-215.7021332
+			// 		],
+			// 		[
+			// 			25.572405400000005,
+			// 			-206.786087
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_09_Platform03_through",
+			// 	"vertex": [
+			// 		[
+			// 			-13.128442299999996,
+			// 			-213.26713562
+			// 		],
+			// 		[
+			// 			0.8247745000000055,
+			// 			-206.72697449
+			// 		],
+			// 		[
+			// 			17.861990500000005,
+			// 			-208.08284
+			// 		],
+			// 		[
+			// 			26.518454100000007,
+			// 			-215.6174164
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 115,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 85,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 48,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-13.128442299999996,
+			// 			-215.6174164
+			// 		],
+			// 		[
+			// 			26.518454100000007,
+			// 			-206.72697449
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_010_Seesaw_through",
+			// 	"vertex": [
+			// 		[
+			// 			-53.48094749999999,
+			// 			-212.899999
+			// 		],
+			// 		[
+			// 			66.490458,
+			// 			-212.899999
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-53.48094749999999,
+			// 			-212.899999
+			// 		],
+			// 		[
+			// 			66.490458,
+			// 			-212.899999
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_11_Scaffold01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-77.75504749999999,
+			// 			-183.12865
+			// 		],
+			// 		[
+			// 			17.244951800000006,
+			// 			-183.12865
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-77.75504749999999,
+			// 			-183.12865
+			// 		],
+			// 		[
+			// 			17.244951800000006,
+			// 			-183.12865
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_11_Scaffold02_through",
+			// 	"vertex": [
+			// 		[
+			// 			-7.478913699999994,
+			// 			-154.9972572
+			// 		],
+			// 		[
+			// 			86.5210825,
+			// 			-154.9972572
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-7.478913699999994,
+			// 			-154.9972572
+			// 		],
+			// 		[
+			// 			86.5210825,
+			// 			-154.9972572
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve5",
+			// 	"vertex": [
+			// 		[
+			// 			-122.87003049999998,
+			// 			-224.52651
+			// 		],
+			// 		[
+			// 			-3.177979499999994,
+			// 			-180.29616
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 110,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-122.87003049999998,
+			// 			-224.52651
+			// 		],
+			// 		[
+			// 			-3.177979499999994,
+			// 			-180.29616
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve22",
+			// 	"vertex": [
+			// 		[
+			// 			15.859242500000006,
+			// 			-179.4731674
+			// 		],
+			// 		[
+			// 			135.8715005,
+			// 			-224.83058499999999
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 69,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			15.859242500000006,
+			// 			-224.83058499999999
+			// 		],
+			// 		[
+			// 			135.8715005,
+			// 			-179.4731674
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorR_D",
+			// 	"vertex": [
+			// 		[
+			// 			135.6543225,
+			// 			-142.85197449999998
+			// 		],
+			// 		[
+			// 			152.7868445,
+			// 			-142.64436999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			135.6543225,
+			// 			-142.85197449999998
+			// 		],
+			// 		[
+			// 			152.7868445,
+			// 			-142.64436999999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			40.991262500000005,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			51.5212725,
+			// 			-213.81708372
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 96,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			40.991262500000005,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			51.5212725,
+			// 			-213.81708372
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorR_C",
+			// 	"vertex": [
+			// 		[
+			// 			130.29526750000002,
+			// 			-142.91691
+			// 		],
+			// 		[
+			// 			135.6543225,
+			// 			-142.85197449999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			130.29526750000002,
+			// 			-142.91691
+			// 		],
+			// 		[
+			// 			135.6543225,
+			// 			-142.85197449999998
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorR_B",
+			// 	"vertex": [
+			// 		[
+			// 			64.4875425,
+			// 			-212.10931778
+			// 		],
+			// 		[
+			// 			130.29526750000002,
+			// 			-142.91691
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 136,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			64.4875425,
+			// 			-212.10931778
+			// 		],
+			// 		[
+			// 			130.29526750000002,
+			// 			-142.91691
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorR_A",
+			// 	"vertex": [
+			// 		[
+			// 			51.5212725,
+			// 			-213.81708372
+			// 		],
+			// 		[
+			// 			64.4875425,
+			// 			-212.10931778
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 97,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			51.5212725,
+			// 			-213.81708372
+			// 		],
+			// 		[
+			// 			64.4875425,
+			// 			-212.10931778
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorC_D",
+			// 	"vertex": [
+			// 		[
+			// 			31.449280300000005,
+			// 			-142.54879
+			// 		],
+			// 		[
+			// 			49.601740400000004,
+			// 			-142.278656
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			31.449280300000005,
+			// 			-142.54879
+			// 		],
+			// 		[
+			// 			49.601740400000004,
+			// 			-142.278656
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			-62.0052075,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			-48.50378179999999,
+			// 			-213.60955441
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 95,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-62.0052075,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			-48.50378179999999,
+			// 			-213.60955441
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorC_C",
+			// 	"vertex": [
+			// 		[
+			// 			27.295271400000004,
+			// 			-142.61061
+			// 		],
+			// 		[
+			// 			31.449280300000005,
+			// 			-142.54879
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			27.295271400000004,
+			// 			-142.61061
+			// 		],
+			// 		[
+			// 			31.449280300000005,
+			// 			-142.54879
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorC_B",
+			// 	"vertex": [
+			// 		[
+			// 			-37.499267499999995,
+			// 			-212.294979
+			// 		],
+			// 		[
+			// 			27.295271400000004,
+			// 			-142.61061
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 137,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-37.499267499999995,
+			// 			-212.294979
+			// 		],
+			// 		[
+			// 			27.295271400000004,
+			// 			-142.61061
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorC_A",
+			// 	"vertex": [
+			// 		[
+			// 			-48.50378179999999,
+			// 			-213.60955441
+			// 		],
+			// 		[
+			// 			-37.499267499999995,
+			// 			-212.294979
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 96,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-48.50378179999999,
+			// 			-213.60955441
+			// 		],
+			// 		[
+			// 			-37.499267499999995,
+			// 			-212.294979
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorL_D",
+			// 	"vertex": [
+			// 		[
+			// 			-70.89352749999999,
+			// 			-140.5195541
+			// 		],
+			// 		[
+			// 			-54.2026675,
+			// 			-142.46505000000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 83,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-70.89352749999999,
+			// 			-142.46505000000002
+			// 		],
+			// 		[
+			// 			-54.2026675,
+			// 			-140.5195541
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve2",
+			// 	"vertex": [
+			// 		[
+			// 			-166.0087175,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			-153.4637045,
+			// 			-213.732693
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 95,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-166.0087175,
+			// 			-215.0
+			// 		],
+			// 		[
+			// 			-153.4637045,
+			// 			-213.732693
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorL_C",
+			// 	"vertex": [
+			// 		[
+			// 			-75.1134314,
+			// 			-140.07058
+			// 		],
+			// 		[
+			// 			-70.89352749999999,
+			// 			-140.5195541
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 83,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-75.1134314,
+			// 			-140.5195541
+			// 		],
+			// 		[
+			// 			-70.89352749999999,
+			// 			-140.07058
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorL_B",
+			// 	"vertex": [
+			// 		[
+			// 			-142.9468895,
+			// 			-212.576676
+			// 		],
+			// 		[
+			// 			-75.1134314,
+			// 			-140.07058
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 136,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-142.9468895,
+			// 			-212.576676
+			// 		],
+			// 		[
+			// 			-75.1134314,
+			// 			-140.07058
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_19_EscalatorL_A",
+			// 	"vertex": [
+			// 		[
+			// 			-153.4637045,
+			// 			-213.732693
+			// 		],
+			// 		[
+			// 			-142.9468895,
+			// 			-212.576676
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 96,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-153.4637045,
+			// 			-213.732693
+			// 		],
+			// 		[
+			// 			-142.9468895,
+			// 			-212.576676
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_20_Long_Platform02_through",
+			// 	"vertex": [
+			// 		[
+			// 			22.152461600000006,
+			// 			-219.136428
+			// 		],
+			// 		[
+			// 			-169.9937645,
+			// 			-219.136428
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-169.9937645,
+			// 			-219.136428
+			// 		],
+			// 		[
+			// 			22.152461600000006,
+			// 			-219.136428
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_20_Long_Platform01_through",
+			// 	"vertex": [
+			// 		[
+			// 			-169.9937645,
+			// 			-211.28664
+			// 		],
+			// 		[
+			// 			22.152461600000006,
+			// 			-211.28664
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-169.9937645,
+			// 			-211.28664
+			// 		],
+			// 		[
+			// 			22.152461600000006,
+			// 			-211.28664
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_21_GullL",
+			// 	"vertex": [
+			// 		[
+			// 			-75.36732749999999,
+			// 			-143.78935
+			// 		],
+			// 		[
+			// 			-72.86541749999999,
+			// 			-140.20093
+			// 		],
+			// 		[
+			// 			-69.53177749999999,
+			// 			-139.05896
+			// 		],
+			// 		[
+			// 			-63.21792359999999,
+			// 			-141.22352999999998
+			// 		],
+			// 		[
+			// 			-60.992217499999995,
+			// 			-145.63899
+			// 		],
+			// 		[
+			// 			-56.63560749999999,
+			// 			-140.99599999999998
+			// 		],
+			// 		[
+			// 			-52.6167616,
+			// 			-140.01204
+			// 		],
+			// 		[
+			// 			-46.86747749999999,
+			// 			-143.17293999999998
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 145,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 108,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 71,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 26,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 136,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 103,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 61,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-75.36732749999999,
+			// 			-145.63899
+			// 		],
+			// 		[
+			// 			-46.86747749999999,
+			// 			-139.05896
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_21_GullR",
+			// 	"vertex": [
+			// 		[
+			// 			61.504179500000006,
+			// 			-122.679245
+			// 		],
+			// 		[
+			// 			64.60644250000001,
+			// 			-120.12255
+			// 		],
+			// 		[
+			// 			69.28391250000001,
+			// 			-119.17029
+			// 		],
+			// 		[
+			// 			73.6646625,
+			// 			-120.77446
+			// 		],
+			// 		[
+			// 			77.21982820000001,
+			// 			-124.73678
+			// 		],
+			// 		[
+			// 			82.44964250000001,
+			// 			-118.03222
+			// 		],
+			// 		[
+			// 			86.73706250000001,
+			// 			-117.52984
+			// 		],
+			// 		[
+			// 			89.90469250000001,
+			// 			-118.60781
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 129,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 101,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 69,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 41,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 142,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 96,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 71,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			61.504179500000006,
+			// 			-124.73678
+			// 		],
+			// 		[
+			// 			89.90469250000001,
+			// 			-117.52984
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_22_Platform02",
+			// 	"vertex": [
+			// 		[
+			// 			72.6698125,
+			// 			-154.7660027
+			// 		],
+			// 		[
+			// 			65.8814725,
+			// 			-146.66604610000002
+			// 		],
+			// 		[
+			// 			55.998217100000005,
+			// 			-142.98901
+			// 		],
+			// 		[
+			// 			42.347552500000006,
+			// 			-143.70907590000002
+			// 		],
+			// 		[
+			// 			27.308489400000006,
+			// 			-148.63782
+			// 		],
+			// 		[
+			// 			5.600763833000006,
+			// 			-165.1605034
+			// 		],
+			// 		[
+			// 			-11.841081099999993,
+			// 			-176.8083725
+			// 		],
+			// 		[
+			// 			-24.996397499999993,
+			// 			-180.3973541
+			// 		],
+			// 		[
+			// 			-43.325087499999995,
+			// 			-181.8076553
+			// 		],
+			// 		[
+			// 			-52.667992999999996,
+			// 			-180.54032999999998
+			// 		],
+			// 		[
+			// 			-58.01610319999999,
+			// 			-177.510334
+			// 		],
+			// 		[
+			// 			-61.71419279999999,
+			// 			-171.9223671
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 39,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 69,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 93,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 108,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 127,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 123,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 105,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 94,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 82,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 60,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 33,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-61.71419279999999,
+			// 			-181.8076553
+			// 		],
+			// 		[
+			// 			72.6698125,
+			// 			-142.98901
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_22_Platform01",
+			// 	"vertex": [
+			// 		[
+			// 			-61.71419279999999,
+			// 			-154.7660027
+			// 		],
+			// 		[
+			// 			-54.92585509999999,
+			// 			-146.66604610000002
+			// 		],
+			// 		[
+			// 			-45.042600099999994,
+			// 			-142.98901
+			// 		],
+			// 		[
+			// 			-31.391934799999994,
+			// 			-143.70907590000002
+			// 		],
+			// 		[
+			// 			-16.352872299999994,
+			// 			-148.63782
+			// 		],
+			// 		[
+			// 			5.354853190000005,
+			// 			-165.1605034
+			// 		],
+			// 		[
+			// 			22.796698100000004,
+			// 			-176.8083725
+			// 		],
+			// 		[
+			// 			35.95201540000001,
+			// 			-180.3973541
+			// 		],
+			// 		[
+			// 			54.280702500000004,
+			// 			-181.8076553
+			// 		],
+			// 		[
+			// 			63.62361010000001,
+			// 			-180.54032999999998
+			// 		],
+			// 		[
+			// 			68.97172030000002,
+			// 			-177.510334
+			// 		],
+			// 		[
+			// 			72.6698125,
+			// 			-171.9223671
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 140,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 110,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 86,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 71,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 52,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 56,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 74,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 85,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 97,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 119,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 146,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-61.71419279999999,
+			// 			-181.8076553
+			// 		],
+			// 		[
+			// 			72.6698125,
+			// 			-142.98901
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Word07",
+			// 	"vertex": [
+			// 		[
+			// 			6.323084390000005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			94.7149625,
+			// 			-212.87514949
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			6.323084390000005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			94.7149625,
+			// 			-212.87514949
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Word06",
+			// 	"vertex": [
+			// 		[
+			// 			6.320908100000006,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			61.200632500000005,
+			// 			-212.87514949
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			6.320908100000006,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			61.200632500000005,
+			// 			-212.87514949
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Word05",
+			// 	"vertex": [
+			// 		[
+			// 			6.514330899000005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			63.6718278,
+			// 			-212.87514949
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			6.514330899000005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			63.6718278,
+			// 			-212.87514949
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Word04a",
+			// 	"vertex": [
+			// 		[
+			// 			61.733358900000006,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			97.9861125,
+			// 			-212.87514949
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			61.733358900000006,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			97.9861125,
+			// 			-212.87514949
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Word04b",
+			// 	"vertex": [
+			// 		[
+			// 			6.185722863000006,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			38.210295200000004,
+			// 			-212.87514949
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			6.185722863000006,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			38.210295200000004,
+			// 			-212.87514949
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Word03",
+			// 	"vertex": [
+			// 		[
+			// 			6.593041930000005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			35.551992500000004,
+			// 			-212.87514949
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			6.593041930000005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			35.551992500000004,
+			// 			-212.87514949
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Word02",
+			// 	"vertex": [
+			// 		[
+			// 			6.468851600000005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			38.8166986,
+			// 			-212.87514949
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			6.468851600000005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			38.8166986,
+			// 			-212.87514949
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_23_Word01",
+			// 	"vertex": [
+			// 		[
+			// 			6.540508782300005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			38.5664201,
+			// 			-212.87514949
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			6.540508782300005,
+			// 			-212.87514949
+			// 		],
+			// 		[
+			// 			38.5664201,
+			// 			-212.87514949
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-218.4809775,
@@ -64435,6 +62516,7 @@ var hdrStages = [
 		"items": []
 	},
 	{
+		controversial: 1,
 		"stage": "Pilotwings",
 		"name": "Pilotwings",
 		"lvd": "pilotwings_00",
@@ -64872,6 +62954,7 @@ var hdrStages = [
 		"items": []
 	},
 	{
+		controversial: 1,
 		"stage": "Pilotwings (1)",
 		"name": "Pilotwings",
 		"lvd": "pilotwings_01",
@@ -66558,503 +64641,503 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_Z_curve1",
-				"vertex": [
-					[
-						-314.9716417,
-						-161.3437843
-					],
-					[
-						-314.9716417,
-						-63.229186999999996
-					],
-					[
-						-311.4775927,
-						-51.528037999999995
-					],
-					[
-						-310.0012437,
-						-35.24925706
-					],
-					[
-						-306.6904927,
-						-28.26485345
-					],
-					[
-						-304.6541927,
-						-23.968845299999998
-					],
-					[
-						-302.1686927,
-						-14.5100298
-					],
-					[
-						-300.30312369999996,
-						-7.4105816
-					],
-					[
-						-299.26009270000003,
-						-6.354612299999999
-					],
-					[
-						-292.9835927,
-						0.0
-					],
-					[
-						-288.4282457,
-						0.0
-					],
-					[
-						-261.0147327,
-						0.0
-					],
-					[
-						-254.46619270000002,
-						-3.605068199999998
-					],
-					[
-						-253.3779927,
-						-4.204135900000001
-					],
-					[
-						-253.3779927,
-						-5.5720958
-					],
-					[
-						-253.3779927,
-						-13.804214299999998
-					],
-					[
-						-233.10073070000004,
-						-13.804214299999998
-					],
-					[
-						-229.73116270000003,
-						-13.804214299999998
-					],
-					[
-						-223.09636670000003,
-						-22.4846963
-					],
-					[
-						-221.9938277,
-						-23.92716166
-					],
-					[
-						-182.33873770000002,
-						-29.11478016
-					],
-					[
-						-175.7490927,
-						-29.976824371
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 98.11459,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 163,
-						"length": 12.2116766,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 174,
-						"length": 16.3455925,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 154,
-						"length": 7.729348,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 154,
-						"length": 4.75418425,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 165,
-						"length": 9.779932,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 165,
-						"length": 7.340463,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 135,
-						"length": 1.48424459,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 135,
-						"length": 8.931708,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 4.555359,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 27.4135132,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 61,
-						"length": 7.47529745,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 61,
-						"length": 1.24219656,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 1.36796,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 8.232119,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 20.2772522,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 3.36956787,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 37,
-						"length": 10.9257164,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 37,
-						"length": 1.81557119,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 82,
-						"length": 39.99297,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 82,
-						"length": 6.64577675,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						144.49799729999998,
-						-161.3437843
-					],
-					[
-						283.72052729999996,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_Z_curve9",
-				"vertex": [
-					[
-						-175.7490927,
-						-29.976824371
-					],
-					[
-						-154.6356927,
-						-37.0909143
-					],
-					[
-						-151.1272197,
-						-38.273086039999995
-					],
-					[
-						-144.6461407,
-						-44.8228521
-					],
-					[
-						-142.5003277,
-						-46.2187662
-					],
-					[
-						-139.01161970000004,
-						-48.4882812
-					],
-					[
-						-129.72817170000002,
-						-63.229186999999996
-					],
-					[
-						-129.72817170000002,
-						-161.3437843
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 71,
-						"length": 22.2797241,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 71,
-						"length": 3.702295,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 44,
-						"length": 9.214327,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 56,
-						"length": 2.55990028,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 56,
-						"length": 4.161945,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 32,
-						"length": 17.4205818,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 98.11459,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						283.72052729999996,
-						-161.3437843
-					],
-					[
-						329.74146279999997,
-						-29.976824371
-					]
-				]
-			},
-			{
-				"name": "COL_Z_curve10",
-				"vertex": [
-					[
-						-151.1411357,
-						-27.12961575
-					],
-					[
-						-151.1411357,
-						-35.5113753
-					],
-					[
-						-151.1411357,
-						-38.273086039999995
-					],
-					[
-						-151.1411357,
-						-45.4726753
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 8.38176,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 2.76171064,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 7.19958925,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						308.3285173,
-						-45.4726753
-					],
-					[
-						308.3285173,
-						-27.12961575
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_Z_curve1",
+			// 	"vertex": [
+			// 		[
+			// 			-314.9716417,
+			// 			-161.3437843
+			// 		],
+			// 		[
+			// 			-314.9716417,
+			// 			-63.229186999999996
+			// 		],
+			// 		[
+			// 			-311.4775927,
+			// 			-51.528037999999995
+			// 		],
+			// 		[
+			// 			-310.0012437,
+			// 			-35.24925706
+			// 		],
+			// 		[
+			// 			-306.6904927,
+			// 			-28.26485345
+			// 		],
+			// 		[
+			// 			-304.6541927,
+			// 			-23.968845299999998
+			// 		],
+			// 		[
+			// 			-302.1686927,
+			// 			-14.5100298
+			// 		],
+			// 		[
+			// 			-300.30312369999996,
+			// 			-7.4105816
+			// 		],
+			// 		[
+			// 			-299.26009270000003,
+			// 			-6.354612299999999
+			// 		],
+			// 		[
+			// 			-292.9835927,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-288.4282457,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-261.0147327,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-254.46619270000002,
+			// 			-3.605068199999998
+			// 		],
+			// 		[
+			// 			-253.3779927,
+			// 			-4.204135900000001
+			// 		],
+			// 		[
+			// 			-253.3779927,
+			// 			-5.5720958
+			// 		],
+			// 		[
+			// 			-253.3779927,
+			// 			-13.804214299999998
+			// 		],
+			// 		[
+			// 			-233.10073070000004,
+			// 			-13.804214299999998
+			// 		],
+			// 		[
+			// 			-229.73116270000003,
+			// 			-13.804214299999998
+			// 		],
+			// 		[
+			// 			-223.09636670000003,
+			// 			-22.4846963
+			// 		],
+			// 		[
+			// 			-221.9938277,
+			// 			-23.92716166
+			// 		],
+			// 		[
+			// 			-182.33873770000002,
+			// 			-29.11478016
+			// 		],
+			// 		[
+			// 			-175.7490927,
+			// 			-29.976824371
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 98.11459,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 163,
+			// 			"length": 12.2116766,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 174,
+			// 			"length": 16.3455925,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 154,
+			// 			"length": 7.729348,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 154,
+			// 			"length": 4.75418425,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 165,
+			// 			"length": 9.779932,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 165,
+			// 			"length": 7.340463,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 135,
+			// 			"length": 1.48424459,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 135,
+			// 			"length": 8.931708,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 4.555359,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 27.4135132,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 61,
+			// 			"length": 7.47529745,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 61,
+			// 			"length": 1.24219656,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 1.36796,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 8.232119,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 20.2772522,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 3.36956787,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 37,
+			// 			"length": 10.9257164,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 37,
+			// 			"length": 1.81557119,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 82,
+			// 			"length": 39.99297,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 82,
+			// 			"length": 6.64577675,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			144.49799729999998,
+			// 			-161.3437843
+			// 		],
+			// 		[
+			// 			283.72052729999996,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_Z_curve9",
+			// 	"vertex": [
+			// 		[
+			// 			-175.7490927,
+			// 			-29.976824371
+			// 		],
+			// 		[
+			// 			-154.6356927,
+			// 			-37.0909143
+			// 		],
+			// 		[
+			// 			-151.1272197,
+			// 			-38.273086039999995
+			// 		],
+			// 		[
+			// 			-144.6461407,
+			// 			-44.8228521
+			// 		],
+			// 		[
+			// 			-142.5003277,
+			// 			-46.2187662
+			// 		],
+			// 		[
+			// 			-139.01161970000004,
+			// 			-48.4882812
+			// 		],
+			// 		[
+			// 			-129.72817170000002,
+			// 			-63.229186999999996
+			// 		],
+			// 		[
+			// 			-129.72817170000002,
+			// 			-161.3437843
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 71,
+			// 			"length": 22.2797241,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 71,
+			// 			"length": 3.702295,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 44,
+			// 			"length": 9.214327,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 56,
+			// 			"length": 2.55990028,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 56,
+			// 			"length": 4.161945,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 32,
+			// 			"length": 17.4205818,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 98.11459,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			283.72052729999996,
+			// 			-161.3437843
+			// 		],
+			// 		[
+			// 			329.74146279999997,
+			// 			-29.976824371
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_Z_curve10",
+			// 	"vertex": [
+			// 		[
+			// 			-151.1411357,
+			// 			-27.12961575
+			// 		],
+			// 		[
+			// 			-151.1411357,
+			// 			-35.5113753
+			// 		],
+			// 		[
+			// 			-151.1411357,
+			// 			-38.273086039999995
+			// 		],
+			// 		[
+			// 			-151.1411357,
+			// 			-45.4726753
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 8.38176,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 2.76171064,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 7.19958925,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			308.3285173,
+			// 			-45.4726753
+			// 		],
+			// 		[
+			// 			308.3285173,
+			// 			-27.12961575
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -68208,1012 +66291,6 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
-		"stage": "Princess Peach's Castle",
-		"name": "Princess Peach's Castle",
-		"lvd": "mario_castledx_00",
-		"collisions": [
-			{
-				"name": "COL_Ground",
-				"vertex": [
-					[
-						-99.278501,
-						-204.47262694100002
-					],
-					[
-						-99.280835,
-						-118.37635
-					],
-					[
-						-65.25119600000001,
-						-98.63190900000001
-					],
-					[
-						-4.615788600000002,
-						-98.63190900000001
-					],
-					[
-						-4.615788600000002,
-						-98.63190900000001
-					],
-					[
-						9.698723999999999,
-						-91.7869
-					],
-					[
-						15.778853999999999,
-						-86.7869
-					],
-					[
-						27.178853999999998,
-						-86.7869
-					],
-					[
-						33.258984,
-						-91.7869
-					],
-					[
-						47.5744694,
-						-98.63190900000001
-					],
-					[
-						47.5744694,
-						-98.628354
-					],
-					[
-						47.5744694,
-						-98.628354
-					],
-					[
-						47.574477,
-						-98.628354
-					],
-					[
-						108.21843989999999,
-						-98.628354
-					],
-					[
-						142.86884600000002,
-						-118.60321
-					],
-					[
-						142.847949,
-						-204.579109268
-					],
-					[
-						-99.278501,
-						-204.47262694100002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 86.09628,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 120,
-						"length": 39.3428421,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 60.6354065,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 115,
-						"length": 15.8669281,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 116,
-						"length": 7.871975,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 11.4,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 63,
-						"length": 7.871975,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 66,
-						"length": 15.8678055,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.00355529785,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 7.62939453e-06,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 60.6439629,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 60,
-						"length": 39.9955673,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 85.97591,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 242.12648,
-						"ceiling": true,
-						"wall": false,
-						"material": "HeavyMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						-99.280835,
-						-204.579109268
-					],
-					[
-						142.86884600000002,
-						-86.7869
-					]
-				]
-			},
-			{
-				"name": "COL_BlueBlock",
-				"vertex": [
-					[
-						21.478854,
-						0.0
-					],
-					[
-						21.478854,
-						0.0
-					],
-					[
-						21.478854,
-						0.0
-					],
-					[
-						21.478854,
-						0.0
-					],
-					[
-						21.478854,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_RedBlock1",
-				"vertex": [
-					[
-						-32.066946,
-						-66.20779999999999
-					],
-					[
-						-32.066946,
-						-66.20779999999999
-					],
-					[
-						-32.066946,
-						-66.20779999999999
-					],
-					[
-						-32.066946,
-						-66.20779999999999
-					],
-					[
-						-32.066946,
-						-66.20779999999999
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_RedBlock2",
-				"vertex": [
-					[
-						75.078254,
-						-66.1877
-					],
-					[
-						75.078254,
-						-66.1877
-					],
-					[
-						75.078254,
-						-66.1877
-					],
-					[
-						75.078254,
-						-66.1877
-					],
-					[
-						75.078254,
-						-66.1877
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_GreenBlock1",
-				"vertex": [
-					[
-						-142.86884600000002,
-						-124.1491
-					],
-					[
-						-142.86884600000002,
-						-124.1491
-					],
-					[
-						-142.86884600000002,
-						-124.1491
-					],
-					[
-						-142.86884600000002,
-						-124.1491
-					],
-					[
-						-142.86884600000002,
-						-124.1491
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_GreenBlock2",
-				"vertex": [
-					[
-						-130.09954599999998,
-						-124.1517
-					],
-					[
-						-130.09954599999998,
-						-124.1517
-					],
-					[
-						-130.09954599999998,
-						-124.1517
-					],
-					[
-						-130.09954599999998,
-						-124.1517
-					],
-					[
-						-130.09954599999998,
-						-124.1517
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			}
-		],
-		"platforms": [
-			{
-				"name": "COL_ElevatorL",
-				"vertex": [
-					[
-						10.890289099999999,
-						-204.79474574449
-					],
-					[
-						32.1427963,
-						-204.79474574449
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						10.890289099999999,
-						-204.79474574449
-					],
-					[
-						32.1427963,
-						-204.79474574449
-					]
-				]
-			},
-			{
-				"name": "COL_ElevatorR",
-				"vertex": [
-					[
-						10.814534999999998,
-						-204.7869
-					],
-					[
-						32.1708534,
-						-204.7869
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "HeavyMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						10.814534999999998,
-						-204.7869
-					],
-					[
-						32.1708534,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_BlueFloorL",
-				"vertex": [
-					[
-						-103.664246,
-						-64.4827
-					],
-					[
-						-103.664246,
-						-64.4827
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 59,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_BlueFloorR",
-				"vertex": [
-					[
-						148.36755399999998,
-						-64.6325
-					],
-					[
-						148.36755399999998,
-						-64.6325
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 59,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_GreenFloorL",
-				"vertex": [
-					[
-						-32.063146,
-						-35.946500000000015
-					],
-					[
-						-32.063146,
-						-35.946500000000015
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_GreenFloorR",
-				"vertex": [
-					[
-						74.98325399999999,
-						-36.0095
-					],
-					[
-						74.98325399999999,
-						-36.0095
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_RedFloorL",
-				"vertex": [
-					[
-						-83.107446,
-						-98.6281
-					],
-					[
-						-83.107446,
-						-98.6281
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			},
-			{
-				"name": "COL_RedFloorR",
-				"vertex": [
-					[
-						133.360354,
-						-98.6281
-					],
-					[
-						133.360354,
-						-98.6281
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						21.478854,
-						-204.7869
-					],
-					[
-						21.478854,
-						-204.7869
-					]
-				]
-			}
-		],
-		"blast_zones": [
-			-228.521146,
-			271.478854,
-			25.213099999999997,
-			-204.7869
-		],
-		"camera": [
-			-178.521146,
-			221.478854,
-			-24.786900000000003,
-			-204.7869
-		],
-		"center": [
-			0.0,
-			118.0
-		],
-		"spawns": [
-			[
-				-51.230475999999996,
-				-98.632985
-			],
-			[
-				94.2724484,
-				-99.4965
-			],
-			[
-				-0.9305031000000028,
-				-94.7869
-			],
-			[
-				43.526072299999996,
-				-94.7869
-			],
-			[
-				-88.521146,
-				-107.7869
-			],
-			[
-				131.478854,
-				-107.7869
-			],
-			[
-				-16.257962400000004,
-				-98.632985
-			],
-			[
-				59.299934,
-				-98.632985
-			]
-		],
-		"respawns": [
-			[
-				21.478854,
-				-29.786900000000003
-			],
-			[
-				51.478854,
-				-29.786900000000003
-			],
-			[
-				-8.521146000000002,
-				-29.786900000000003
-			],
-			[
-				81.478854,
-				-29.786900000000003
-			],
-			[
-				6.478853999999998,
-				-19.786900000000003
-			],
-			[
-				36.478854,
-				-19.786900000000003
-			],
-			[
-				-23.521146,
-				-19.786900000000003
-			],
-			[
-				66.478854,
-				-19.786900000000003
-			]
-		],
-		"items": []
-	},
-	{
-		controversial: 1,
 		"stage": "Rainbow Cruise",
 		"name": "Rainbow Cruise",
 		"lvd": "mario_rainbow_00",
@@ -69421,734 +66498,734 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_ship_3",
-				"vertex": [
-					[
-						80.29945000000001,
-						-296.9614
-					],
-					[
-						100.29945000000001,
-						-296.9614
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 20.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						80.29945000000001,
-						-296.9614
-					],
-					[
-						100.29945000000001,
-						-296.9614
-					]
-				]
-			},
-			{
-				"name": "COL_curve45",
-				"vertex": [
-					[
-						-301.23114999999996,
-						-88.84820000000002
-					],
-					[
-						-301.23114999999996,
-						-88.84820000000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve44",
-				"vertex": [
-					[
-						-311.39005,
-						-88.84820000000002
-					],
-					[
-						-311.39005,
-						-88.84820000000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve43",
-				"vertex": [
-					[
-						-321.54285000000004,
-						-88.84820000000002
-					],
-					[
-						-321.54285000000004,
-						-88.84820000000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve47",
-				"vertex": [
-					[
-						-204.12625,
-						0.0
-					],
-					[
-						-204.12625,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve48",
-				"vertex": [
-					[
-						-199.05445,
-						-240.00000720000003
-					],
-					[
-						-188.924793,
-						-240.00000720000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 10.1296692,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						85.24164828,
-						-536.2714000000001
-					],
-					[
-						95.37131900000001,
-						-536.2714000000001
-					]
-				]
-			},
-			{
-				"name": "COL_curve49",
-				"vertex": [
-					[
-						-183.85475,
-						0.0
-					],
-					[
-						-183.85475,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve50",
-				"vertex": [
-					[
-						-173.68825,
-						0.0
-					],
-					[
-						-173.68825,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve51",
-				"vertex": [
-					[
-						-163.54665,
-						0.0
-					],
-					[
-						-163.54665,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve57",
-				"vertex": [
-					[
-						54.855050000000006,
-						-70.85770000000002
-					],
-					[
-						54.855050000000006,
-						-70.85770000000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve58",
-				"vertex": [
-					[
-						64.99675,
-						-70.85770000000002
-					],
-					[
-						64.99675,
-						-70.85770000000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve59",
-				"vertex": [
-					[
-						75.15145000000001,
-						-70.85770000000002
-					],
-					[
-						75.15145000000001,
-						-70.85770000000002
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve62",
-				"vertex": [
-					[
-						270.84905000000003,
-						-90.54530000000003
-					],
-					[
-						270.84905000000003,
-						-90.54530000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve63",
-				"vertex": [
-					[
-						281.00085,
-						-90.54530000000003
-					],
-					[
-						281.00085,
-						-90.54530000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve64",
-				"vertex": [
-					[
-						291.17265,
-						-90.54530000000003
-					],
-					[
-						291.17265,
-						-90.54530000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve65",
-				"vertex": [
-					[
-						301.32925,
-						-90.54530000000003
-					],
-					[
-						301.32925,
-						-90.54530000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve66",
-				"vertex": [
-					[
-						311.47775,
-						-90.54530000000003
-					],
-					[
-						311.47775,
-						-90.54530000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_curve67",
-				"vertex": [
-					[
-						321.54285000000004,
-						-90.54530000000003
-					],
-					[
-						321.54285000000004,
-						-90.54530000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-296.2714
-					],
-					[
-						90.29945000000001,
-						-296.2714
-					]
-				]
-			},
-			{
-				"name": "COL_Carpet_PokeTrainer",
-				"vertex": [
-					[
-						144.29945,
-						-536.2714000000001
-					],
-					[
-						36.29945000000001,
-						-536.2714000000001
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 108.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						36.29945000000001,
-						-536.2714000000001
-					],
-					[
-						144.29945,
-						-536.2714000000001
-					]
-				]
-			},
-			{
-				"name": "COL_SwingN_1",
-				"vertex": [
-					[
-						90.29945000000001,
-						-534.003181
-					],
-					[
-						90.29945000000001,
-						-534.003181
-					],
-					[
-						90.29945000000001,
-						-534.003181
-					],
-					[
-						90.29945000000001,
-						-534.003181
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "LightMetal"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_ship_3",
+			// 	"vertex": [
+			// 		[
+			// 			80.29945000000001,
+			// 			-296.9614
+			// 		],
+			// 		[
+			// 			100.29945000000001,
+			// 			-296.9614
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 20.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			80.29945000000001,
+			// 			-296.9614
+			// 		],
+			// 		[
+			// 			100.29945000000001,
+			// 			-296.9614
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve45",
+			// 	"vertex": [
+			// 		[
+			// 			-301.23114999999996,
+			// 			-88.84820000000002
+			// 		],
+			// 		[
+			// 			-301.23114999999996,
+			// 			-88.84820000000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve44",
+			// 	"vertex": [
+			// 		[
+			// 			-311.39005,
+			// 			-88.84820000000002
+			// 		],
+			// 		[
+			// 			-311.39005,
+			// 			-88.84820000000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve43",
+			// 	"vertex": [
+			// 		[
+			// 			-321.54285000000004,
+			// 			-88.84820000000002
+			// 		],
+			// 		[
+			// 			-321.54285000000004,
+			// 			-88.84820000000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve47",
+			// 	"vertex": [
+			// 		[
+			// 			-204.12625,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-204.12625,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve48",
+			// 	"vertex": [
+			// 		[
+			// 			-199.05445,
+			// 			-240.00000720000003
+			// 		],
+			// 		[
+			// 			-188.924793,
+			// 			-240.00000720000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 10.1296692,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			85.24164828,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			95.37131900000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve49",
+			// 	"vertex": [
+			// 		[
+			// 			-183.85475,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-183.85475,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve50",
+			// 	"vertex": [
+			// 		[
+			// 			-173.68825,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-173.68825,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve51",
+			// 	"vertex": [
+			// 		[
+			// 			-163.54665,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-163.54665,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve57",
+			// 	"vertex": [
+			// 		[
+			// 			54.855050000000006,
+			// 			-70.85770000000002
+			// 		],
+			// 		[
+			// 			54.855050000000006,
+			// 			-70.85770000000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve58",
+			// 	"vertex": [
+			// 		[
+			// 			64.99675,
+			// 			-70.85770000000002
+			// 		],
+			// 		[
+			// 			64.99675,
+			// 			-70.85770000000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve59",
+			// 	"vertex": [
+			// 		[
+			// 			75.15145000000001,
+			// 			-70.85770000000002
+			// 		],
+			// 		[
+			// 			75.15145000000001,
+			// 			-70.85770000000002
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve62",
+			// 	"vertex": [
+			// 		[
+			// 			270.84905000000003,
+			// 			-90.54530000000003
+			// 		],
+			// 		[
+			// 			270.84905000000003,
+			// 			-90.54530000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve63",
+			// 	"vertex": [
+			// 		[
+			// 			281.00085,
+			// 			-90.54530000000003
+			// 		],
+			// 		[
+			// 			281.00085,
+			// 			-90.54530000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve64",
+			// 	"vertex": [
+			// 		[
+			// 			291.17265,
+			// 			-90.54530000000003
+			// 		],
+			// 		[
+			// 			291.17265,
+			// 			-90.54530000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve65",
+			// 	"vertex": [
+			// 		[
+			// 			301.32925,
+			// 			-90.54530000000003
+			// 		],
+			// 		[
+			// 			301.32925,
+			// 			-90.54530000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve66",
+			// 	"vertex": [
+			// 		[
+			// 			311.47775,
+			// 			-90.54530000000003
+			// 		],
+			// 		[
+			// 			311.47775,
+			// 			-90.54530000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve67",
+			// 	"vertex": [
+			// 		[
+			// 			321.54285000000004,
+			// 			-90.54530000000003
+			// 		],
+			// 		[
+			// 			321.54285000000004,
+			// 			-90.54530000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-296.2714
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_Carpet_PokeTrainer",
+			// 	"vertex": [
+			// 		[
+			// 			144.29945,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			36.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 108.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			36.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			144.29945,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_SwingN_1",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-534.003181
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-534.003181
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-534.003181
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-534.003181
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "LightMetal"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -70221,363 +67298,363 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_curve41",
-				"vertex": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				]
-			},
-			{
-				"name": "COL_curve69",
-				"vertex": [
-					[
-						90.29945000000001,
-						-41.27140000000003
-					],
-					[
-						90.29945000000001,
-						-41.27140000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-41.27140000000003
-					],
-					[
-						90.29945000000001,
-						-41.27140000000003
-					]
-				]
-			},
-			{
-				"name": "COL_curve71",
-				"vertex": [
-					[
-						90.29945000000001,
-						-41.27140000000003
-					],
-					[
-						90.29945000000001,
-						-41.27140000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-41.27140000000003
-					],
-					[
-						90.29945000000001,
-						-41.27140000000003
-					]
-				]
-			},
-			{
-				"name": "COL_curve73",
-				"vertex": [
-					[
-						90.29945000000001,
-						-126.15876000000003
-					],
-					[
-						90.29945000000001,
-						-126.15876000000003
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-126.15876000000003
-					],
-					[
-						90.29945000000001,
-						-126.15876000000003
-					]
-				]
-			},
-			{
-				"name": "COL_Seesaw_1",
-				"vertex": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 100,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 78,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				]
-			},
-			{
-				"name": "COL_curve35",
-				"vertex": [
-					[
-						90.29945000000001,
-						-538.6008
-					],
-					[
-						90.29945000000001,
-						-538.6008
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Carpet"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				]
-			},
-			{
-				"name": "COL_curve33",
-				"vertex": [
-					[
-						90.29945000000001,
-						-538.6008
-					],
-					[
-						90.29945000000001,
-						-538.6008
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Carpet"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				]
-			},
-			{
-				"name": "COL_curve34",
-				"vertex": [
-					[
-						90.29945000000001,
-						-538.6008
-					],
-					[
-						90.29945000000001,
-						-538.6008
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Carpet"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				]
-			},
-			{
-				"name": "COL_Slidebase_1",
-				"vertex": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						90.29945000000001,
-						-536.2714000000001
-					],
-					[
-						90.29945000000001,
-						-536.2714000000001
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_curve41",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve69",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-41.27140000000003
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-41.27140000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-41.27140000000003
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-41.27140000000003
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve71",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-41.27140000000003
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-41.27140000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-41.27140000000003
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-41.27140000000003
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve73",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-126.15876000000003
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-126.15876000000003
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-126.15876000000003
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-126.15876000000003
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_Seesaw_1",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 100,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 78,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve35",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-538.6008
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-538.6008
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Carpet"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve33",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-538.6008
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-538.6008
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Carpet"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_curve34",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-538.6008
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-538.6008
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Carpet"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_Slidebase_1",
+			// 	"vertex": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		],
+			// 		[
+			// 			90.29945000000001,
+			// 			-536.2714000000001
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-169.70055,
@@ -71682,7 +68759,6 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		controversial: 1,
 		"stage": "Shadow Moses Island",
 		"name": "Shadow Moses Island",
 		"lvd": "mg_shadowmoses_00",
@@ -72679,1956 +69755,6 @@ var hdrStages = [
 			[
 				57.50067275,
 				97.5
-			]
-		],
-		"items": []
-	},
-	{
-		controversial: 1,
-		"stage": "Skyworld",
-		"name": "Skyworld",
-		"lvd": "xpalutena_00",
-		"collisions": [
-			{
-				"name": "COL_00_DestroyPlatformA01a",
-				"vertex": [
-					[
-						-39.795011599999995,
-						-27.073874
-					],
-					[
-						-63.8183078,
-						-27.0735359
-					],
-					[
-						-63.8183078,
-						-22.166872
-					],
-					[
-						-53.32239779999999,
-						-22.166740400000002
-					],
-					[
-						-39.795011599999995,
-						-22.1666088
-					],
-					[
-						-39.795011599999995,
-						-27.073874
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 24.0232925,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 4.906664,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 10.495903,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 13.52739,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 4.90726471,
-						"ceiling": false,
-						"wall": true,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						5.681389700000004,
-						-57.073885000000004
-					],
-					[
-						29.704683200000005,
-						-52.1666201847
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformA01b",
-				"vertex": [
-					[
-						-39.795011599999995,
-						-22.1666088
-					],
-					[
-						-36.2516478,
-						-26.182724
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 41,
-						"length": 5.35580254,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						29.704683200000005,
-						-56.18273544
-					],
-					[
-						33.248048700000005,
-						-52.1666201847
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformA02a",
-				"vertex": [
-					[
-						-39.795367799999994,
-						-27.0738716
-					],
-					[
-						-15.771261299999995,
-						-27.0735359
-					],
-					[
-						-15.771261299999995,
-						-22.166534
-					],
-					[
-						-27.0627003,
-						-22.1666088
-					],
-					[
-						-39.795367799999994,
-						-22.1666088
-					],
-					[
-						-39.795367799999994,
-						-27.0738716
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 24.0241051,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 4.9070015,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 11.2914391,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 12.732666,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 4.907263,
-						"ceiling": false,
-						"wall": true,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						6.704687100000005,
-						-57.07389355
-					],
-					[
-						30.728793100000004,
-						-52.1665556552
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformA02b",
-				"vertex": [
-					[
-						-39.795367799999994,
-						-22.1666088
-					],
-					[
-						-43.544233399999996,
-						-26.182724
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 136,
-						"length": 5.49392271,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						2.9558200000000046,
-						-56.182744
-					],
-					[
-						6.704687100000005,
-						-52.166628931700004
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformB01a",
-				"vertex": [
-					[
-						30.198682200000004,
-						-4.8881187
-					],
-					[
-						-3.4290828999999974,
-						-4.8881187
-					],
-					[
-						-3.4287243999999966,
-						-0.00011829999999690699
-					],
-					[
-						8.192682200000004,
-						-0.00011829999999690699
-					],
-					[
-						30.198445300000003,
-						-0.00011829999999690699
-					],
-					[
-						30.198682200000004,
-						-4.8881187
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 33.6277657,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 4.88800049,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 11.6214066,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 22.005764,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 4.88800049,
-						"ceiling": false,
-						"wall": true,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						0.7055644000000036,
-						-56.901042000000004
-					],
-					[
-						34.333330100000005,
-						-52.013041423
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformB02a",
-				"vertex": [
-					[
-						30.198680800000005,
-						-4.8881187
-					],
-					[
-						63.81822220000001,
-						-4.888004000000002
-					],
-					[
-						63.8183078,
-						0.0
-					],
-					[
-						53.19268220000001,
-						-9.159999999752699e-05
-					],
-					[
-						30.198444300000006,
-						-0.00011829999999690699
-					],
-					[
-						30.198680800000005,
-						-4.8881187
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 33.619545,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 4.8880043,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 10.6256256,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 22.9942379,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 4.88800049,
-						"ceiling": false,
-						"wall": true,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						2.0897960000000033,
-						-56.9010787
-					],
-					[
-						35.7096595,
-						-52.012959764
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC01a",
-				"vertex": [
-					[
-						-30.790127799999997,
-						-58.054516
-					],
-					[
-						-56.98262779999999,
-						-65.6215096
-					],
-					[
-						-56.98262779999999,
-						-60.219637
-					],
-					[
-						-44.9169878,
-						-56.489057
-					],
-					[
-						-30.7899419,
-						-51.912590982
-					],
-					[
-						-30.790127799999997,
-						-58.054516
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 287,
-						"length": 27.2636452,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 5.40187263,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 107,
-						"length": 12.6292076,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 107,
-						"length": 14.84983,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 6.141925,
-						"ceiling": false,
-						"wall": true,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						4.1980151000000046,
-						-61.870509999999996
-					],
-					[
-						30.3906993,
-						-48.161591
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC01b",
-				"vertex": [
-					[
-						-30.7899419,
-						-51.912590982
-					],
-					[
-						-26.807317799999996,
-						-54.46460438
-					],
-					[
-						-24.807317799999996,
-						-54.46460438
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 57,
-						"length": 4.73012352,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 2.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						30.3906993,
-						-50.71360457
-					],
-					[
-						36.373323400000004,
-						-48.161591
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC02a",
-				"vertex": [
-					[
-						-30.790127799999997,
-						-58.054516
-					],
-					[
-						-30.7899419,
-						-51.912590982
-					],
-					[
-						-0.6703177999999959,
-						-51.9123449
-					],
-					[
-						-0.6703167999999948,
-						-58.054591
-					],
-					[
-						-30.790127799999997,
-						-58.054516
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 6.141925,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 30.1196232,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 6.14224625,
-						"ceiling": false,
-						"wall": true,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 30.119812,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						2.8908691000000033,
-						-58.05410242
-					],
-					[
-						33.010683,
-						-51.911856
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC02b",
-				"vertex": [
-					[
-						-38.80731779999999,
-						-58.182724
-					],
-					[
-						-30.7899419,
-						-51.912590982
-					],
-					[
-						-28.807317799999996,
-						-51.912590982
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 128,
-						"length": 10.1780586,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 1.982624,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-5.126317799999995,
-						-58.18223524
-					],
-					[
-						4.873682200000003,
-						-51.912102074
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC02c",
-				"vertex": [
-					[
-						-1.8073177999999963,
-						-51.9123449
-					],
-					[
-						-0.6703177999999959,
-						-51.9123449
-					],
-					[
-						3.1926822000000037,
-						-54.464575
-					],
-					[
-						5.192682200000004,
-						-54.464575
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 1.13699913,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 56,
-						"length": 4.62997341,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 2.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						31.873682200000005,
-						-54.464086
-					],
-					[
-						38.873682200000005,
-						-51.911856
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC03a",
-				"vertex": [
-					[
-						-0.6703167999999948,
-						-58.054591
-					],
-					[
-						-0.6703177999999959,
-						-51.9123449
-					],
-					[
-						29.642128900000003,
-						-51.912344844
-					],
-					[
-						29.641682200000005,
-						-58.05460262
-					],
-					[
-						-0.6703167999999948,
-						-58.054591
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 6.14224625,
-						"ceiling": false,
-						"wall": true,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 30.3124466,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 6.14225769,
-						"ceiling": false,
-						"wall": true,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 30.312,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						3.010681100000003,
-						-58.05460262
-					],
-					[
-						33.323128600000004,
-						-51.912344844
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC03b",
-				"vertex": [
-					[
-						-6.807317799999996,
-						-54.464575
-					],
-					[
-						-4.807317799999996,
-						-54.464575
-					],
-					[
-						-0.6703177999999959,
-						-51.9123449
-					],
-					[
-						0.1926822000000037,
-						-51.9123449
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 2.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 121,
-						"length": 4.86093,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.86300087,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-3.1263177999999954,
-						-54.464575
-					],
-					[
-						3.873682200000003,
-						-51.9123449
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC03c",
-				"vertex": [
-					[
-						28.192682200000004,
-						-51.912344844
-					],
-					[
-						29.642128900000003,
-						-51.912344844
-					],
-					[
-						34.19268220000001,
-						-54.46462727
-					],
-					[
-						36.19268220000001,
-						-54.46462727
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 1.44944668,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 60,
-						"length": 5.21744,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 2.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						31.873682200000005,
-						-54.46462727
-					],
-					[
-						39.873682200000005,
-						-51.912344844
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC04a",
-				"vertex": [
-					[
-						29.641682200000005,
-						-58.05460262
-					],
-					[
-						60.6861057,
-						-58.054591
-					],
-					[
-						60.6861057,
-						-51.9123449
-					],
-					[
-						49.137418700000005,
-						-51.9123449
-					],
-					[
-						29.642128900000003,
-						-51.912344844
-					],
-					[
-						29.641682200000005,
-						-58.05460262
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 31.0444241,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 6.14224625,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 11.548687,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 19.4952888,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 6.14225769,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						3.3226822000000045,
-						-58.05411339
-					],
-					[
-						34.3671054,
-						-51.911855728
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformC04b",
-				"vertex": [
-					[
-						31.192682200000004,
-						-51.912344844
-					],
-					[
-						29.634062200000002,
-						-51.912344844
-					],
-					[
-						25.192682200000004,
-						-54.46462727
-					],
-					[
-						23.192682200000004,
-						-54.46462727
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 1.55862045,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 119,
-						"length": 5.122499,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 2.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-3.1263177999999954,
-						-54.464138
-					],
-					[
-						4.873682200000003,
-						-51.911855728
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformD01",
-				"vertex": [
-					[
-						35.0277347,
-						-52.082700656
-					],
-					[
-						33.4041099,
-						-52.0828331
-					],
-					[
-						3.078328100000004,
-						-52.08292979
-					],
-					[
-						1.3694438000000027,
-						-52.08296578
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 1.6236248,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 30.3257828,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 1.70888424,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						1.3694438000000027,
-						-52.08296578
-					],
-					[
-						35.0277347,
-						-52.082700656
-					]
-				]
-			},
-			{
-				"name": "COL_00_MovingPlatform01",
-				"vertex": [
-					[
-						12.954488200000004,
-						-62.971571
-					],
-					[
-						1.3870696000000038,
-						-53.520164
-					],
-					[
-						1.3920097000000027,
-						-52.0139777
-					],
-					[
-						5.308870200000003,
-						-52.01416725
-					],
-					[
-						31.520208300000004,
-						-52.0143568
-					],
-					[
-						35.31600950000001,
-						-52.0143568
-					],
-					[
-						35.31600950000001,
-						-53.67866278
-					],
-					[
-						24.362432890000004,
-						-62.9712963
-					],
-					[
-						12.954488200000004,
-						-62.971571
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 231,
-						"length": 14.9376793,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 1.50619435,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 3.91686058,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 26.211338,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 3.79580116,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 1.66430593,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 311,
-						"length": 14.3643265,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 11.4079447,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						1.3870696000000038,
-						-62.971571
-					],
-					[
-						35.31600950000001,
-						-52.0139777
-					]
-				]
-			}
-		],
-		"platforms": [
-			{
-				"name": "COL_00_DestroyPlatformB01b",
-				"vertex": [
-					[
-						30.198445300000003,
-						-0.00011829999999690699
-					],
-					[
-						34.5400562,
-						-3.182713999999997
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 53,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						34.333093600000005,
-						-55.19563842
-					],
-					[
-						38.67470540000001,
-						-52.013041423
-					]
-				]
-			},
-			{
-				"name": "COL_00_DestroyPlatformB02b",
-				"vertex": [
-					[
-						30.198444300000006,
-						-0.00011829999999690699
-					],
-					[
-						25.806558540000005,
-						-3.182716399999997
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 125,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-2.3020897999999974,
-						-55.19567585
-					],
-					[
-						2.0897960000000033,
-						-52.01307802
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformA01_through",
-				"vertex": [
-					[
-						-56.808037799999994,
-						-25.207439400000002
-					],
-					[
-						-51.80659779999999,
-						-25.2074375
-					],
-					[
-						-43.544233399999996,
-						-25.2074356
-					],
-					[
-						-39.80731779999999,
-						-25.207434
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						-56.808037799999994,
-						-25.207439400000002
-					],
-					[
-						-39.80731779999999,
-						-25.207434
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformA02_through",
-				"vertex": [
-					[
-						-39.80731779999999,
-						-25.207434
-					],
-					[
-						-36.2516478,
-						-25.2074375
-					],
-					[
-						-26.8215178,
-						-25.207444
-					],
-					[
-						-21.793117799999994,
-						-25.207444
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						-39.80731779999999,
-						-25.207444
-					],
-					[
-						-21.793117799999994,
-						-25.207434
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformB01_through",
-				"vertex": [
-					[
-						5.6428642000000035,
-						-2.511643999999997
-					],
-					[
-						10.742500200000004,
-						-2.5116577000000007
-					],
-					[
-						25.806559500000006,
-						-2.5116463000000024
-					],
-					[
-						30.192686000000002,
-						-2.511643999999997
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						5.6428642000000035,
-						-2.5116577000000007
-					],
-					[
-						30.192686000000002,
-						-2.511643999999997
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformB02_through",
-				"vertex": [
-					[
-						30.192686000000002,
-						-2.511643999999997
-					],
-					[
-						34.5400581,
-						-2.5116463000000024
-					],
-					[
-						48.142669600000005,
-						-2.511654
-					],
-					[
-						53.24269220000001,
-						-2.511650099999997
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						30.192686000000002,
-						-2.511654
-					],
-					[
-						53.24269220000001,
-						-2.511643999999997
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformC01_through",
-				"vertex": [
-					[
-						-37.9729253,
-						-57.26476336
-					],
-					[
-						-30.510965399999993,
-						-54.46460462
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 110,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						-37.9729253,
-						-57.26476336
-					],
-					[
-						-30.510965399999993,
-						-54.46460462
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformC02_through",
-				"vertex": [
-					[
-						-30.510965399999993,
-						-54.46460462
-					],
-					[
-						-0.48836909999999634,
-						-54.464575
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						-30.510965399999993,
-						-54.46460462
-					],
-					[
-						-0.48836909999999634,
-						-54.464575
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformC03_through",
-				"vertex": [
-					[
-						-0.48836909999999634,
-						-54.464575
-					],
-					[
-						29.511682200000003,
-						-54.46462727
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.48836909999999634,
-						-54.46462727
-					],
-					[
-						29.511682200000003,
-						-54.464575
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformC04_through",
-				"vertex": [
-					[
-						29.511682200000003,
-						-54.46462727
-					],
-					[
-						52.99688520000001,
-						-54.46457672
-					],
-					[
-						55.6969165,
-						-54.464571
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						29.511682200000003,
-						-54.46462727
-					],
-					[
-						55.6969165,
-						-54.464571
-					]
-				]
-			},
-			{
-				"name": "COL_00_PlatformD01_through",
-				"vertex": [
-					[
-						3.296926400000004,
-						-55.18271756
-					],
-					[
-						8.088430300000004,
-						-55.18271947
-					],
-					[
-						25.763570720000004,
-						-55.18271947
-					],
-					[
-						30.6217861,
-						-55.18271947
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						3.296926400000004,
-						-55.18271947
-					],
-					[
-						30.6217861,
-						-55.18271756
-					]
-				]
-			}
-		],
-		"blast_zones": [
-			-217.8073178,
-			254.1926822,
-			137.817276,
-			-187.182724
-		],
-		"camera": [
-			-146.8073178,
-			183.1926822,
-			87.81727599999999,
-			-122.18272400000001
-		],
-		"center": [
-			0.0,
-			4.021133
-		],
-		"spawns": [
-			[
-				-49.80731779999999,
-				-22.1666088
-			],
-			[
-				43.19268220000001,
-				-51.912724
-			],
-			[
-				23.192682200000004,
-				0.00027599999999949887
-			],
-			[
-				-6.807317799999996,
-				-51.912724
-			],
-			[
-				53.19268220000001,
-				0.0
-			],
-			[
-				-33.792265,
-				-52.615157933
-			],
-			[
-				19.192682200000004,
-				-52.182724
-			],
-			[
-				-24.807317799999996,
-				-22.182724
-			]
-		],
-		"respawns": [
-			[
-				18.192682200000004,
-				27.817276
-			],
-			[
-				48.19268220000001,
-				27.817276
-			],
-			[
-				-11.807317799999996,
-				27.817276
-			],
-			[
-				78.19268220000001,
-				27.817276
-			],
-			[
-				3.1926822000000037,
-				55.817276
-			],
-			[
-				33.19268220000001,
-				55.817276
-			],
-			[
-				-26.807317799999996,
-				55.817276
-			],
-			[
-				63.19268220000001,
-				55.817276
 			]
 		],
 		"items": []
@@ -76783,1009 +71909,1009 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_stop90_bridge_L",
-				"vertex": [
-					[
-						128.64520199999998,
-						-225.0
-					],
-					[
-						76.51941699999999,
-						-232.6007
-					],
-					[
-						27.94532799999999,
-						-238.7686
-					],
-					[
-						-19.71641600000001,
-						-243.2262
-					],
-					[
-						-68.25515800000002,
-						-246.714539
-					],
-					[
-						-117.23971599999999,
-						-249.325027
-					],
-					[
-						-165.07919300000003,
-						-250.4374
-					],
-					[
-						-214.32540900000004,
-						-250.236847
-					],
-					[
-						-263.992462,
-						-248.778641
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 98,
-						"length": 52.6770172,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 97,
-						"length": 48.9641228,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 95,
-						"length": 47.86974,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 94,
-						"length": 48.66393,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 93,
-						"length": 49.05407,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 91,
-						"length": 47.85241,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 49.246624,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 88,
-						"length": 49.6884537,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-263.992462,
-						-250.4374
-					],
-					[
-						128.64520199999998,
-						-225.0
-					]
-				]
-			},
-			{
-				"name": "COL_stop190_Block_R",
-				"vertex": [
-					[
-						249.992462,
-						0.0
-					],
-					[
-						257.992462,
-						0.0
-					],
-					[
-						261.992462,
-						0.0
-					],
-					[
-						261.992462,
-						-8.9642963
-					],
-					[
-						247.992462,
-						-27.5
-					],
-					[
-						244.992462,
-						-27.5
-					],
-					[
-						244.992462,
-						0.0
-					],
-					[
-						249.992462,
-						0.0
-					],
-					[
-						249.992462,
-						0.0
-					],
-					[
-						249.992462,
-						0.0
-					],
-					[
-						249.992462,
-						0.0
-					],
-					[
-						249.992462,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 8.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 4.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 8.964296,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 325,
-						"length": 23.2286949,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 3.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 27.5,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 5.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						179.992462,
-						-52.5
-					],
-					[
-						196.992462,
-						-25.000000000000007
-					]
-				]
-			},
-			{
-				"name": "COL_stop190_Floor_L",
-				"vertex": [
-					[
-						104.99246199999999,
-						-25.000000000000007
-					],
-					[
-						96.99246199999999,
-						-25.000000000000007
-					],
-					[
-						92.99246199999999,
-						-25.000000000000007
-					],
-					[
-						92.99246199999999,
-						-33.964296
-					],
-					[
-						106.99246199999999,
-						-52.56
-					],
-					[
-						109.99246199999999,
-						-52.5
-					],
-					[
-						109.99246199999999,
-						-25.000000000000007
-					],
-					[
-						104.99246199999999,
-						-25.000000000000007
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 8.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 4.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 180,
-						"length": 8.964296,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 216,
-						"length": 23.2766018,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 3.00059986,
-						"ceiling": true,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 27.5,
-						"ceiling": false,
-						"wall": true,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 5.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						172.992462,
-						-52.56
-					],
-					[
-						189.992462,
-						-25.000000000000007
-					]
-				]
-			},
-			{
-				"name": "COL_stop270_bridge_R",
-				"vertex": [
-					[
-						241.4227293,
-						-225.0
-					],
-					[
-						293.625427,
-						-232.5974
-					],
-					[
-						341.882278,
-						-238.792252
-					],
-					[
-						389.477493,
-						-243.1088
-					],
-					[
-						438.32988,
-						-246.913971
-					],
-					[
-						487.06048599999997,
-						-249.262634
-					],
-					[
-						534.9293210000001,
-						-250.020844
-					],
-					[
-						583.8289179999999,
-						-249.787277
-					],
-					[
-						631.9754029999999,
-						-247.988831
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 81,
-						"length": 52.75265,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 82,
-						"length": 48.65285,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 84,
-						"length": 47.790554,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 85,
-						"length": 49.00036,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 87,
-						"length": 48.7871742,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 47.87484,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 48.9001541,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 92,
-						"length": 48.18006,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						241.4227293,
-						-250.020844
-					],
-					[
-						631.9754029999999,
-						-225.0
-					]
-				]
-			},
-			{
-				"name": "COL_cliff_R01",
-				"vertex": [
-					[
-						174.992462,
-						-25.0
-					],
-					[
-						194.992462,
-						-25.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 20.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						174.992462,
-						-25.0
-					],
-					[
-						194.992462,
-						-25.0
-					]
-				]
-			},
-			{
-				"name": "COL_cliff_R02",
-				"vertex": [
-					[
-						174.992462,
-						-25.0
-					],
-					[
-						194.992462,
-						-25.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 20.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						174.992462,
-						-25.0
-					],
-					[
-						194.992462,
-						-25.0
-					]
-				]
-			},
-			{
-				"name": "COL_cliff_L01",
-				"vertex": [
-					[
-						174.992462,
-						-25.0
-					],
-					[
-						194.992462,
-						-25.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 20.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						174.992462,
-						-25.0
-					],
-					[
-						194.992462,
-						-25.0
-					]
-				]
-			},
-			{
-				"name": "COL_cliff_L02",
-				"vertex": [
-					[
-						174.992462,
-						-25.0
-					],
-					[
-						194.992462,
-						-25.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 20.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						174.992462,
-						-25.0
-					],
-					[
-						194.992462,
-						-25.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_stop90_bridge_L",
+			// 	"vertex": [
+			// 		[
+			// 			128.64520199999998,
+			// 			-225.0
+			// 		],
+			// 		[
+			// 			76.51941699999999,
+			// 			-232.6007
+			// 		],
+			// 		[
+			// 			27.94532799999999,
+			// 			-238.7686
+			// 		],
+			// 		[
+			// 			-19.71641600000001,
+			// 			-243.2262
+			// 		],
+			// 		[
+			// 			-68.25515800000002,
+			// 			-246.714539
+			// 		],
+			// 		[
+			// 			-117.23971599999999,
+			// 			-249.325027
+			// 		],
+			// 		[
+			// 			-165.07919300000003,
+			// 			-250.4374
+			// 		],
+			// 		[
+			// 			-214.32540900000004,
+			// 			-250.236847
+			// 		],
+			// 		[
+			// 			-263.992462,
+			// 			-248.778641
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 98,
+			// 			"length": 52.6770172,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 97,
+			// 			"length": 48.9641228,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 95,
+			// 			"length": 47.86974,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 94,
+			// 			"length": 48.66393,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 93,
+			// 			"length": 49.05407,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 91,
+			// 			"length": 47.85241,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 49.246624,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 88,
+			// 			"length": 49.6884537,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-263.992462,
+			// 			-250.4374
+			// 		],
+			// 		[
+			// 			128.64520199999998,
+			// 			-225.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop190_Block_R",
+			// 	"vertex": [
+			// 		[
+			// 			249.992462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			257.992462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			261.992462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			261.992462,
+			// 			-8.9642963
+			// 		],
+			// 		[
+			// 			247.992462,
+			// 			-27.5
+			// 		],
+			// 		[
+			// 			244.992462,
+			// 			-27.5
+			// 		],
+			// 		[
+			// 			244.992462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			249.992462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			249.992462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			249.992462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			249.992462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			249.992462,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 8.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 4.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 8.964296,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 325,
+			// 			"length": 23.2286949,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 3.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 27.5,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": true,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 5.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			179.992462,
+			// 			-52.5
+			// 		],
+			// 		[
+			// 			196.992462,
+			// 			-25.000000000000007
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop190_Floor_L",
+			// 	"vertex": [
+			// 		[
+			// 			104.99246199999999,
+			// 			-25.000000000000007
+			// 		],
+			// 		[
+			// 			96.99246199999999,
+			// 			-25.000000000000007
+			// 		],
+			// 		[
+			// 			92.99246199999999,
+			// 			-25.000000000000007
+			// 		],
+			// 		[
+			// 			92.99246199999999,
+			// 			-33.964296
+			// 		],
+			// 		[
+			// 			106.99246199999999,
+			// 			-52.56
+			// 		],
+			// 		[
+			// 			109.99246199999999,
+			// 			-52.5
+			// 		],
+			// 		[
+			// 			109.99246199999999,
+			// 			-25.000000000000007
+			// 		],
+			// 		[
+			// 			104.99246199999999,
+			// 			-25.000000000000007
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 8.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": true,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 4.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 180,
+			// 			"length": 8.964296,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 216,
+			// 			"length": 23.2766018,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 3.00059986,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 27.5,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 5.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			172.992462,
+			// 			-52.56
+			// 		],
+			// 		[
+			// 			189.992462,
+			// 			-25.000000000000007
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop270_bridge_R",
+			// 	"vertex": [
+			// 		[
+			// 			241.4227293,
+			// 			-225.0
+			// 		],
+			// 		[
+			// 			293.625427,
+			// 			-232.5974
+			// 		],
+			// 		[
+			// 			341.882278,
+			// 			-238.792252
+			// 		],
+			// 		[
+			// 			389.477493,
+			// 			-243.1088
+			// 		],
+			// 		[
+			// 			438.32988,
+			// 			-246.913971
+			// 		],
+			// 		[
+			// 			487.06048599999997,
+			// 			-249.262634
+			// 		],
+			// 		[
+			// 			534.9293210000001,
+			// 			-250.020844
+			// 		],
+			// 		[
+			// 			583.8289179999999,
+			// 			-249.787277
+			// 		],
+			// 		[
+			// 			631.9754029999999,
+			// 			-247.988831
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 81,
+			// 			"length": 52.75265,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 82,
+			// 			"length": 48.65285,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 84,
+			// 			"length": 47.790554,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 85,
+			// 			"length": 49.00036,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 87,
+			// 			"length": 48.7871742,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 47.87484,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 48.9001541,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 92,
+			// 			"length": 48.18006,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			241.4227293,
+			// 			-250.020844
+			// 		],
+			// 		[
+			// 			631.9754029999999,
+			// 			-225.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_cliff_R01",
+			// 	"vertex": [
+			// 		[
+			// 			174.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			194.992462,
+			// 			-25.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 20.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			174.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			194.992462,
+			// 			-25.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_cliff_R02",
+			// 	"vertex": [
+			// 		[
+			// 			174.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			194.992462,
+			// 			-25.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 20.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			174.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			194.992462,
+			// 			-25.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_cliff_L01",
+			// 	"vertex": [
+			// 		[
+			// 			174.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			194.992462,
+			// 			-25.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": true,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 20.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			174.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			194.992462,
+			// 			-25.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_cliff_L02",
+			// 	"vertex": [
+			// 		[
+			// 			174.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			194.992462,
+			// 			-25.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": true,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 20.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			174.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			194.992462,
+			// 			-25.0
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
-			{
-				"name": "COL_stop0_Floor_L",
-				"vertex": [
-					[
-						67.49246199999999,
-						-1385.0
-					],
-					[
-						132.492462,
-						-1385.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						152.492462,
-						-25.000000000000007
-					],
-					[
-						217.492462,
-						-24.999999999999993
-					]
-				]
-			},
-			{
-				"name": "COL_stop0_Floor_R",
-				"vertex": [
-					[
-						72.49246199999999,
-						0.0
-					],
-					[
-						137.492462,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						152.492462,
-						-25.000000000000007
-					],
-					[
-						217.492462,
-						-24.999999999999993
-					]
-				]
-			},
-			{
-				"name": "COL_stop50_Floor_R",
-				"vertex": [
-					[
-						277.492462,
-						0.0
-					],
-					[
-						310.400345,
-						0.0
-					],
-					[
-						312.492462,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						167.492462,
-						-25.00000000000003
-					],
-					[
-						202.492462,
-						-25.0
-					]
-				]
-			},
-			{
-				"name": "COL_stop50_Floor_L",
-				"vertex": [
-					[
-						277.492462,
-						0.0
-					],
-					[
-						280.948942,
-						0.0
-					],
-					[
-						312.492462,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						167.492462,
-						-25.00000000000003
-					],
-					[
-						202.492462,
-						-25.00000000000003
-					]
-				]
-			},
-			{
-				"name": "COL_stop160_Floor_L",
-				"vertex": [
-					[
-						44.99246199999999,
-						-24.9999999993597
-					],
-					[
-						55.556625,
-						-24.9999999993597
-					],
-					[
-						94.99246199999999,
-						-24.999999999359716
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						159.992462,
-						-25.0
-					],
-					[
-						209.992462,
-						-24.999999999999986
-					]
-				]
-			},
-			{
-				"name": "COL_stop160_Floor_R",
-				"vertex": [
-					[
-						104.99246199999999,
-						0.0
-					],
-					[
-						154.992462,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						159.992462,
-						-24.999999999999996
-					],
-					[
-						209.992462,
-						-24.99999999999999
-					]
-				]
-			},
-			{
-				"name": "COL_stop320_Floor_L",
-				"vertex": [
-					[
-						-310.007538,
-						-35.0
-					],
-					[
-						-310.007538,
-						-35.0
-					],
-					[
-						-252.507538,
-						-35.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						159.992462,
-						-25.000000000000043
-					],
-					[
-						217.492462,
-						-25.000000000000036
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_stop0_Floor_L",
+			// 	"vertex": [
+			// 		[
+			// 			67.49246199999999,
+			// 			-1385.0
+			// 		],
+			// 		[
+			// 			132.492462,
+			// 			-1385.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			152.492462,
+			// 			-25.000000000000007
+			// 		],
+			// 		[
+			// 			217.492462,
+			// 			-24.999999999999993
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop0_Floor_R",
+			// 	"vertex": [
+			// 		[
+			// 			72.49246199999999,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			137.492462,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			152.492462,
+			// 			-25.000000000000007
+			// 		],
+			// 		[
+			// 			217.492462,
+			// 			-24.999999999999993
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop50_Floor_R",
+			// 	"vertex": [
+			// 		[
+			// 			277.492462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			310.400345,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			312.492462,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			167.492462,
+			// 			-25.00000000000003
+			// 		],
+			// 		[
+			// 			202.492462,
+			// 			-25.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop50_Floor_L",
+			// 	"vertex": [
+			// 		[
+			// 			277.492462,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			280.948942,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			312.492462,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			167.492462,
+			// 			-25.00000000000003
+			// 		],
+			// 		[
+			// 			202.492462,
+			// 			-25.00000000000003
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop160_Floor_L",
+			// 	"vertex": [
+			// 		[
+			// 			44.99246199999999,
+			// 			-24.9999999993597
+			// 		],
+			// 		[
+			// 			55.556625,
+			// 			-24.9999999993597
+			// 		],
+			// 		[
+			// 			94.99246199999999,
+			// 			-24.999999999359716
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			159.992462,
+			// 			-25.0
+			// 		],
+			// 		[
+			// 			209.992462,
+			// 			-24.999999999999986
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop160_Floor_R",
+			// 	"vertex": [
+			// 		[
+			// 			104.99246199999999,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			154.992462,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			159.992462,
+			// 			-24.999999999999996
+			// 		],
+			// 		[
+			// 			209.992462,
+			// 			-24.99999999999999
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_stop320_Floor_L",
+			// 	"vertex": [
+			// 		[
+			// 			-310.007538,
+			// 			-35.0
+			// 		],
+			// 		[
+			// 			-310.007538,
+			// 			-35.0
+			// 		],
+			// 		[
+			// 			-252.507538,
+			// 			-35.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			159.992462,
+			// 			-25.000000000000043
+			// 		],
+			// 		[
+			// 			217.492462,
+			// 			-25.000000000000036
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_stop320_Floor_R",
 				"vertex": [
@@ -78467,76 +73593,76 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_JumpBoard_03",
-				"vertex": [
-					[
-						-160.0,
-						-57.096879
-					],
-					[
-						-140.0,
-						-57.096879
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 20.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.0,
-						-4.296879
-					],
-					[
-						10.0,
-						-4.296879
-					]
-				]
-			},
-			{
-				"name": "COL_JumpBoard_04",
-				"vertex": [
-					[
-						140.0,
-						-57.096879
-					],
-					[
-						160.0,
-						-57.096879
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 20.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.0,
-						-4.296879
-					],
-					[
-						10.0,
-						-4.296879
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_JumpBoard_03",
+			// 	"vertex": [
+			// 		[
+			// 			-160.0,
+			// 			-57.096879
+			// 		],
+			// 		[
+			// 			-140.0,
+			// 			-57.096879
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 20.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.0,
+			// 			-4.296879
+			// 		],
+			// 		[
+			// 			10.0,
+			// 			-4.296879
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_JumpBoard_04",
+			// 	"vertex": [
+			// 		[
+			// 			140.0,
+			// 			-57.096879
+			// 		],
+			// 		[
+			// 			160.0,
+			// 			-57.096879
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 20.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.0,
+			// 			-4.296879
+			// 		],
+			// 		[
+			// 			10.0,
+			// 			-4.296879
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -78667,41 +73793,41 @@ var hdrStages = [
 		"name": "Super Happy Tree",
 		"lvd": "yoshi_story_00",
 		"collisions": [
-			{
-				"name": "COL_Floor4",
-				"vertex": [
-					[
-						-0.0018499999999974648,
-						-100.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-100.000259507942
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-100.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-100.000259507942
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_Floor4",
+			// 	"vertex": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-100.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-100.000259507942
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-100.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-100.000259507942
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_Floor5",
 				"vertex": [
@@ -78865,69 +73991,69 @@ var hdrStages = [
 			}
 		],
 		"platforms": [
-			{
-				"name": "COL_Floor1",
-				"vertex": [
-					[
-						-0.0018499999999974648,
-						-0.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-0.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-0.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-0.000259507942
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cardboard"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cardboard"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cardboard"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-0.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-0.000259507942
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_Floor1",
+			// 	"vertex": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-0.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-0.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-0.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-0.000259507942
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Cardboard"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Cardboard"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Cardboard"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-0.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-0.000259507942
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_Floor2",
 				"vertex": [
@@ -79068,41 +74194,41 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_CloudR2",
-				"vertex": [
-					[
-						246.011761,
-						-10.000259507942
-					],
-					[
-						246.011761,
-						-10.000259507942
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Cloud"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.0018499999999974648,
-						-0.000259507942
-					],
-					[
-						-0.0018499999999974648,
-						-0.000259507942
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_CloudR2",
+			// 	"vertex": [
+			// 		[
+			// 			246.011761,
+			// 			-10.000259507942
+			// 		],
+			// 		[
+			// 			246.011761,
+			// 			-10.000259507942
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Cloud"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-0.000259507942
+			// 		],
+			// 		[
+			// 			-0.0018499999999974648,
+			// 			-0.000259507942
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-240.00185,
@@ -79906,986 +75032,986 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_FloatingIsland02",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 125,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 122,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 136,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 294,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 287,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			},
-			{
-				"name": "COL_00_FloatingIsland03",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 107,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 135,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 119,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 171,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 93,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 103,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 87,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 92,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 92,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 346,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 296,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 330,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 273,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 281,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 285,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 247,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 238,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			},
-			{
-				"name": "COL_00_FloatingIsland04",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 118,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 63,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 66,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 66,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 358,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 310,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 340,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 218,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 223,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 202,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			},
-			{
-				"name": "COL_00_FloatingIsland05",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 271,
-						"length": 0.0,
-						"ceiling": true,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 201,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 250,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 179,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 293,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 338,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": true,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_FloatingIsland02",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 181,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 181,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 125,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 122,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 136,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 294,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 287,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_FloatingIsland03",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 179,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 107,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 135,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 119,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 171,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 93,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 103,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 87,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 92,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 92,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 346,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 296,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 330,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 273,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 281,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 285,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 270,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 247,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 238,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_FloatingIsland04",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 179,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 118,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 63,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 66,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 66,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 358,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 310,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 340,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 271,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 218,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 223,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 202,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_FloatingIsland05",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 271,
+			// 			"length": 0.0,
+			// 			"ceiling": true,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 201,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 250,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 179,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": true,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 0,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 293,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 338,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": true,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -80951,76 +76077,76 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_Platform02_through",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			},
-			{
-				"name": "COL_00_Platform03_through",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			},
+			// {
+			// 	"name": "COL_00_Platform02_through",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 89,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Platform03_through",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// },
 			{
 				"name": "COL_00_Platform04_through",
 				"vertex": [
@@ -81056,111 +76182,111 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_Platform05_through",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 77,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			},
-			{
-				"name": "COL_00_Platform06_through",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			},
-			{
-				"name": "COL_00_Platform07_through",
-				"vertex": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Rock"
-					}
-				],
-				"boundingBox": [
-					[
-						29.93336105,
-						-22.4975128
-					],
-					[
-						29.93336105,
-						-22.4975128
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_Platform05_through",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 77,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Platform06_through",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Platform07_through",
+			// 	"vertex": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Rock"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		],
+			// 		[
+			// 			29.93336105,
+			// 			-22.4975128
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-204.06663895,
@@ -81978,1123 +77104,6 @@ var hdrStages = [
 			[
 				51.775825499999996,
 				83.0
-			]
-		],
-		"items": []
-	},
-	{
-		controversial: 1,
-		"stage": "Umbra Clock Tower",
-		"name": "Umbra Clock Tower",
-		"lvd": "umbra_f00",
-		"collisions": [
-			{
-				"name": "COL_00_Floor01",
-				"vertex": [
-					[
-						-50.9123191,
-						-38.8641167
-					],
-					[
-						-51.033161099999994,
-						-38.83252
-					],
-					[
-						-77.149715,
-						-32.0035324
-					],
-					[
-						-89.57012929999999,
-						-17.79734
-					],
-					[
-						-92.555725,
-						-0.131992877
-					],
-					[
-						-85.534945,
-						-0.131992877
-					],
-					[
-						-44.945615,
-						-0.131992877
-					],
-					[
-						-39.9384879,
-						-1.7963953
-					],
-					[
-						24.533939500000002,
-						-1.7963953
-					],
-					[
-						28.902137900000007,
-						-0.131213859
-					],
-					[
-						62.444275000000005,
-						-0.131213859
-					],
-					[
-						67.444275,
-						-0.131213859
-					],
-					[
-						67.444275,
-						-1.99433565
-					],
-					[
-						65.03127500000001,
-						-8.289019
-					],
-					[
-						20.820535000000007,
-						-18.1044979
-					],
-					[
-						-40.30150019999999,
-						-25.5303535
-					],
-					[
-						-50.9123191,
-						-38.8641167
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 256,
-						"length": 0.124904618,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 256,
-						"length": 26.9946156,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 222,
-						"length": 18.8701534,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 190,
-						"length": 17.9158669,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 7.02078247,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 40.58933,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 71,
-						"length": 5.276509,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 64.47243,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 110,
-						"length": 4.67482471,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 33.5421371,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 5.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 1.86312175,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 340,
-						"length": 6.74133635,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 283,
-						"length": 45.2872276,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 277,
-						"length": 61.5714722,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 322,
-						"length": 17.0405025,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-92.555725,
-						-38.8641167
-					],
-					[
-						67.444275,
-						-0.131213859
-					]
-				]
-			},
-			{
-				"name": "COL_curve5",
-				"vertex": [
-					[
-						340.378175,
-						-35.23318
-					],
-					[
-						340.378021,
-						-29.624651
-					],
-					[
-						345.591156,
-						-29.624651
-					],
-					[
-						399.591156,
-						-29.624651
-					],
-					[
-						404.991699,
-						-29.624651
-					],
-					[
-						404.991699,
-						-34.4971352
-					],
-					[
-						384.410126,
-						-45.59821
-					],
-					[
-						370.635742,
-						-45.558506
-					],
-					[
-						340.378175,
-						-35.23318
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 181,
-						"length": 5.60853,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 5.213135,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 54.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 5.400543,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 0,
-						"length": 4.872484,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 299,
-						"length": 23.3845043,
-						"ceiling": false,
-						"wall": true,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 270,
-						"length": 13.7744408,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 252,
-						"length": 31.9708118,
-						"ceiling": true,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-45.25897499999999,
-						-14.8602085
-					],
-					[
-						19.354717400000006,
-						1.11335015
-					]
-				]
-			},
-			{
-				"name": "COL_curve16",
-				"vertex": [
-					[
-						-404.991699,
-						-111.913979
-					],
-					[
-						-399.778525,
-						-111.913979
-					],
-					[
-						-326.901001,
-						-111.913979
-					],
-					[
-						-321.500488,
-						-111.913979
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 5.21316528,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 72.87753,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 5.4005127,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-54.28646079999999,
-						1.08601975
-					],
-					[
-						29.204757800000003,
-						1.08601975
-					]
-				]
-			}
-		],
-		"platforms": [
-			{
-				"name": "COL_curve1",
-				"vertex": [
-					[
-						-51.965115,
-						500.0
-					],
-					[
-						18.172542700000005,
-						500.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-51.01871499999999,
-						2.20376251e-09
-					],
-					[
-						19.118942400000005,
-						2.20376251e-09
-					]
-				]
-			},
-			{
-				"name": "COL_curve3",
-				"vertex": [
-					[
-						85.47581500000001,
-						-719.9704
-					],
-					[
-						85.92141500000001,
-						-719.9704
-					],
-					[
-						125.46937500000001,
-						-719.9704
-					],
-					[
-						126.21301300000002,
-						-719.9704
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-34.5241889,
-						0.0295879915
-					],
-					[
-						6.213009000000003,
-						0.0295879915
-					]
-				]
-			},
-			{
-				"name": "COL_curve15",
-				"vertex": [
-					[
-						-150.744202,
-						-720.0
-					],
-					[
-						-149.488312,
-						-720.0
-					],
-					[
-						-114.88847299999999,
-						-720.0
-					],
-					[
-						-113.44929499999999,
-						-720.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-30.744203499999994,
-						0.0
-					],
-					[
-						6.550703100000003,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve2",
-				"vertex": [
-					[
-						-648.793725,
-						299.901581
-					],
-					[
-						-648.556274,
-						299.901581
-					],
-					[
-						-577.513367,
-						299.90274
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-48.793682,
-						-0.0984157845
-					],
-					[
-						22.486652500000005,
-						-0.0972713754
-					]
-				]
-			},
-			{
-				"name": "COL_curve9",
-				"vertex": [
-					[
-						-8.599389999999996,
-						600.0
-					],
-					[
-						-7.3148325899999955,
-						600.0
-					],
-					[
-						41.682435000000005,
-						600.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-38.59938989999999,
-						-2.27373675e-13
-					],
-					[
-						11.682432300000006,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_curve6",
-				"vertex": [
-					[
-						-19.988496679999997,
-						683.872864
-					],
-					[
-						50.057945000000004,
-						683.8507
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-46.911395,
-						-0.149291992
-					],
-					[
-						23.135045000000005,
-						-0.127118766
-					]
-				]
-			},
-			{
-				"name": "COL_curve17",
-				"vertex": [
-					[
-						313.552826,
-						484.0
-					],
-					[
-						354.83383200000003,
-						484.0
-					],
-					[
-						356.778046,
-						484.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-36.447170199999995,
-						-1.13686838e-13
-					],
-					[
-						6.778035000000006,
-						-5.684342e-14
-					]
-				]
-			},
-			{
-				"name": "COL_curve7",
-				"vertex": [
-					[
-						320.6008,
-						-1068.11658
-					],
-					[
-						521.128275,
-						-1068.13879
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-112.39919499999999,
-						-0.138793945
-					],
-					[
-						88.128288,
-						-0.116620727
-					]
-				]
-			},
-			{
-				"name": "COL_curve8",
-				"vertex": [
-					[
-						-534.165125,
-						-947.1722
-					],
-					[
-						-336.389007,
-						-947.194336
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 89,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-109.1651,
-						-0.194335938
-					],
-					[
-						88.611,
-						-0.172162712
-					]
-				]
-			},
-			{
-				"name": "COL_curve11",
-				"vertex": [
-					[
-						85.8441392,
-						428.0
-					],
-					[
-						87.09861000000001,
-						428.0
-					],
-					[
-						126.781464,
-						428.0
-					],
-					[
-						128.45639,
-						428.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-36.1558608,
-						0.0
-					],
-					[
-						6.456388600000004,
-						5.684342e-14
-					]
-				]
-			},
-			{
-				"name": "COL_curve12",
-				"vertex": [
-					[
-						293.014649,
-						480.0
-					],
-					[
-						329.749175,
-						480.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-32.985364999999994,
-						5.684342e-14
-					],
-					[
-						3.749178000000004,
-						1.13686838e-13
-					]
-				]
-			},
-			{
-				"name": "COL_curve13",
-				"vertex": [
-					[
-						-58.6884307,
-						705.7847
-					],
-					[
-						32.669915,
-						705.7847
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-58.6884307,
-						-0.2152788
-					],
-					[
-						32.669915,
-						-0.2152788
-					]
-				]
-			},
-			{
-				"name": "COL_curve14",
-				"vertex": [
-					[
-						-320.014496,
-						480.0804
-					],
-					[
-						-280.237152,
-						480.0804
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Brick"
-					}
-				],
-				"boundingBox": [
-					[
-						-33.28449809999999,
-						0.08040578
-					],
-					[
-						6.492870400000005,
-						0.08040578
-					]
-				]
-			}
-		],
-		"blast_zones": [
-			-262.555725,
-			237.444275,
-			192.0,
-			-138.0
-		],
-		"camera": [
-			-182.555725,
-			157.444275,
-			130.0,
-			-80.0
-		],
-		"center": [
-			0.0,
-			1.11335015
-		],
-		"spawns": [
-			[
-				-67.755725,
-				0.0
-			],
-			[
-				42.64427500000001,
-				0.0
-			],
-			[
-				-26.555724999999995,
-				0.0
-			],
-			[
-				1.4442750000000046,
-				0.0
-			],
-			[
-				-46.955724999999994,
-				0.0
-			],
-			[
-				21.844275000000003,
-				0.0
-			],
-			[
-				-88.555725,
-				0.0
-			],
-			[
-				63.444275000000005,
-				0.0
-			]
-		],
-		"respawns": [
-			[
-				-12.555724999999995,
-				76.095
-			],
-			[
-				23.444275000000005,
-				76.095
-			],
-			[
-				-48.555724999999995,
-				76.095
-			],
-			[
-				59.444275000000005,
-				76.095
-			],
-			[
-				-30.555724999999995,
-				99.829
-			],
-			[
-				5.444275000000005,
-				99.829
-			],
-			[
-				-66.555725,
-				99.829
-			],
-			[
-				41.444275000000005,
-				99.829
 			]
 		],
 		"items": []
@@ -84493,7 +78502,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "Wii Fit Studio",
+		"stage": "Wii Fit Studio*",
 		"name": "Wii Fit Studio",
 		"lvd": "wiifit00",
 		"collisions": [
@@ -84784,7 +78793,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "Wily Castle",
+		"stage": "Wily Castle*",
 		"name": "Wily Castle",
 		"lvd": "wily_00",
 		"collisions": [
@@ -84880,6 +78889,7 @@ var hdrStages = [
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_B_MovingPlatformL",
 				"vertex": [
 					[
@@ -84943,6 +78953,7 @@ var hdrStages = [
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_B_MovingPlatformR",
 				"vertex": [
 					[
@@ -85006,6 +79017,7 @@ var hdrStages = [
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_B_L_MovingPlatform",
 				"vertex": [
 					[
@@ -85041,6 +79053,7 @@ var hdrStages = [
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_B_R_MovingPlatform",
 				"vertex": [
 					[
@@ -86719,321 +80732,321 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_Windmill_Platform01_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			},
-			{
-				"name": "COL_00_Windmill_Platform02_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			},
-			{
-				"name": "COL_00_Windmill_Platform03_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			},
-			{
-				"name": "COL_00_Windmill_Platform04_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			},
-			{
-				"name": "COL_00_Windmill_Platform05_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			},
-			{
-				"name": "COL_00_Windmill_Platform06_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			},
-			{
-				"name": "COL_00_Windmill_Platform07_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			},
-			{
-				"name": "COL_00_Windmill_Platform08_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			},
-			{
-				"name": "COL_00_Windmill_Platform09_thro",
-				"vertex": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 0.0,
-						"ceiling": false,
-						"wall": false,
-						"material": "Wood"
-					}
-				],
-				"boundingBox": [
-					[
-						-0.29813500000000204,
-						-10.5513878
-					],
-					[
-						-0.29813500000000204,
-						-10.5513878
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_Windmill_Platform01_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Windmill_Platform02_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Windmill_Platform03_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Windmill_Platform04_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Windmill_Platform05_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Windmill_Platform06_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Windmill_Platform07_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Windmill_Platform08_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_Windmill_Platform09_thro",
+			// 	"vertex": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 0.0,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Wood"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		],
+			// 		[
+			// 			-0.29813500000000204,
+			// 			-10.5513878
+			// 		]
+			// 	]
+			// }
 		],
 		"blast_zones": [
 			-237.798135,
@@ -87123,7 +81136,7 @@ var hdrStages = [
 	},
 	{
 		controversial: 1,
-		"stage": "Wuhu Island",
+		"stage": "Wuhu Island*",
 		"name": "Wuhu Island",
 		"lvd": "wufu_00",
 		"collisions": [
@@ -87131,63 +81144,63 @@ var hdrStages = [
 				"name": "COL_00_Platform011",
 				"vertex": [
 					[
-						-51.70565,
+						-103.99998049999999,
 						-122.654671
 					],
 					[
-						-47.621535900000005,
+						-99.9158664,
 						-124.433746
 					],
 					[
-						-19.929250000000003,
+						-72.2235805,
 						-135.0
 					],
 					[
-						124.51795000000001,
+						72.22361950000001,
 						-135.0
 					],
 					[
-						152.21023590000001,
+						99.91590540000001,
 						-124.433746
 					],
 					[
-						156.29435,
+						104.00001950000001,
 						-122.654671
 					],
 					[
-						156.883011,
+						104.58868050000001,
 						-124.977333
 					],
 					[
-						131.81795,
+						79.5236195,
 						-140.0
 					],
 					[
-						114.29435000000001,
+						62.0000195,
 						-162.0
 					],
 					[
-						96.29435000000001,
+						44.0000195,
 						-174.5
 					],
 					[
-						8.294350000000001,
+						-43.9999805,
 						-174.5
 					],
 					[
-						-9.705649999999999,
+						-61.9999805,
 						-162.0
 					],
 					[
-						-27.22925,
+						-79.52358050000001,
 						-140.0
 					],
 					[
-						-52.29435,
+						-104.58868050000001,
 						-124.977333
 					],
 					[
-						-51.70565,
+						-103.99998049999999,
 						-122.654671
 					]
 				],
@@ -87335,11 +81348,11 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						-52.29435,
+						-104.58868050000001,
 						-39.5
 					],
 					[
-						156.883011,
+						104.58868050000001,
 						12.3453312
 					]
 				]
@@ -87350,11 +81363,11 @@ var hdrStages = [
 				"name": "COL_00_Platform02_through",
 				"vertex": [
 					[
-						25.29561,
+						-26.9987205,
 						-105.507889
 					],
 					[
-						79.29309,
+						26.998759500000002,
 						-105.507889
 					]
 				],
@@ -87372,25 +81385,25 @@ var hdrStages = [
 				],
 				"boundingBox": [
 					[
-						25.29561,
+						-26.9987205,
 						29.4921074
 					],
 					[
-						79.29309,
+						26.998759500000002,
 						29.4921074
 					]
 				]
 			}
 		],
 		"blast_zones": [
-			-187.70565,
-			292.29435,
+			-239.9999805,
+			240.0000195,
 			190.0,
 			-117.0
 		],
 		"camera": [
-			-117.70564999999999,
-			222.29435,
+			-169.9999805,
+			170.0000195,
 			151.0,
 			-59.0
 		],
@@ -87400,76 +81413,76 @@ var hdrStages = [
 		],
 		"spawns": [
 			[
-				-30.20565,
+				-82.49998049999999,
 				5.60940266
 			],
 			[
-				134.79435,
+				82.50001950000001,
 				5.609404
 			],
 			[
-				24.79435,
+				-27.4999805,
 				0.173927248
 			],
 			[
-				79.79435000000001,
+				27.5000195,
 				0.173927248
 			],
 			[
-				108.29435000000001,
+				56.0000195,
 				0.699662745
 			],
 			[
-				-3.7056499999999986,
+				-55.9999805,
 				0.699662745
 			],
 			[
-				37.367657,
+				-14.9266735,
 				28.90073
 			],
 			[
-				67.29435000000001,
+				15.0000195,
 				28.90073
 			]
 		],
 		"respawns": [
 			[
-				52.29435,
+				1.9500000000505224e-05,
 				80.0
 			],
 			[
-				88.29435000000001,
+				36.0000195,
 				80.0
 			],
 			[
-				16.29435,
+				-35.9999805,
 				80.0
 			],
 			[
-				124.29435000000001,
+				72.00001950000001,
 				80.0
 			],
 			[
-				71.5774826,
+				19.2831521,
 				100.0
 			],
 			[
-				34.439854,
+				-17.8544765,
 				100.0
 			],
 			[
-				105.60073,
+				53.3063995,
 				100.0
 			],
 			[
-				-2.7284700000000015,
+				-55.0228005,
 				100.0
 			]
 		],
 		"items": []
 	},
 	{
-		"stage": "Yggdrasil's Altar*",
+		"stage": "Yggdrasil's Altar",
 		"name": "Yggdrasil's Altar",
 		"lvd": "brave_altar_00",
 		"collisions": [
@@ -87793,7 +81806,7 @@ var hdrStages = [
 		"items": []
 	},
 	{
-		"stage": "Yggdrasil's Altar (1)",
+		"stage": "Yggdrasil's Altar (1)*",
 		"name": "Yggdrasil's Altar",
 		"lvd": "brave_altar_01",
 		"collisions": [
@@ -88057,6 +82070,7 @@ var hdrStages = [
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_Safety01",
 				"vertex": [
 					[
@@ -88246,6 +82260,7 @@ var hdrStages = [
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_Safety02",
 				"vertex": [
 					[
@@ -88435,6 +82450,7 @@ var hdrStages = [
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_Safety03",
 				"vertex": [
 					[
@@ -88624,6 +82640,7 @@ var hdrStages = [
 				]
 			},
 			{
+				"nocalc": 1,
 				"name": "COL_00_Safety04",
 				"vertex": [
 					[
@@ -89509,104 +83526,104 @@ var hdrStages = [
 					]
 				]
 			},
-			{
-				"name": "COL_00_GimmickPlatform02_throug",
-				"vertex": [
-					[
-						-10.72337795,
-						0.0
-					],
-					[
-						-6.27748395,
-						0.0
-					],
-					[
-						8.86904805,
-						0.0
-					],
-					[
-						11.77662205,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": true,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 4.445894,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 15.1465321,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					},
-					{
-						"leftLedge": false,
-						"rightLedge": true,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 2.9075737,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.72337795,
-						0.0
-					],
-					[
-						11.77662205,
-						0.0
-					]
-				]
-			},
-			{
-				"name": "COL_00_GimmickPlatform03_throug",
-				"vertex": [
-					[
-						-10.72337795,
-						0.0
-					],
-					[
-						11.77662205,
-						0.0
-					]
-				],
-				"materials": [
-					{
-						"leftLedge": false,
-						"rightLedge": false,
-						"noWallJump": false,
-						"passthroughAngle": 90,
-						"length": 22.5,
-						"ceiling": false,
-						"wall": false,
-						"material": "Basic"
-					}
-				],
-				"boundingBox": [
-					[
-						-10.72337795,
-						0.0
-					],
-					[
-						11.77662205,
-						0.0
-					]
-				]
-			}
+			// {
+			// 	"name": "COL_00_GimmickPlatform02_throug",
+			// 	"vertex": [
+			// 		[
+			// 			-10.72337795,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			-6.27748395,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			8.86904805,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			11.77662205,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": true,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 4.445894,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 15.1465321,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		},
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": true,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 2.9075737,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.72337795,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			11.77662205,
+			// 			0.0
+			// 		]
+			// 	]
+			// },
+			// {
+			// 	"name": "COL_00_GimmickPlatform03_throug",
+			// 	"vertex": [
+			// 		[
+			// 			-10.72337795,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			11.77662205,
+			// 			0.0
+			// 		]
+			// 	],
+			// 	"materials": [
+			// 		{
+			// 			"leftLedge": false,
+			// 			"rightLedge": false,
+			// 			"noWallJump": false,
+			// 			"passthroughAngle": 90,
+			// 			"length": 22.5,
+			// 			"ceiling": false,
+			// 			"wall": false,
+			// 			"material": "Basic"
+			// 		}
+			// 	],
+			// 	"boundingBox": [
+			// 		[
+			// 			-10.72337795,
+			// 			0.0
+			// 		],
+			// 		[
+			// 			11.77662205,
+			// 			0.0
+			// 		]
+			// 	]
+			// }
 		],
 		"platforms": [
 			{
@@ -89993,10 +84010,10 @@ var hdrStages = [
 						12.75,
 						-220.3
 					],
-					[
-						259.25,
-						-220.3
-					]
+					// [
+					// 	259.25,
+					// 	-220.3
+					// ]
 				],
 				"materials": [
 					{

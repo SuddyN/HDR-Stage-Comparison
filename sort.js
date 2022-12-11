@@ -82,12 +82,15 @@ function blastzoneHeight(stage) {
 }
 
 function stageLeft(stage) {
-	var most = 0;
+	var most = Number.MAX_VALUE;
 
-	for (var i = 0; i < stage.collisions.length; i++) {
-		for (var j = 0; j < stage.collisions[i].vertex.length; j++) {
-			if (stage.collisions[i].vertex[j][0] < most && !stage.collisions[i].nocalc) {
-				most = stage.collisions[i].vertex[j][0];
+	for (var collision of stage.collisions) {
+		if (collision.nocalc) {
+			continue;
+		}
+		for (var vertex of collision.vertex) {
+			if (vertex[0] < most) {
+				most = vertex[0]
 			}
 		}
 	}
@@ -96,12 +99,15 @@ function stageLeft(stage) {
 }
 
 function stageRight(stage) {
-	var most = 0;
+	var most = Number.MIN_VALUE;
 
-	for (var i = 0; i < stage.collisions.length; i++) {
-		for (var j = 0; j < stage.collisions[i].vertex.length; j++) {
-			if (stage.collisions[i].vertex[j][0] > most && stage.collisions[i].vertex[j][1] > stage.camera[3] && !stage.collisions[i].nocalc) {
-				most = stage.collisions[i].vertex[j][0];
+	for (var collision of stage.collisions) {
+		if (collision.nocalc) {
+			continue;
+		}
+		for (var vertex of collision.vertex) {
+			if (vertex[0] > most) {
+				most = vertex[0]
 			}
 		}
 	}
@@ -110,12 +116,15 @@ function stageRight(stage) {
 }
 
 function stageTop(stage) {
-	var most = 0;
+	var most = Number.MIN_VALUE;
 
-	for (var i = 0; i < stage.collisions.length; i++) {
-		for (var j = 0; j < stage.collisions[i].vertex.length; j++) {
-			if (stage.collisions[i].vertex[j][1] > most && stage.collisions[i].vertex[j][1] > stage.camera[3] && !stage.collisions[i].nocalc) {
-				most = stage.collisions[i].vertex[j][1];
+	for (var collision of stage.collisions) {
+		if (collision.nocalc) {
+			continue;
+		}
+		for (var vertex of collision.vertex) {
+			if (vertex[1] > most) {
+				most = vertex[1]
 			}
 		}
 	}
