@@ -97,7 +97,11 @@ function makeStageList(e) {
 	}
 
 	if (!e) {
-		hdrStages[0].checked = true;
+		for (var stage of hdrStages) {
+			if (stage.stage == "Final Destination") {
+				stage.checked = true;
+			}
+		}
 	}
 
 	const controversialCheckboxElement = document.getElementById("controversialCheckbox");
