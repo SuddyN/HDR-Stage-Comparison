@@ -84684,5 +84684,400 @@ var hdrStages = [
 			]
 		],
 		"items": []
+	},
+	{
+		"stage": "Deadline",
+		"name": "Deadline",
+		"lvd": "bossstage_final3_00",
+		"collisions": [
+			{
+				"name": "COL_00_Floor",
+				"vertex": [
+					[
+						41.4161568,
+						-40.1134148
+					],
+					[
+						-41.3962,
+						-40.0943222
+					],
+					[
+						-64.39471,
+						-25.1063442
+					],
+					[
+						-80.0,
+						-8.3188715
+					],
+					[
+						-80.0,
+						0.00491502136
+					],
+					[
+						-74.9856,
+						0.00491502136
+					],
+					[
+						74.9893,
+						0.00491502136
+					],
+					[
+						79.9893,
+						0.00491502136
+					],
+					[
+						80.0,
+						-8.314058
+					],
+					[
+						64.38729,
+						-25.09845
+					],
+					[
+						41.4161568,
+						-40.1134148
+					]
+				],
+				"materials": [
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 270,
+						"length": 82.812355,
+						"ceiling": true,
+						"wall": false,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 237,
+						"length": 27.4512463,
+						"ceiling": false,
+						"wall": true,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 223,
+						"length": 22.920393,
+						"ceiling": false,
+						"wall": true,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 180,
+						"length": 8.323787,
+						"ceiling": false,
+						"wall": true,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": true,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.01439667,
+						"ceiling": false,
+						"wall": false,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 149.974915,
+						"ceiling": false,
+						"wall": false,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": true,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 5.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 0,
+						"length": 8.31898,
+						"ceiling": false,
+						"wall": true,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 318,
+						"length": 22.9231873,
+						"ceiling": false,
+						"wall": true,
+						"material": "Basic"
+					},
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 304,
+						"length": 27.4430714,
+						"ceiling": false,
+						"wall": true,
+						"material": "Basic"
+					}
+				],
+				"boundingBox": [
+					[
+						-80.0,
+						-40.00707
+					],
+					[
+						80.0,
+						0.111259505
+					]
+				]
+			}
+		],
+		"platforms": [
+			{
+				"name": "COL_00_Platform01_through",
+				"vertex": [
+					[
+						32.76378,
+						24.1165924
+					],
+					[
+						67.23243,
+						24.1165924
+					]
+				],
+				"materials": [
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 0.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Basic"
+					}
+				],
+				"boundingBox": [
+					[
+						32.76378,
+						24.1165924
+					],
+					[
+						67.23243,
+						24.1165924
+					]
+				]
+			},
+			{
+				"name": "COL_00_Platform02_through",
+				"vertex": [
+					[
+						-67.23243,
+						24.1165924
+					],
+					[
+						-32.76378,
+						24.1165924
+					]
+				],
+				"materials": [
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 0.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Basic"
+					}
+				],
+				"boundingBox": [
+					[
+						-67.23243,
+						24.1165924
+					],
+					[
+						-32.76378,
+						24.1165924
+					]
+				]
+			},
+			{
+				"name": "COL_00_Platform03_through",
+				"vertex": [
+					[
+						-47.23243,
+						47.1165924
+					],
+					[
+						-12.76378,
+						47.1165924
+					]
+				],
+				"materials": [
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 90,
+						"length": 0.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Basic"
+					}
+				],
+				"boundingBox": [
+					[
+						-47.23243,
+						47.1165924
+					],
+					[
+						-12.76378,
+						47.1165924
+					]
+				]
+			},
+			{
+				"name": "COL_00_Platform04_through",
+				"vertex": [
+					[
+						12.76378,
+						47.1165924
+					],
+					[
+						47.23243,
+						47.1165924
+					]
+				],
+				"materials": [
+					{
+						"leftLedge": false,
+						"rightLedge": false,
+						"noWallJump": false,
+						"passthroughAngle": 89,
+						"length": 0.0,
+						"ceiling": false,
+						"wall": false,
+						"material": "Basic"
+					}
+				],
+				"boundingBox": [
+					[
+						12.76378,
+						47.1165924
+					],
+					[
+						47.23243,
+						47.1165924
+					]
+				]
+			}
+		],
+		"blast_zones": [
+			-230.0,
+			230.0,
+			180.0,
+			-140.0
+		],
+		"camera": [
+			-170.0,
+			170.0,
+			130.0,
+			-75.0
+		],
+		"center": [
+			0.0,
+			0.111259505
+		],
+		"spawns": [
+			[
+				-49.9981,
+				24.3
+			],
+			[
+				49.9981,
+				24.3
+			],
+			[
+				-49.9981,
+				0.00465551624
+			],
+			[
+				49.9981,
+				0.00465551624
+			],
+			[
+				-29.9981,
+				45.3
+			],
+			[
+				29.9981,
+				45.3
+			],
+			[
+				-20.0,
+				0.00465551624
+			],
+			[
+				20.0,
+				0.00465551624
+			]
+		],
+		"respawns": [
+			[
+				-25.0,
+				73.0
+			],
+			[
+				5.0,
+				73.0
+			],
+			[
+				-55.0,
+				73.0
+			],
+			[
+				35.0,
+				73.0
+			],
+			[
+				-40.0,
+				88.0
+			],
+			[
+				-10.0,
+				88.0
+			],
+			[
+				20.0,
+				88.0
+			],
+			[
+				50.0,
+				88.0
+			]
+		],
+		"items": []
 	}
 ]
