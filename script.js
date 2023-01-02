@@ -38,34 +38,110 @@ function stageCenter(stage) {
 	return [x, y];
 }
 
+function isVertexOutOfBounds(stage, vertex) {
+	const bounds = [stage.blast_zones[0], stage.blast_zones[1], stage.blast_zones[2], stage.blast_zones[3]];
+	if (vertex[0] < bounds[0] || vertex[0] > bounds[1] || vertex[1] > bounds[2] || vertex[1] < bounds[3]) {
+		return true;
+	}
+	return false;
+}
+
+function isBoundingBoxOutOfBounds(stage, boundingBox) {
+	if (isVertexOutOfBounds(stage, boundingBox[0]) && isVertexOutOfBounds(stage, boundingBox[1])) {
+		return true;
+	}
+	return false;
+}
+
+function clampVertex(stage, vertex) {
+	const bounds = [stage.blast_zones[0], stage.blast_zones[1], stage.blast_zones[2], stage.blast_zones[3]];
+	vertex[0] = Math.min(Math.max(vertex[0], bounds[0]), bounds[1]);
+	vertex[1] = Math.min(Math.max(vertex[1], bounds[3]), bounds[2]);
+	return vertex;
+}
+
+function cleanStages() {
+	const cleanStages = [];
+	for (const stage of hdrStages) {
+
+		const stageBox = [[Number.MAX_VALUE, Number.MAX_VALUE], [Number.MIN_VALUE, Number.MIN_VALUE]];
+		for (const collision of stage.collisions) {
+			// ignore collisions with 0 volume
+			if ((collision.boundingBox[0][0] == collision.boundingBox[1][0] && collision.boundingBox[0][1] == collision.boundingBox[1][1]) || isBoundingBoxOutOfBounds(stage, collision.boundingBox)) {
+				collision.nocalc = true;
+				continue;
+			}
+			stageBox[0][0] = Math.min(stageBox[0][0], collision.boundingBox[0][0]);
+			stageBox[0][1] = Math.min(stageBox[0][1], collision.boundingBox[0][1]);
+			stageBox[1][0] = Math.max(stageBox[1][0], collision.boundingBox[1][0]);
+			stageBox[1][1] = Math.max(stageBox[1][1], collision.boundingBox[1][1]);
+			const vertices = [];
+			for (const vertex of collision.vertex) {
+				vertices.push(clampVertex(stage, vertex));
+			}
+			collision.vertex = vertices;
+		}
+
+		for (const platform of stage.platforms) {
+			// ignore platforms with 0 volume
+			if ((platform.boundingBox[0][0] == platform.boundingBox[1][0] && platform.boundingBox[0][1] == platform.boundingBox[1][1]) || isBoundingBoxOutOfBounds(stage, platform.boundingBox)) {
+				platform.nocalc = true;
+				continue;
+			}
+			const vertices = [];
+			for (const vertex of platform.vertex) {
+				// filter platforms that are entirely contained in the stage
+				if (stageBox[0][0] >= vertex[0] && vertex[0] <= stageBox[1][0] && stageBox[0][1] >= vertex[1] && vertex[1] <= stageBox[1][1]) {
+					continue;
+				}
+				vertices.push(clampVertex(stage, vertex));
+			}
+			platform.vertex = vertices;
+		}
+
+		// filter stage if worthless
+		if (!stage.collisions || stage.collisions.length == 0 || stage.collisions.every(e => e.nocalc) || blackList.includes(stage.stage)) {
+			// remove stage from list
+			continue;
+		}
+
+		if (controversialList.includes(stage.stage)) {
+			stage.controversial = 1;
+		}
+
+		cleanStages.push(stage);
+	}
+	hdrStages = cleanStages;
+}
+
 function moveStagesToCenter() {
-	for (var stage of hdrStages) {
+	for (const stage of hdrStages) {
 		const center = stageCenter(stage);
-		for (var collision of stage.collisions) {
-			for (var vertex of collision.vertex) {
+		for (const collision of stage.collisions) {
+			for (const vertex of collision.vertex) {
 				vertex[0] -= center[0];
 				vertex[1] -= center[1];
 			}
-			for (var vertex of collision.boundingBox) {
-				vertex[0] -= center[0];
-				vertex[1] -= center[1];
-			}
-		}
-		for (var platform of stage.platforms) {
-			for (var vertex of platform.vertex) {
-				vertex[0] -= center[0];
-				vertex[1] -= center[1];
-			}
-			for (var vertex of platform.boundingBox) {
+			for (const vertex of collision.boundingBox) {
 				vertex[0] -= center[0];
 				vertex[1] -= center[1];
 			}
 		}
-		for (var vertex of stage.spawns) {
+		for (const platform of stage.platforms) {
+			for (const vertex of platform.vertex) {
+				vertex[0] -= center[0];
+				vertex[1] -= center[1];
+			}
+			for (const vertex of platform.boundingBox) {
+				vertex[0] -= center[0];
+				vertex[1] -= center[1];
+			}
+		}
+		for (const vertex of stage.spawns) {
 			vertex[0] -= center[0];
 			vertex[1] -= center[1];
 		}
-		for (var vertex of stage.respawns) {
+		for (const vertex of stage.respawns) {
 			vertex[0] -= center[0];
 			vertex[1] -= center[1];
 		}
@@ -85,6 +161,7 @@ function makeStageList(e) {
 	const stageSort = document.getElementById("stageSort");
 	const stagesLength = stagelistDiv?.children.length;
 
+	cleanStages();
 	moveStagesToCenter();
 
 	sort(hdrStages, window[stageSort?.value]);
@@ -97,7 +174,7 @@ function makeStageList(e) {
 	}
 
 	if (!e) {
-		for (var stage of hdrStages) {
+		for (const stage of hdrStages) {
 			if (stage.stage == "Final Destination") {
 				stage.checked = true;
 			}
@@ -283,14 +360,20 @@ function draw() {
 				ctx.setLineDash([]);
 
 				if (getDisplayOption("stage")) {
-					for (var i = 0; i < stage.collisions.length; i++) {
-						drawPath(stage.collisions[i].vertex, hue);
+					for (const collision of stage.collisions) {
+						if (collision.nocalc) {
+							continue;
+						}
+						drawPath(collision.vertex, hue);
 					}
 				}
 
 				if (getDisplayOption("platforms")) {
-					for (var i = 0; i < stage.platforms.length; i++) {
-						drawPath(stage.platforms[i].vertex, hue);
+					for (const platform of stage.platforms) {
+						if (platform.nocalc) {
+							continue;
+						}
+						drawPath(platform.vertex, hue);
 					}
 				}
 			}

@@ -46,7 +46,7 @@ function alphabetical(stage) {
 }
 
 function platformCount(stage) {
-	return stage.platforms.length;
+	return stage.platforms.filter(e => !e.nocalc).length;
 }
 
 function blastzoneLeft(stage) {
@@ -156,6 +156,9 @@ function platformLeft(stage) {
 	var most = 0;
 
 	for (var i = 0; i < stage.platforms.length; i++) {
+		if (stage.platforms[i].nocalc) {
+			continue;
+		}
 		for (var j = 0; j < stage.platforms[i].vertex.length; j++) {
 			if (stage.platforms[i].vertex[j][0] < most) {
 				most = stage.platforms[i].vertex[j][0];
@@ -170,6 +173,9 @@ function platformRight(stage) {
 	var most = 0;
 
 	for (var i = 0; i < stage.platforms.length; i++) {
+		if (stage.platforms[i].nocalc) {
+			continue;
+		}
 		for (var j = 0; j < stage.platforms[i].vertex.length; j++) {
 			if (stage.platforms[i].vertex[j][0] > most) {
 				most = stage.platforms[i].vertex[j][0];
@@ -192,6 +198,9 @@ function platformTop(stage) {
 	var most = 0;
 
 	for (var i = 0; i < stage.platforms.length; i++) {
+		if (stage.platforms[i].nocalc) {
+			continue;
+		}
 		for (var j = 0; j < stage.platforms[i].vertex.length; j++) {
 			if (stage.platforms[i].vertex[j][1] > most) {
 				most = stage.platforms[i].vertex[j][1];
@@ -206,6 +215,9 @@ function platformBottom(stage) {
 	var most = platformTop(stage);
 
 	for (var i = 0; i < stage.platforms.length; i++) {
+		if (stage.platforms[i].nocalc) {
+			continue;
+		}
 		for (var j = 0; j < stage.platforms[i].vertex.length; j++) {
 			if (stage.platforms[i].vertex[j][1] < most) {
 				most = stage.platforms[i].vertex[j][1];
@@ -225,6 +237,7 @@ function stageToPlatformBottom(stage) {
 }
 
 function stageWidth(stage) {
+	console.log(stage.stage, stageRight(stage), stageLeft(stage));
 	return stageRight(stage) - stageLeft(stage);
 }
 
